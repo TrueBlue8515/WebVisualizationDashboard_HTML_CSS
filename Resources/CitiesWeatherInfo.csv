@@ -1,0 +1,7958 @@
+,city,country
+0,vaini,to
+1,mataura,pf
+2,rikitea,pf
+3,punta arenas,cl
+4,ushuaia,ar
+5,hermanus,za
+6,bredasdorp,za
+7,kruisfontein,za
+8,port elizabeth,za
+9,port alfred,za
+10,east london,za
+11,taolanaro,mg
+12,busselton,au
+13,albany,au
+14,new norfolk,au
+15,hobart,au
+16,bluff,nz
+17,kaitangata,nz
+18,cape town,za
+19,avarua,ck
+20,saint-philippe,re
+21,mar del plata,ar
+22,chuy,uy
+23,tsihombe,mg
+24,souillac,mu
+25,tuatapere,nz
+26,cidreira,br
+27,portland,au
+28,mount gambier,au
+29,dunedin,nz
+30,castro,cl
+31,arraial do cabo,br
+32,mahebourg,mu
+33,esperance,au
+34,rocha,uy
+35,umzimvubu,za
+36,necochea,ar
+37,jamestown,sh
+38,rio gallegos,ar
+39,rawson,ar
+40,port lincoln,au
+41,coihaique,cl
+42,comodoro rivadavia,ar
+43,christchurch,nz
+44,plettenberg bay,za
+45,waipawa,nz
+46,viedma,ar
+47,saldanha,za
+48,waitati,nz
+49,wyndham,nz
+50,southbridge,nz
+51,lincoln,nz
+52,laguna,br
+53,margate,za
+54,burnie,au
+55,otautau,nz
+56,milton,nz
+57,rio grande,br
+58,te anau,nz
+59,wanaka,nz
+60,ranfurly,nz
+61,pareora,nz
+62,trelew,ar
+63,fairlie,nz
+64,rakaia,nz
+65,calbuco,cl
+66,san carlos de bariloche,ar
+67,puerto madryn,ar
+68,hokitika,nz
+69,oxford,nz
+70,amberley,nz
+71,seddon,nz
+72,ancud,cl
+73,puerto montt,cl
+74,bambous virieux,mu
+75,warrnambool,au
+76,ulverstone,au
+77,launceston,au
+78,batemans bay,au
+79,ulladulla,au
+80,greymouth,nz
+81,reefton,nz
+82,hanmer springs,nz
+83,wellington,nz
+84,otane,nz
+85,purranque,cl
+86,neuquen,ar
+87,general roca,ar
+88,tres arroyos,ar
+89,westport,nz
+90,karamea,nz
+91,riwaka,nz
+92,havelock,nz
+93,porirua,nz
+94,masterton,nz
+95,takapau,nz
+96,gisborne,nz
+97,valdivia,cl
+98,la union,cl
+99,panguipulli,cl
+100,punta alta,ar
+101,maldonado,uy
+102,victor harbor,au
+103,colac,au
+104,devonport,au
+105,lakes entrance,au
+106,takaka,nz
+107,manaia,nz
+108,wanganui,nz
+109,wairoa,nz
+110,lebu,cl
+111,carahue,cl
+112,nueva imperial,cl
+113,villarrica,cl
+114,santa rosa,ar
+115,bahia blanca,ar
+116,crib point,au
+117,wonthaggi,au
+118,sale,au
+119,kiama,au
+120,okato,nz
+121,new plymouth,nz
+122,piopio,nz
+123,turangi,nz
+124,manutuke,nz
+125,tolaga bay,nz
+126,angol,cl
+127,mulchen,cl
+128,luderitz,na
+129,knysna,za
+130,port shepstone,za
+131,flinders,au
+132,hamilton,au
+133,geelong,au
+134,melbourne,au
+135,warragul,au
+136,cooma,au
+137,nelson bay,au
+138,kawhia,nz
+139,mamaku,nz
+140,whakatane,nz
+141,ruatoria,nz
+142,chiguayante,cl
+143,cabrero,cl
+144,coihueco,cl
+145,olavarria,ar
+146,azul,ar
+147,tandil,ar
+148,dolores,ar
+149,sao joao da barra,br
+150,george,za
+151,richards bay,za
+152,horsham,au
+153,stawell,au
+154,castlemaine,au
+155,craigieburn,au
+156,benalla,au
+157,wodonga,au
+158,port macquarie,au
+159,ahipara,nz
+160,dargaville,nz
+161,muriwai beach,nz
+162,bombay,nz
+163,tairua,nz
+164,matata,nz
+165,avera,pf
+166,talcahuano,cl
+167,tome,cl
+168,parral,cl
+169,linares,cl
+170,san clemente,cl
+171,san rafael,ar
+172,general pico,ar
+173,nueve de julio,ar
+174,veinticinco de mayo,ar
+175,paso de carrasco,uy
+176,santa vitoria do palmar,br
+177,saint-joseph,re
+178,murray bridge,au
+179,swan hill,au
+180,kyabram,au
+181,corowa,au
+182,albury,au
+183,tumut,au
+184,warkworth,nz
+185,whitianga,nz
+186,constitucion,cl
+187,teno,cl
+188,rengo,cl
+189,mercedes,ar
+190,junin,ar
+191,chivilcoy,ar
+192,lujan,ar
+193,la plata,ar
+194,delta del tigre,uy
+195,beloha,mg
+196,geraldton,au
+197,adelaide,au
+198,mount barker,au
+199,mildura,au
+200,deniliquin,au
+201,leeton,au
+202,wagga wagga,au
+203,cootamundra,au
+204,canberra,au
+205,goulburn,au
+206,sydney,au
+207,kerikeri,nz
+208,ngunguru,nz
+209,san antonio,cl
+210,graneros,cl
+211,machali,cl
+212,san luis,ar
+213,rio cuarto,ar
+214,venado tuerto,ar
+215,pergamino,ar
+216,san pedro,ar
+217,zarate,ar
+218,carmelo,uy
+219,nueva helvecia,uy
+220,florida,uy
+221,minas,uy
+222,oranjemund,na
+223,stellenbosch,za
+224,robertson,za
+225,swellendam,za
+226,oudtshoorn,za
+227,scottsburgh,za
+228,collie,au
+229,whyalla,au
+230,port pirie,au
+231,gawler,au
+232,griffith,au
+233,young,au
+234,cowra,au
+235,lithgow,au
+236,kaeo,nz
+237,russell,nz
+238,valparaiso,cl
+239,llaillay,cl
+240,los andes,cl
+241,san martin,ar
+242,bell ville,ar
+243,rosario,ar
+244,villa constitucion,ar
+245,gualeguay,ar
+246,paso de los toros,uy
+247,treinta y tres,uy
+248,jaguarao,br
+249,ceres,za
+250,willowmore,za
+251,kirkwood,za
+252,alice,za
+253,butterworth,za
+254,carnarvon,au
+255,bunbury,au
+256,broken hill,au
+257,forbes,au
+258,parkes,au
+259,orange,au
+260,cessnock,au
+261,newcastle,au
+262,la ligua,cl
+263,salamanca,cl
+264,san juan,ar
+265,alta gracia,ar
+266,rio tercero,ar
+267,villa maria,ar
+268,san francisco,ar
+269,santa fe,ar
+270,parana,ar
+271,concepcion del uruguay,ar
+272,paysandu,uy
+273,tacuarembo,uy
+274,melo,uy
+275,arroio grande,br
+276,palmares do sul,br
+277,vredendal,za
+278,calvinia,za
+279,graaff-reinet,za
+280,middelburg,za
+281,cradock,za
+282,ilinge,za
+283,umtata,za
+284,durban,za
+285,mandurah,au
+286,kwinana,au
+287,perth,au
+288,northam,au
+289,port augusta,au
+290,dubbo,au
+291,mudgee,au
+292,muswellbrook,au
+293,taree,au
+294,sawtell,au
+295,ballina,au
+296,alofi,nu
+297,coquimbo,cl
+298,ovalle,cl
+299,monte patria,cl
+300,la rioja,ar
+301,villa carlos paz,ar
+302,cordoba,ar
+303,rafaela,ar
+304,concordia,ar
+305,salto,uy
+306,artigas,uy
+307,rivera,uy
+308,dom pedrito,br
+309,bage,br
+310,cangucu,br
+311,camaqua,br
+312,tapes,br
+313,imbituba,br
+314,vila velha,br
+315,springbok,za
+316,de aar,za
+317,colesberg,za
+318,burgersdorp,za
+319,dordrecht,za
+320,elliot,za
+321,kokstad,za
+322,narrabri,au
+323,gunnedah,au
+324,tamworth,au
+325,armidale,au
+326,kempsey,au
+327,nambucca heads,au
+328,coffs harbour,au
+329,noumea,nc
+330,vao,nc
+331,la serena,cl
+332,vicuna,cl
+333,reconquista,ar
+334,goya,ar
+335,bella union,uy
+336,uruguaiana,br
+337,alegrete,br
+338,cacequi,br
+339,santa maria,br
+340,cachoeira do sul,br
+341,butia,br
+342,gravatai,br
+343,tramandai,br
+344,torres,br
+345,prieska,za
+346,bloemfontein,za
+347,mafeteng,ls
+348,quthing,ls
+349,thaba-tseka,ls
+350,richmond,za
+351,ballitoville,za
+352,ambovombe,mg
+353,yulara,au
+354,inverell,au
+355,grafton,au
+356,byron bay,au
+357,puerto ayora,ec
+358,vallenar,cl
+359,catamarca,ar
+360,santiago del estero,ar
+361,itaqui,br
+362,sao borja,br
+363,santiago,br
+364,tupancireta,br
+365,ouro fino,br
+366,guapore,br
+367,sao marcos,br
+368,sombrio,br
+369,morro da fumaca,br
+370,warmbad,na
+371,upington,za
+372,ritchie,za
+373,kimberley,za
+374,botshabelo,za
+375,hlotse,ls
+376,mokhotlong,ls
+377,mooi river,za
+378,greytown,za
+379,inhambane,mz
+380,grand river south east,mu
+381,roma,au
+382,moree,au
+383,warwick,au
+384,casino,au
+385,pisco,pe
+386,copiapo,cl
+387,presidencia roque saenz pena,ar
+388,resistencia,ar
+389,san lorenzo,ar
+390,cerrito,py
+391,ayolas,py
+392,posadas,ar
+393,cerro largo,br
+394,santo augusto,br
+395,sarandi,br
+396,tapejara,br
+397,estrela,br
+398,sao joaquim,br
+399,braco do norte,br
+400,florianopolis,br
+401,ilhabela,br
+402,karasburg,na
+403,kathu,za
+404,danielskuil,za
+405,christiana,za
+406,hoopstad,za
+407,hennenman,za
+408,bethlehem,za
+409,harrismith,za
+410,glencoe,za
+411,mondlo,za
+412,ulundi,za
+413,xai-xai,mz
+414,ampanihy,mg
+415,alice springs,au
+416,dalby,au
+417,nerang,au
+418,gold coast,au
+419,marcona,pe
+420,diego de almagro,cl
+421,tucuman,ar
+422,humaita,py
+423,pilar,py
+424,san patricio,py
+425,fram,py
+426,natalio,py
+427,tres passos,br
+428,chapeco,br
+429,videira,br
+430,rio do sul,br
+431,gaspar,br
+432,porto belo,br
+433,sao sebastiao,br
+434,walvis bay,na
+435,bethanien,na
+436,keetmanshoop,na
+437,bokspits,bw
+438,tsabong,bw
+439,kuruman,za
+440,vryburg,za
+441,wolmaranstad,za
+442,viljoenskroon,za
+443,deneysville,za
+444,standerton,za
+445,volksrust,za
+446,piet retief,za
+447,nsoko,sz
+448,maputo,mz
+449,toliary,mg
+450,saint-pierre,re
+451,kingaroy,au
+452,caboolture,au
+453,bongaree,au
+454,victoria point,au
+455,poya,nc
+456,bourail,nc
+457,taltal,cl
+458,formosa,ar
+459,villa oliva,py
+460,ybycui,py
+461,abai,py
+462,naranjal,py
+463,santo antonio do sudoeste,br
+464,francisco beltrao,br
+465,pinhao,br
+466,uniao da victoria,br
+467,mafra,br
+468,joinville,br
+469,pontal do parana,br
+470,cananeia,br
+471,peruibe,br
+472,marica,br
+473,guarapari,br
+474,caravelas,br
+475,werda,bw
+476,mmabatho,za
+477,lichtenburg,za
+478,koster,za
+479,midrand,za
+480,witbank,za
+481,breyten,za
+482,bulembu,sz
+483,mhlume,sz
+484,bengkulu,id
+485,port hedland,au
+486,mount isa,au
+487,emerald,au
+488,gympie,au
+489,coolum beach,au
+490,kawana waters,au
+491,moindou,nc
+492,salta,ar
+493,asuncion,py
+494,arroyos y esteros,py
+495,yhu,py
+496,san alberto,py
+497,matelandia,br
+498,guaraniacu,br
+499,pitanga,br
+500,prudentopolis,br
+501,carambei,br
+502,campina grande do sul,br
+503,iguape,br
+504,guaruja,br
+505,armacao dos buzios,br
+506,henties bay,na
+507,maltahohe,na
+508,mariental,na
+509,aranos,na
+510,hukuntsi,bw
+511,tshane,bw
+512,khakhea,bw
+513,kanye,bw
+514,ramotswa,bw
+515,mogwase,za
+516,siyabuswa,za
+517,lydenburg,za
+518,witrivier,za
+519,komatipoort,za
+520,macia,mz
+521,manjacaze,mz
+522,vangaindrano,mg
+523,hithadhoo,mv
+524,roebourne,au
+525,blackwater,au
+526,biloela,au
+527,bundaberg,au
+528,hervey bay,au
+529,koumac,nc
+530,voh,nc
+531,isangel,vu
+532,antofagasta,cl
+533,calama,cl
+534,jujuy,ar
+535,libertador general san martin,ar
+536,san ramon de la nueva oran,ar
+537,doctor pedro p. pena,py
+538,filadelfia,py
+539,pozo colorado,py
+540,concepcion,py
+541,san pedro de ycuamandiyu,py
+542,lima,py
+543,corpus christi,py
+544,altonia,br
+545,moreira sales,br
+546,barbosa ferraz,br
+547,ortigueira,br
+548,terra roxa,br
+549,itapeva,br
+550,capao bonito,br
+551,juquitiba,br
+552,mangaratiba,br
+553,georgetown,sh
+554,rehoboth,na
+555,kang,bw
+556,dutlwe,bw
+557,letlhakeng,bw
+558,boatlaname,bw
+559,mookane,bw
+560,ellisras,za
+561,potgietersrus,za
+562,tzaneen,za
+563,phalaborwa,za
+564,chokwe,mz
+565,maxixe,mz
+566,betioky,mg
+567,amboasary,mg
+568,farafangana,mg
+569,saint-louis,re
+570,broome,au
+571,gladstone,au
+572,tadine,nc
+573,hualmay,pe
+574,villazon,bo
+575,puerto pinasco,py
+576,horqueta,py
+577,capitan bado,py
+578,amambai,br
+579,navirai,br
+580,loanda,br
+581,colorado,br
+582,sertanopolis,br
+583,cambara,br
+584,avare,br
+585,conchas,br
+586,vinhedo,br
+587,sao jose dos campos,br
+588,cunha,br
+589,niteroi,br
+590,otjimbingwe,na
+591,gobabis,na
+592,manyana,bw
+593,lephepe,bw
+594,mahalapye,bw
+595,mokobeng,bw
+596,mathathane,bw
+597,louis trichardt,za
+598,giyani,za
+599,sakaraha,mg
+600,ihosy,mg
+601,vondrozo,mg
+602,manakara,mg
+603,saint-leu,re
+604,labuhan,id
+605,karratha,au
+606,charters towers,au
+607,rockhampton,au
+608,yeppoon,au
+609,poum,nc
+610,pangai,to
+611,moerai,pf
+612,tocopilla,cl
+613,atocha,bo
+614,tarija,bo
+615,yacuiba,bo
+616,san lazaro,py
+617,san carlos,py
+618,bela vista,br
+619,itapora,br
+620,rio brilhante,br
+621,bataipora,br
+622,presidente venceslau,br
+623,rancharia,br
+624,pompeia,br
+625,bariri,br
+626,ibate,br
+627,aguai,br
+628,pouso alegre,br
+629,caxambu,br
+630,lima duarte,br
+631,sapucaia,br
+632,itaocara,br
+633,arandis,na
+634,karibib,na
+635,okahandja,na
+636,ghanzi,bw
+637,dekar,bw
+638,tsienyane,bw
+639,orapa,bw
+640,moiyabana,bw
+641,serowe,bw
+642,tobane,bw
+643,kobojango,bw
+644,beitbridge,zw
+645,messina,za
+646,chiredzi,zw
+647,chipinge,zw
+648,ankazoabo,mg
+649,beroroha,mg
+650,ambalavao,mg
+651,mananjary,mg
+652,palabuhanratu,id
+653,moranbah,au
+654,mackay,au
+655,bouloupari,nc
+656,yate,nc
+657,acari,pe
+658,camana,pe
+659,iquique,cl
+660,uyuni,bo
+661,santa barbara,bo
+662,camargo,bo
+663,villamontes,bo
+664,boyuibe,bo
+665,mayor pablo lagerenza,py
+666,fuerte olimpo,py
+667,bonito,br
+668,nioaque,br
+669,sidrolandia,br
+670,campo verde,br
+671,ribas do rio pardo,br
+672,tres lagoas,br
+673,mirandopolis,br
+674,buritama,br
+675,catanduva,br
+676,pontal,br
+677,sao sebastiao do paraiso,br
+678,carmo do rio claro,br
+679,santo antonio do amparo,br
+680,carandai,br
+681,uba,br
+682,porciuncula,br
+683,rio novo do sul,br
+684,linhares,br
+685,namibe,ao
+686,khorixas,na
+687,omaruru,na
+688,okakarara,na
+689,sehithwa,bw
+690,mopipi,bw
+691,letlhakane,bw
+692,sebina,bw
+693,francistown,bw
+694,gwanda,zw
+695,zvishavane,zw
+696,beira,mz
+697,quelimane,mz
+698,morondava,mg
+699,ikalamavony,mg
+700,fianarantsoa,mg
+701,nosy varika,mg
+702,mahanoro,mg
+703,saint-paul,re
+704,sainte-rose,re
+705,la gaulette,mu
+706,kununurra,au
+707,kone,nc
+708,canala,nc
+709,we,nc
+710,teahupoo,pf
+711,tautira,pf
+712,ilo,pe
+713,potosi,bo
+714,betanzos,bo
+715,monteagudo,bo
+716,charagua,bo
+717,miranda,br
+718,terenos,br
+719,aparecida do taboado,br
+720,cardoso,br
+721,frutal,br
+722,miguelopolis,br
+723,araxa,br
+724,bambui,br
+725,nova serrana,br
+726,ibirite,br
+727,alvinopolis,br
+728,manhuacu,br
+729,laranja da terra,br
+730,serra,br
+731,conceicao da barra,br
+732,opuwo,na
+733,outjo,na
+734,otavi,na
+735,grootfontein,na
+736,nokaneng,bw
+737,maun,bw
+738,gweta,bw
+739,nata,bw
+740,kalakamati,bw
+741,bulawayo,zw
+742,shurugwi,zw
+743,masvingo,zw
+744,dondo,mz
+745,mocuba,mz
+746,miandrivazo,mg
+747,antsirabe,mg
+748,marolambo,mg
+749,andevoranto,mg
+750,le port,re
+751,sainte-suzanne,re
+752,albion,mu
+753,roches noires,mu
+754,quatre cocos,mu
+755,ayr,au
+756,bowen,au
+757,pouebo,nc
+758,fayaoue,nc
+759,neiafu,to
+760,vaitape,pf
+761,tevaitoa,pf
+762,haapiti,pf
+763,papara,pf
+764,huarmey,pe
+765,arica,cl
+766,poopo,bo
+767,challapata,bo
+768,colquechaca,bo
+769,tarabuco,bo
+770,padilla,bo
+771,abapo,bo
+772,san joaquin,bo
+773,puerto suarez,bo
+774,ladario,br
+775,rio verde de mato grosso,br
+776,camapua,br
+777,cassilandia,br
+778,cacu,br
+779,santa vitoria,br
+780,monte alegre de minas,br
+781,uberlandia,br
+782,patrocinio,br
+783,sao gotardo,br
+784,pompeu,br
+785,curvelo,br
+786,guanhaes,br
+787,governador valadares,br
+788,mantenopolis,br
+789,sao mateus,br
+790,nova vicosa,br
+791,belmonte,br
+792,maceio,br
+793,ongandjera,na
+794,ondangwa,na
+795,tsumeb,na
+796,rundu,na
+797,shakawe,bw
+798,kachikau,bw
+799,pandamatenga,bw
+800,hwange,zw
+801,redcliffe,zw
+802,kwekwe,zw
+803,mvuma,zw
+804,rusape,zw
+805,manica,mz
+806,chimoio,mz
+807,angoche,mz
+808,tsiroanomandidy,mg
+809,arivonimamo,mg
+810,moramanga,mg
+811,toamasina,mg
+812,saint-denis,re
+813,cap malheureux,mu
+814,grand gaube,mu
+815,katherine,au
+816,ngukurr,au
+817,atherton,au
+818,ingham,au
+819,townsville,au
+820,ouegoa,nc
+821,vila,vu
+822,mollendo,pe
+823,tacna,pe
+824,tarata,pe
+825,eucaliptus,bo
+826,oruro,bo
+827,capinota,bo
+828,aiquile,bo
+829,mairana,bo
+830,cotoca,bo
+831,pailon,bo
+832,san jose,bo
+833,puerto quijarro,bo
+834,coxim,br
+835,mineiros,br
+836,jatai,br
+837,santa helena de goias,br
+838,goiatuba,br
+839,buriti alegre,br
+840,catalao,br
+841,vazante,br
+842,joao pinheiro,br
+843,varzea da palma,br
+844,diamantina,br
+845,itamarandiba,br
+846,malacacheta,br
+847,carlos chagas,br
+848,montanha,br
+849,prado,br
+850,eenhana,na
+851,kasane,bw
+852,victoria falls,zw
+853,sinazongwe,zm
+854,kadoma,zw
+855,chegutu,zw
+856,chitungwiza,zw
+857,marondera,zw
+858,nsanje,mw
+859,fenoarivo,mg
+860,ankazobe,mg
+861,anjozorobe,mg
+862,ambodifototra,mg
+863,grand baie,mu
+864,innisfail,au
+865,halalo,wf
+866,hihifo,to
+867,haapu,pf
+868,papetoai,pf
+869,tiarei,pf
+870,atuona,pf
+871,torata,pe
+872,desaguadero,pe
+873,patacamaya,bo
+874,quime,bo
+875,colomi,bo
+876,chimore,bo
+877,mineros,bo
+878,san miguel,bo
+879,san matias,bo
+880,pocone,br
+881,barao de melgaco,br
+882,rondonopolis,br
+883,guiratinga,br
+884,alto araguaia,br
+885,caiaponia,br
+886,ipora,br
+887,palmeiras de goias,br
+888,bela vista de goias,br
+889,orizona,br
+890,paracatu,br
+891,buritizeiro,br
+892,bocaiuva,br
+893,turmalina,br
+894,aracuai,br
+895,aguas formosas,br
+896,itanhem,br
+897,porto seguro,br
+898,santa cruz cabralia,br
+899,coruripe,br
+900,maragogi,br
+901,ondjiva,ao
+902,senanga,zm
+903,sesheke,zm
+904,kalomo,zm
+905,choma,zm
+906,kariba,zw
+907,karoi,zw
+908,bindura,zw
+909,mutoko,zw
+910,tete,mz
+911,mocambique,mz
+912,mahajanga,mg
+913,marovoay,mg
+914,tsaratanana,mg
+915,vohibinany,mg
+916,banjar,id
+917,kawalu,id
+918,srandakan,id
+919,bambanglipuro,id
+920,alyangula,au
+921,mareeba,au
+922,cairns,au
+923,norsup,vu
+924,lakatoro,vu
+925,asau,tv
+926,lalomanu,ws
+927,satitoa,ws
+928,faanui,pf
+929,fare,pf
+930,mahina,pf
+931,san cristobal,ec
+932,corrales,pe
+933,lluta,pe
+934,santa lucia,pe
+935,puno,pe
+936,copacabana,bo
+937,coroico,bo
+938,caranavi,bo
+939,ascension,bo
+940,san javier,bo
+941,san ignacio,bo
+942,caceres,br
+943,santo antonio do leverger,br
+944,jaciara,br
+945,aragarcas,br
+946,itapirapua,br
+947,goias,br
+948,pirenopolis,br
+949,brasilia,br
+950,unai,br
+951,arinos,br
+952,sao francisco,br
+953,sao joao da ponte,br
+954,porteirinha,br
+955,taiobeiras,br
+956,pedra azul,br
+957,itarantim,br
+958,piacabucu,br
+959,lubango,ao
+960,menongue,ao
+961,kalabo,zm
+962,kaoma,zm
+963,namwala,zm
+964,monze,zm
+965,mazabuka,zm
+966,luangwa,zm
+967,mount darwin,zw
+968,thyolo,mw
+969,phalombe,mw
+970,cuamba,mz
+971,nampula,mz
+972,mananara,mg
+973,antalaha,mg
+974,samarai,pg
+975,honiara,sb
+976,kirakira,sb
+977,luganville,vu
+978,saleilua,ws
+979,chicama,pe
+980,chilca,pe
+981,nazca,pe
+982,coracora,pe
+983,orcopampa,pe
+984,ayaviri,pe
+985,azangaro,pe
+986,putina,pe
+987,mapiri,bo
+988,san borja,bo
+989,trinidad,bo
+990,urubicha,bo
+991,pontes e lacerda,br
+992,nova olimpia,br
+993,barra do bugres,br
+994,nobres,br
+995,chapada dos guimaraes,br
+996,barra do garcas,br
+997,mozarlandia,br
+998,rubiataba,br
+999,goianesia,br
+1000,padre bernardo,br
+1001,buritis,br
+1002,januaria,br
+1003,itacarambi,br
+1004,espinosa,br
+1005,sao joao do paraiso,br
+1006,vitoria da conquista,br
+1007,ibicui,br
+1008,ilheus,br
+1009,canavieiras,br
+1010,conde,br
+1011,caluquembe,ao
+1012,caconda,ao
+1013,limulunga,zm
+1014,mumbwa,zm
+1015,chibombo,zm
+1016,chongwe,zm
+1017,nyimba,zm
+1018,katete,zm
+1019,chadiza,zm
+1020,ntcheu,mw
+1021,balaka,mw
+1022,machinga,mw
+1023,boueni,yt
+1024,antsohihy,mg
+1025,bealanana,mg
+1026,boyolangu,id
+1027,ambulu,id
+1028,port keats,au
+1029,sola,vu
+1030,falaleu,wf
+1031,falealupo,ws
+1032,pata,ws
+1033,subtanjalla,pe
+1034,tambo,pe
+1035,abancay,pe
+1036,santo tomas,pe
+1037,sicuani,pe
+1038,macusani,pe
+1039,tambopata,pe
+1040,rurrenabaque,bo
+1041,san ramon,bo
+1042,rolim de moura,br
+1043,vilhena,br
+1044,nortelandia,br
+1045,diamantino,br
+1046,crixas,br
+1047,uruacu,br
+1048,cavalcante,br
+1049,iaciara,br
+1050,posse,br
+1051,correntina,br
+1052,carinhanha,br
+1053,guanambi,br
+1054,livramento,br
+1055,tanhacu,br
+1056,jitauna,br
+1057,marau,br
+1058,salvador,br
+1059,camacari,br
+1060,sao jose da coroa grande,br
+1061,luena,ao
+1062,lukulu,zm
+1063,kabompo,zm
+1064,mufumbwe,zm
+1065,kasempa,zm
+1066,mpongwe,zm
+1067,kapiri mposhi,zm
+1068,mkushi,zm
+1069,petauke,zm
+1070,mchinji,mw
+1071,lilongwe,mw
+1072,monkey bay,mw
+1073,mangochi,mw
+1074,montepuez,mz
+1075,nacala,mz
+1076,fomboni,km
+1077,chirongui,yt
+1078,bandrele,yt
+1079,ambanja,mg
+1080,sambava,mg
+1081,gondanglegi,id
+1082,denpasar,id
+1083,praya,id
+1084,waingapu,id
+1085,kupang,id
+1086,gizo,sb
+1087,vaitupu,wf
+1088,liku,wf
+1089,samalaeulu,ws
+1090,lufilufi,ws
+1091,samusu,ws
+1092,pimentel,pe
+1093,mala,pe
+1094,nuevo imperial,pe
+1095,huancavelica,pe
+1096,santa ana,pe
+1097,urubamba,pe
+1098,paucartambo,pe
+1099,sao miguel do araguaia,br
+1100,araguacu,br
+1101,porangatu,br
+1102,arraias,br
+1103,sao domingos,br
+1104,santa maria da vitoria,br
+1105,boquira,br
+1106,paramirim,br
+1107,vera cruz,br
+1108,iacu,br
+1109,nazare,br
+1110,benguela,ao
+1111,catumbela,ao
+1112,longonjo,ao
+1113,huambo,ao
+1114,kuito,ao
+1115,chissamba,ao
+1116,leua,ao
+1117,zambezi,zm
+1118,kalengwa,zm
+1119,chingola,zm
+1120,kalulushi,zm
+1121,ndola,zm
+1122,serenje,zm
+1123,chipata,zm
+1124,kasungu,mw
+1125,nkhotakota,mw
+1126,lichinga,mz
+1127,pemba,mz
+1128,dzaoudzi,yt
+1129,ambilobe,mg
+1130,soe,id
+1131,palmerston,au
+1132,howard springs,au
+1133,jabiru,au
+1134,maningrida,au
+1135,milingimbi,au
+1136,nhulunbuy,au
+1137,daru,pg
+1138,port moresby,pg
+1139,lata,sb
+1140,sataua,ws
+1141,saleaula,ws
+1142,sechura,pe
+1143,chimbote,pe
+1144,chancay,pe
+1145,chicla,pe
+1146,huancayo,pe
+1147,ayna,pe
+1148,pangoa,pe
+1149,iberia,pe
+1150,puerto maldonado,pe
+1151,cobija,bo
+1152,riberalta,bo
+1153,rodrigues alves,br
+1154,presidente medici,br
+1155,pimenta bueno,br
+1156,alta floresta,br
+1157,formoso do araguaia,br
+1158,gurupi,br
+1159,dianopolis,br
+1160,taguatinga,br
+1161,barreiras,br
+1162,ibotirama,br
+1163,ibipeba,br
+1164,tapiramuta,br
+1165,baixa grande,br
+1166,irara,br
+1167,entre rios,br
+1168,aracaju,br
+1169,tamandare,br
+1170,lobito,ao
+1171,catabola,ao
+1172,camacupa,ao
+1173,lumeje,ao
+1174,mwinilunga,zm
+1175,solwezi,zm
+1176,kipushi,cd
+1177,chililabombwe,zm
+1178,mansa,zm
+1179,samfya,zm
+1180,mpika,zm
+1181,lundazi,zm
+1182,mzimba,mw
+1183,tingi,tz
+1184,tunduru,tz
+1185,masuguru,tz
+1186,moroni,km
+1187,domoni,km
+1188,victoria,sc
+1189,kroya,id
+1190,kanigoro,id
+1191,nguiu,au
+1192,galiwinku,au
+1193,morehead,pg
+1194,paramonga,pe
+1195,supe,pe
+1196,sayan,pe
+1197,carhuamayo,pe
+1198,perene,pe
+1199,mazamari,pe
+1200,brasileia,br
+1201,xapuri,br
+1202,placido de castro,br
+1203,guajara-mirim,br
+1204,ouro preto do oeste,br
+1205,ji-parana,br
+1206,cacoal,br
+1207,porto nacional,br
+1208,formosa do rio preto,br
+1209,barra,br
+1210,utinga,br
+1211,irece,br
+1212,jacobina,br
+1213,ponto novo,br
+1214,tucano,br
+1215,tobias barreto,br
+1216,olinda,br
+1217,luanda,ao
+1218,sumbe,ao
+1219,kibala,ao
+1220,cazaje,ao
+1221,luau,ao
+1222,kambove,cd
+1223,likasi,cd
+1224,lubumbashi,cd
+1225,kasama,zm
+1226,chinsali,zm
+1227,chama,zm
+1228,rumphi,mw
+1229,mbinga,tz
+1230,songea,tz
+1231,nangomba,tz
+1232,namalenga,tz
+1233,nanyamba,tz
+1234,madimba,tz
+1235,mitsamiouli,km
+1236,mutsamudu,km
+1237,koungou,yt
+1238,padang,id
+1239,singaparna,id
+1240,muncar,id
+1241,sumbawa,id
+1242,atambua,id
+1243,merauke,id
+1244,alotau,pg
+1245,lolua,tv
+1246,santiago de cao,pe
+1247,huallanca,pe
+1248,ambo,pe
+1249,oxapampa,pe
+1250,satipo,pe
+1251,porto walter,br
+1252,tarauaca,br
+1253,manoel urbano,br
+1254,rio branco,br
+1255,ariquemes,br
+1256,jaru,br
+1257,aripuana,br
+1258,miranorte,br
+1259,palmas,br
+1260,morros,br
+1261,gilbues,br
+1262,bom jesus,br
+1263,pilao arcado,br
+1264,remanso,br
+1265,laje,br
+1266,jaguarari,br
+1267,uaua,br
+1268,jeremoabo,br
+1269,traipu,br
+1270,mayumba,ga
+1271,soyo,ao
+1272,malanje,ao
+1273,saurimo,ao
+1274,kamina,cd
+1275,bukama,cd
+1276,mwense,zm
+1277,kawambwa,zm
+1278,luwingu,zm
+1279,chitipa,mw
+1280,karonga,mw
+1281,mahanje,tz
+1282,liwale,tz
+1283,mbekenyera,tz
+1284,lindi,tz
+1285,trenggalek,id
+1286,ende,id
+1287,paita,pe
+1288,moche,pe
+1289,santa,pe
+1290,caraz,pe
+1291,yauya,pe
+1292,tingo maria,pe
+1293,campoverde,pe
+1294,pucallpa,pe
+1295,boca do acre,br
+1296,porto velho,br
+1297,sao felix do xingu,br
+1298,conceicao do araguaia,br
+1299,miracema do tocantins,br
+1300,sao raimundo nonato,br
+1301,casa nova,br
+1302,curaca,br
+1303,belem de sao francisco,br
+1304,agua branca,br
+1305,aguas belas,br
+1306,sao jose da laje,br
+1307,gamba,ga
+1308,caxito,ao
+1309,camabatela,ao
+1310,lucapa,ao
+1311,nchelenge,zm
+1312,mporokoso,zm
+1313,mpulungu,zm
+1314,laela,tz
+1315,mlowo,tz
+1316,matamba,tz
+1317,mtwango,tz
+1318,malinyi,tz
+1319,mahenge,tz
+1320,mtwara,tz
+1321,gombong,id
+1322,jatiroto,id
+1323,kencong,id
+1324,gambiran,id
+1325,bima,id
+1326,ruteng,id
+1327,maumere,id
+1328,kefamenanu,id
+1329,kerema,pg
+1330,kokoda,pg
+1331,popondetta,pg
+1332,buin,pg
+1333,tulagi,sb
+1334,auki,sb
+1335,pacasmayo,pe
+1336,laredo,pe
+1337,quiruvilca,pe
+1338,tocache,pe
+1339,cruzeiro do sul,br
+1340,feijo,br
+1341,pauini,br
+1342,labrea,br
+1343,jacareacanga,br
+1344,araguaina,br
+1345,santa luzia,br
+1346,balsas,br
+1347,urucui,br
+1348,canto do buriti,br
+1349,simplicio mendes,br
+1350,simoes,br
+1351,ouricuri,br
+1352,salgueiro,br
+1353,flores,br
+1354,monteiro,br
+1355,toritama,br
+1356,camaragibe,br
+1357,itamaraca,br
+1358,pitimbu,br
+1359,uige,ao
+1360,kasongo-lunda,cd
+1361,mwene-ditu,cd
+1362,kaniama,cd
+1363,manono,cd
+1364,kaputa,zm
+1365,namanyere,tz
+1366,sumbawanga,tz
+1367,dunda,tz
+1368,malangali,tz
+1369,ilula,tz
+1370,ifakara,tz
+1371,kisanga,tz
+1372,ikwiriri,tz
+1373,kilindoni,tz
+1374,pringsewu,id
+1375,tulungagung,id
+1376,lumajang,id
+1377,bondowoso,id
+1378,singaraja,id
+1379,mataram,id
+1380,tual,id
+1381,balimo,pg
+1382,wau,pg
+1383,kandrian,pg
+1384,buala,sb
+1385,eten,pe
+1386,oyotun,pe
+1387,celendin,pe
+1388,saposoa,pe
+1389,picota,pe
+1390,contamana,pe
+1391,mancio lima,br
+1392,ipixuna,br
+1393,eirunepe,br
+1394,canutama,br
+1395,manicore,br
+1396,sao geraldo do araguaia,br
+1397,bom jardim,br
+1398,sao raimundo das mangabeiras,br
+1399,pastos bons,br
+1400,floriano,br
+1401,oeiras,br
+1402,jaicos,br
+1403,assare,br
+1404,aurora,br
+1405,coremas,br
+1406,pocinhos,br
+1407,santa rita,br
+1408,cabedelo,br
+1409,omboue,ga
+1410,cabinda,ao
+1411,tshikapa,cd
+1412,dibaya,cd
+1413,gandajika,cd
+1414,kabalo,cd
+1415,moba,cd
+1416,usevya,tz
+1417,inyonga,tz
+1418,mgandu,tz
+1419,mafinga,tz
+1420,izazi,tz
+1421,kilosa,tz
+1422,ngerengere,tz
+1423,kisarawe,tz
+1424,vikindu,tz
+1425,sokoni,tz
+1426,hambantota,lk
+1427,sukabumi,id
+1428,kadungora,id
+1429,jatibarang,id
+1430,weleri,id
+1431,purwodadi,id
+1432,tuban,id
+1433,taman,id
+1434,kalianget,id
+1435,tanete,id
+1436,ambon,id
+1437,kiunga,pg
+1438,ialibu,pg
+1439,kundiawa,pg
+1440,bulolo,pg
+1441,lae,pg
+1442,finschhafen,pg
+1443,kimbe,pg
+1444,panguna,pg
+1445,talara,pe
+1446,olmos,pe
+1447,jaen,pe
+1448,chachapoyas,pe
+1449,moyobamba,pe
+1450,yurimaguas,pe
+1451,lagunas,pe
+1452,requena,pe
+1453,jutai,br
+1454,carauari,br
+1455,tapaua,br
+1456,novo aripuana,br
+1457,itaituba,br
+1458,itupiranga,br
+1459,ananas,br
+1460,montes altos,br
+1461,grajau,br
+1462,barra do corda,br
+1463,colinas,br
+1464,palmeirais,br
+1465,elesbao veloso,br
+1466,parambu,br
+1467,taua,br
+1468,oros,br
+1469,umarizal,br
+1470,jucurutu,br
+1471,sao tome,br
+1472,nisia floresta,br
+1473,takoradi,gh
+1474,port-gentil,ga
+1475,loandjili,cg
+1476,boma,cd
+1477,matadi,cd
+1478,mbanza-ngungu,cd
+1479,kikwit,cd
+1480,kananga,cd
+1481,mbuji-mayi,cd
+1482,kabinda,cd
+1483,lubao,cd
+1484,kalemie,cd
+1485,mpanda,tz
+1486,sikonge,tz
+1487,kilimatinde,tz
+1488,msanga,tz
+1489,gairo,tz
+1490,lugoba,tz
+1491,zanzibar,tz
+1492,mtambile,tz
+1493,chake chake,tz
+1494,micheweni,tz
+1495,meulaboh,id
+1496,cilegon,id
+1497,bekasi,id
+1498,pamanukan,id
+1499,karangampel,id
+1500,mlonggo,id
+1501,jati,id
+1502,lasem,id
+1503,bangkalan,id
+1504,sumenep,id
+1505,galesong,id
+1506,katobu,id
+1507,nabire,id
+1508,tari,pg
+1509,mount hagen,pg
+1510,kainantu,pg
+1511,kokopo,pg
+1512,kieta,pg
+1513,colan,pe
+1514,morropon,pe
+1515,la peca,pe
+1516,barranca,pe
+1517,saquena,pe
+1518,benjamin constant,br
+1519,tefe,br
+1520,borba,br
+1521,araguatins,br
+1522,amarante do maranhao,br
+1523,esperantinopolis,br
+1524,codo,br
+1525,teresina,br
+1526,campo maior,br
+1527,crateus,br
+1528,boa viagem,br
+1529,quixada,br
+1530,russas,br
+1531,areia branca,br
+1532,touros,br
+1533,sao miguel,br
+1534,natal,br
+1535,tabou,ci
+1536,axim,gh
+1537,tshela,cd
+1538,kasangulu,cd
+1539,bulungu,cd
+1540,ilebo,cd
+1541,luebo,cd
+1542,mweka,cd
+1543,lusambo,cd
+1544,kongolo,cd
+1545,kigoma,tz
+1546,mwandiga,tz
+1547,nguruka,tz
+1548,urambo,tz
+1549,tabora,tz
+1550,ndago,tz
+1551,mungaa,tz
+1552,kondoa,tz
+1553,kibaya,tz
+1554,magomeni,tz
+1555,mlalo,tz
+1556,lamu,ke
+1557,bur gabo,so
+1558,kismayo,so
+1559,matara,lk
+1560,lahat,id
+1561,baturaja,id
+1562,metro,id
+1563,teluknaga,id
+1564,indramayu,id
+1565,paciran,id
+1566,banjarmasin,id
+1567,martapura,id
+1568,makasar,id
+1569,sinjai,id
+1570,amahai,id
+1571,ambunti,pg
+1572,porgera,pg
+1573,laiagam,pg
+1574,madang,pg
+1575,arawa,pg
+1576,utiroa,ki
+1577,el alto,pe
+1578,papayal,pe
+1579,alamor,ec
+1580,zamora,ec
+1581,yantzaza,ec
+1582,nauta,pe
+1583,iquitos,pe
+1584,puerto narino,co
+1585,leticia,co
+1586,sao paulo de olivenca,br
+1587,santo antonio do ica,br
+1588,coari,br
+1589,codajas,br
+1590,anori,br
+1591,nova olinda do norte,br
+1592,maues,br
+1593,santarem,br
+1594,altamira,br
+1595,tucurui,br
+1596,paragominas,br
+1597,santa ines,br
+1598,vitorino freire,br
+1599,coroata,br
+1600,buriti,br
+1601,batalha,br
+1602,ibiapina,br
+1603,iraucuba,br
+1604,pentecoste,br
+1605,beberibe,br
+1606,aracati,br
+1607,macau,br
+1608,tsogni,ga
+1609,loubomo,cg
+1610,nkayi,cg
+1611,madingou,cg
+1612,brazzaville,cg
+1613,bandundu,cd
+1614,mangai,cd
+1615,lodja,cd
+1616,kindu,cd
+1617,kampene,cd
+1618,uvira,cd
+1619,rumonge,bi
+1620,rutana,bi
+1621,kibondo,tz
+1622,masumbwe,tz
+1623,isaka,tz
+1624,igurubi,tz
+1625,dongobesh,tz
+1626,magugu,tz
+1627,naberera,tz
+1628,kisiwani,tz
+1629,kinango,ke
+1630,mombasa,ke
+1631,malindi,ke
+1632,barawe,so
+1633,sibolga,id
+1634,sungaipenuh,id
+1635,manggar,id
+1636,pangkalanbuun,id
+1637,sampit,id
+1638,majene,id
+1639,singkang,id
+1640,bone,id
+1641,kendari,id
+1642,vanimo,pg
+1643,angoram,pg
+1644,lorengau,pg
+1645,rabaul,pg
+1646,namatanai,pg
+1647,tabiauea,ki
+1648,ijaki,ki
+1649,coahuayana,mx
+1650,salinas,ec
+1651,playas,ec
+1652,machala,ec
+1653,cuenca,ec
+1654,sucua,ec
+1655,tonantins,br
+1656,fonte boa,br
+1657,uarini,br
+1658,manacapuru,br
+1659,manaus,br
+1660,itacoatiara,br
+1661,guajara,br
+1662,barreirinha,br
+1663,parintins,br
+1664,senador jose porfirio,br
+1665,baiao,br
+1666,mocajuba,br
+1667,penalva,br
+1668,matinha,br
+1669,barreirinhas,br
+1670,araioses,br
+1671,barroquinha,br
+1672,itarema,br
+1673,trairi,br
+1674,caucaia,br
+1675,aquiraz,br
+1676,harper,lr
+1677,tchibanga,ga
+1678,mossendjo,cg
+1679,djambala,cg
+1680,bolobo,cd
+1681,mushie,cd
+1682,nioki,cd
+1683,kabare,cd
+1684,cibitoke,bi
+1685,karuzi,bi
+1686,kakonko,tz
+1687,buseresere,tz
+1688,misasi,tz
+1689,kisesa,tz
+1690,ngorongoro,tz
+1691,mto wa mbu,tz
+1692,kingori,tz
+1693,taveta,ke
+1694,voi,ke
+1695,kipini,ke
+1696,mogadishu,so
+1697,curup,id
+1698,prabumulih,id
+1699,palembang,id
+1700,mentok,id
+1701,kualakapuas,id
+1702,barabai,id
+1703,rantepao,id
+1704,sorong,id
+1705,manokwari,id
+1706,aitape,pg
+1707,wewak,pg
+1708,kavieng,pg
+1709,rungata,ki
+1710,lazaro cardenas,mx
+1711,el triunfo,ec
+1712,alausi,ec
+1713,palora,ec
+1714,puerto leguizamo,co
+1715,japura,br
+1716,maraa,br
+1717,barcelos,br
+1718,urucara,br
+1719,nhamunda,br
+1720,juruti,br
+1721,alenquer,br
+1722,monte alegre,br
+1723,prainha,br
+1724,porto de moz,br
+1725,portel,br
+1726,oeiras do para,br
+1727,igarape-miri,br
+1728,acara,br
+1729,capitao poco,br
+1730,maracacume,br
+1731,cururupu,br
+1732,sao jose de ribamar,br
+1733,humberto de campos,br
+1734,tutoia,br
+1735,camocim,br
+1736,acarau,br
+1737,jardim,br
+1738,mouila,ga
+1739,mbigou,ga
+1740,matsanga,cg
+1741,lekoni,ga
+1742,gamboma,cg
+1743,inongo,cd
+1744,boende,cd
+1745,kibuye,rw
+1746,kigali,rw
+1747,nyakahanga,tz
+1748,muleba,tz
+1749,muriti,tz
+1750,nyamuswa,tz
+1751,mugumu,tz
+1752,magadi,ke
+1753,kajiado,ke
+1754,wote,ke
+1755,kitui,ke
+1756,witu,ke
+1757,jambi,id
+1758,amuntai,id
+1759,balikpapan,id
+1760,poso,id
+1761,luwuk,id
+1762,biak,id
+1763,temaraia,ki
+1764,manta,ec
+1765,calceta,ec
+1766,la mana,ec
+1767,tena,ec
+1768,archidona,ec
+1769,nueva loja,ec
+1770,miraflores,co
+1771,sao gabriel da cachoeira,br
+1772,santa isabel do rio negro,br
+1773,terra santa,br
+1774,oriximina,br
+1775,almeirim,br
+1776,gurupa,br
+1777,tucuma,br
+1778,soure,br
+1779,santo antonio do taua,br
+1780,braganca,br
+1781,carutapera,br
+1782,turiacu,br
+1783,lambarene,ga
+1784,fougamou,ga
+1785,koulamoutou,ga
+1786,lastoursville,ga
+1787,okandja,ga
+1788,ewo,cg
+1789,owando,cg
+1790,yangambi,cd
+1791,kisangani,cd
+1792,goma,cd
+1793,ntungamo,ug
+1794,kanungu,ug
+1795,nsunga,tz
+1796,bukoba,tz
+1797,musoma,tz
+1798,migori,ke
+1799,keroka,ke
+1800,narok,ke
+1801,thika,ke
+1802,mwingi,ke
+1803,garissa,ke
+1804,thinadhoo,mv
+1805,viligili,mv
+1806,sijunjung,id
+1807,mendahara,id
+1808,simpang,id
+1809,pontianak,id
+1810,samarinda,id
+1811,palu,id
+1812,tidore,id
+1813,tabukiniberu,ki
+1814,ixtapa,mx
+1815,bahia de caraquez,ec
+1816,pedernales,ec
+1817,santo domingo,ec
+1818,cayambe,ec
+1819,puerto asis,co
+1820,mitu,co
+1821,boa vista,br
+1822,mazagao,br
+1823,macapa,br
+1824,curuca,br
+1825,salinopolis,br
+1826,viseu,br
+1827,paracuru,br
+1828,monrovia,lr
+1829,buchanan,lr
+1830,mumford,gh
+1831,anloga,gh
+1832,libreville,ga
+1833,kango,ga
+1834,ndjole,ga
+1835,booue,ga
+1836,makokou,ga
+1837,mbandaka,cd
+1838,basoko,cd
+1839,butembo,cd
+1840,kilembe,ug
+1841,lyantonde,ug
+1842,lukaya,ug
+1843,lugazi,ug
+1844,port victoria,ke
+1845,ahero,ke
+1846,rongai,ke
+1847,nanyuki,ke
+1848,maua,ke
+1849,afmadu,so
+1850,jamame,so
+1851,hobyo,so
+1852,payakumbuh,id
+1853,kijang,id
+1854,sungairaya,id
+1855,sri aman,my
+1856,kapit,my
+1857,loa janan,id
+1858,bontang,id
+1859,gorontalo,id
+1860,tondano,id
+1861,bairiki,ki
+1862,puerto baquerizo moreno,ec
+1863,muisne,ec
+1864,esmeraldas,ec
+1865,valdez,ec
+1866,mallama,co
+1867,curillo,co
+1868,cartagena del chaira,co
+1869,calamar,co
+1870,bonfim,br
+1871,camopi,gf
+1872,goderich,sl
+1873,bonthe,sl
+1874,mattru,sl
+1875,san-pedro,ci
+1876,jacqueville,ci
+1877,yenagoa,ng
+1878,abonnema,ng
+1879,cocobeach,ga
+1880,aconibe,gq
+1881,mitzic,ga
+1882,sembe,cg
+1883,ouesso,cg
+1884,impfondo,cg
+1885,bongandanga,cd
+1886,wamba,cd
+1887,beni,cd
+1888,bundibugyo,ug
+1889,kagadi,ug
+1890,kiboga,ug
+1891,kamuli,ug
+1892,mbale,ug
+1893,kitale,ke
+1894,baringo,ke
+1895,maralal,ke
+1896,wajir,ke
+1897,dujuma,so
+1898,weligama,lk
+1899,bandar,id
+1900,balaipungut,id
+1901,bengkalis,id
+1902,pontian kecil,my
+1903,singapore,sg
+1904,singkawang,id
+1905,kuching,my
+1906,tomohon,id
+1907,bitung,id
+1908,ternate,id
+1909,hilo,us
+1910,acapulco,mx
+1911,tumaco,co
+1912,magui,co
+1913,sucre,co
+1914,saladoblanco,co
+1915,puerto rico,co
+1916,la macarena,co
+1917,inirida,co
+1918,lethem,gy
+1919,grand-santi,gf
+1920,amapa,br
+1921,bubaque,gw
+1922,robertsport,lr
+1923,grand-lahou,ci
+1924,cape coast,gh
+1925,winneba,gh
+1926,luba,gq
+1927,mbini,gq
+1928,bata,gq
+1929,anisoc,gq
+1930,bitam,ga
+1931,sangmelima,cm
+1932,binga,cd
+1933,bumba,cd
+1934,aketi,cd
+1935,buta,cd
+1936,isiro,cd
+1937,bunia,cd
+1938,paidha,ug
+1939,masindi,ug
+1940,lira,ug
+1941,katakwi,ug
+1942,amudat,ug
+1943,marsabit,ke
+1944,dinsor,so
+1945,afgoye,so
+1946,jawhar,so
+1947,kudahuvadhoo,mv
+1948,muli,mv
+1949,banda aceh,id
+1950,rantauprapat,id
+1951,dumai,id
+1952,sungai udang,my
+1953,yong peng,my
+1954,kota tinggi,my
+1955,pemangkat,id
+1956,sibu,my
+1957,tarakan,id
+1958,manado,id
+1959,butaritari,ki
+1960,buariki,ki
+1961,taburao,ki
+1962,rawannawi,ki
+1963,burica,pa
+1964,pizarro,co
+1965,mosquera,co
+1966,timbiqui,co
+1967,suarez,co
+1968,toribio,co
+1969,tello,co
+1970,vista hermosa,co
+1971,mapiripan,co
+1972,cumaribo,co
+1973,wageningen,sr
+1974,sao filipe,cv
+1975,cotonou,bj
+1976,opobo,ng
+1977,riaba,gq
+1978,kribi,cm
+1979,ebolowa,cm
+1980,abong mbang,cm
+1981,yokadouma,cm
+1982,nola,cf
+1983,mongoumba,cf
+1984,libenge,cd
+1985,gemena,cd
+1986,businga,cd
+1987,watsa,cd
+1988,arua,ug
+1989,gulu,ug
+1990,kitgum,ug
+1991,kotido,ug
+1992,moroto,ug
+1993,lodwar,ke
+1994,moyale,ke
+1995,mandera,ke
+1996,wanlaweyn,so
+1997,mahadday weyne,so
+1998,galle,lk
+1999,wattegama,lk
+2000,kabanjahe,id
+2001,tebingtinggi,id
+2002,teluk nibung,id
+2003,kuala selangor,my
+2004,semenyih,my
+2005,buloh kasap,my
+2006,mersing,my
+2007,bintulu,my
+2008,miri,my
+2009,sembakung,id
+2010,ligayan,ph
+2011,manuk mangkaw,ph
+2012,cabo san lucas,mx
+2013,san jeronimo,mx
+2014,la palma,pa
+2015,litoral del san juan,co
+2016,buenaventura,co
+2017,tulua,co
+2018,guamo,co
+2019,acacias,co
+2020,puerto lopez,co
+2021,puerto gaitan,co
+2022,orocue,co
+2023,ituni,gy
+2024,brokopondo,sr
+2025,roura,gf
+2026,saint-georges,gf
+2027,sassandra,ci
+2028,warri,ng
+2029,limbe,cm
+2030,edea,cm
+2031,monatele,cm
+2032,mfou,cm
+2033,batouri,cm
+2034,gamboula,cf
+2035,berberati,cf
+2036,boda,cf
+2037,mbaiki,cf
+2038,bosobolo,cd
+2039,gbadolite,cd
+2040,kembe,cf
+2041,ouango,cf
+2042,bondo,cd
+2043,zemio,cf
+2044,yambio,sd
+2045,yei,sd
+2046,moyo,ug
+2047,torit,sd
+2048,kaabong,ug
+2049,mega,et
+2050,wajid,so
+2051,xuddur,so
+2052,eyl,so
+2053,mahibadhoo,mv
+2054,male,mv
+2055,kalmunai,lk
+2056,langsa,id
+2057,belawan,id
+2058,lumut,my
+2059,teluk intan,my
+2060,kuala lipis,my
+2061,kuantan,my
+2062,cukai,my
+2063,limbang,my
+2064,tawau,my
+2065,semporna,my
+2066,sapa,ph
+2067,latung,ph
+2068,tabialan,ph
+2069,sarangani,ph
+2070,kloulklubed,pw
+2071,airai,pw
+2072,makakilo city,us
+2073,puerto escondido,mx
+2074,nicoya,cr
+2075,bajo baudo,co
+2076,istmina,co
+2077,la celia,co
+2078,libano,co
+2079,zipaquira,co
+2080,campohermoso,co
+2081,villanueva,co
+2082,puerto ayacucho,ve
+2083,ciudad bolivar,ve
+2084,upata,ve
+2085,totness,sr
+2086,apatou,gf
+2087,kourou,gf
+2088,cayenne,gf
+2089,abidjan,ci
+2090,adiake,ci
+2091,saltpond,gh
+2092,accra,gh
+2093,aneho,tg
+2094,lagos,ng
+2095,port harcourt,ng
+2096,uyo,ng
+2097,kumba,cm
+2098,nkongsamba,cm
+2099,bafia,cm
+2100,nkoteng,cm
+2101,nanga eboko,cm
+2102,bertoua,cm
+2103,baboua,cf
+2104,carnot,cf
+2105,bossembele,cf
+2106,boali,cf
+2107,damara,cf
+2108,kouango,cf
+2109,alindao,cf
+2110,bangassou,cf
+2111,rafai,cf
+2112,obo,cf
+2113,maridi,sd
+2114,juba,sd
+2115,kapoeta,sd
+2116,jinka,et
+2117,yabelo,et
+2118,shakiso,et
+2119,bandarbeyla,so
+2120,ugoofaaru,mv
+2121,eydhafushi,mv
+2122,naifaru,mv
+2123,kanniyakumari,in
+2124,sigli,id
+2125,lhokseumawe,id
+2126,ayer itam,my
+2127,sungai siput utara,my
+2128,gua musang,my
+2129,marang,my
+2130,paka,my
+2131,keningau,my
+2132,lahad datu,my
+2133,larap,ph
+2134,parangan,ph
+2135,mabay,ph
+2136,pundaguitan,ph
+2137,kapaa,us
+2138,nanakuli,us
+2139,tecoanapa,mx
+2140,pochutla,mx
+2141,santa cruz,cr
+2142,parrita,cr
+2143,mutis,co
+2144,nuqui,co
+2145,salgar,co
+2146,florian,co
+2147,cerinza,co
+2148,paz de ariporo,co
+2149,puerto rondon,co
+2150,cravo norte,co
+2151,puerto carreno,co
+2152,bartica,gy
+2153,linden,gy
+2154,nieuw nickerie,sr
+2155,marienburg,sr
+2156,mana,gf
+2157,iracoubo,gf
+2158,toulepleu,ci
+2159,zwedru,lr
+2160,soubre,ci
+2161,gagnoa,ci
+2162,tiassale,ci
+2163,adzope,ci
+2164,ayame,ci
+2165,dunkwa,gh
+2166,oda,gh
+2167,akropong,gh
+2168,keta,gh
+2169,ouidah,bj
+2170,epe,ng
+2171,okitipupa,ng
+2172,agbor,ng
+2173,nnewi,ng
+2174,afikpo,ng
+2175,ikom,ng
+2176,mbengwi,cm
+2177,foumban,cm
+2178,banyo,cm
+2179,tibati,cm
+2180,betare oya,cm
+2181,baoro,cf
+2182,bossangoa,cf
+2183,bouca,cf
+2184,sibut,cf
+2185,grimari,cf
+2186,ippy,cf
+2187,bria,cf
+2188,tambura,sd
+2189,yirol,sd
+2190,mizan teferi,et
+2191,bako,et
+2192,dilla,et
+2193,kibre mengist,et
+2194,goba,et
+2195,ginir,et
+2196,funadhoo,mv
+2197,manadhoo,mv
+2198,manavalakurichi,in
+2199,moratuwa,lk
+2200,beruwala,lk
+2201,sabang,id
+2202,kuah,my
+2203,kuala kedah,my
+2204,betong,th
+2205,sungai kolok,th
+2206,jertih,my
+2207,kuala terengganu,my
+2208,bac lieu,vn
+2209,labuan,my
+2210,kota kinabalu,my
+2211,ranau,my
+2212,sandakan,my
+2213,taganak,ph
+2214,pandan niog,ph
+2215,timbangan,ph
+2216,tuburan,ph
+2217,palimbang,ph
+2218,lamidan,ph
+2219,san isidro,ph
+2220,champerico,gt
+2221,acajutla,sv
+2222,los algarrobos,pa
+2223,pedasi,pa
+2224,jaque,pa
+2225,jurado,co
+2226,murindo,co
+2227,peque,co
+2228,amalfi,co
+2229,yondo,co
+2230,piedecuesta,co
+2231,cubara,co
+2232,arauca,co
+2233,mabaruma,gy
+2234,fort wellington,gy
+2235,sinnamary,gf
+2236,praia,cv
+2237,gandorhun,sl
+2238,tubmanburg,lr
+2239,gbarnga,lr
+2240,danane,ci
+2241,duekoue,ci
+2242,bouafle,ci
+2243,tiebissou,ci
+2244,daoukro,ci
+2245,agnibilekrou,ci
+2246,bechem,gh
+2247,agogo,gh
+2248,kpandu,gh
+2249,notse,tg
+2250,abomey,bj
+2251,ifo,ng
+2252,apomu,ng
+2253,idanre,ng
+2254,auchi,ng
+2255,idah,ng
+2256,effium,ng
+2257,gboko,ng
+2258,wum,cm
+2259,tignere,cm
+2260,ngaoundere,cm
+2261,bocaranga,cf
+2262,paoua,cf
+2263,batangafo,cf
+2264,dekoa,cf
+2265,ouadda,cf
+2266,raga,sd
+2267,waw,sd
+2268,tonj,sd
+2269,gambela,et
+2270,bonga,et
+2271,jimma,et
+2272,boditi,et
+2273,dodola,et
+2274,hargeysa,so
+2275,odweyne,so
+2276,garowe,so
+2277,kulhudhuffushi,mv
+2278,dhidhdhoo,mv
+2279,colombo,lk
+2280,ragama,lk
+2281,badulla,lk
+2282,amparai,lk
+2283,port blair,in
+2284,phuket,th
+2285,kantang,th
+2286,satun,th
+2287,nong chik,th
+2288,sai buri,th
+2289,tumpat,my
+2290,ca mau,vn
+2291,vung tau,vn
+2292,phan thiet,vn
+2293,kota belud,my
+2294,kudat,my
+2295,cagayan de tawi-tawi,ph
+2296,simbahan,ph
+2297,recodo,ph
+2298,olutanga,ph
+2299,blensong,ph
+2300,kalaisan,ph
+2301,linao,ph
+2302,quepos,cr
+2303,buenos aires,cr
+2304,remedios,pa
+2305,la colorada,pa
+2306,guarare,pa
+2307,el real de santa maria,pa
+2308,unguia,co
+2309,tierralta,co
+2310,caucasia,co
+2311,santa rosa del sur,co
+2312,bucarasica,co
+2313,san juan de colon,ve
+2314,ejido,ve
+2315,barinas,ve
+2316,guanare,ve
+2317,calabozo,ve
+2318,zaraza,ve
+2319,el tigre,ve
+2320,ciudad guayana,ve
+2321,mahaicony,gy
+2322,conakry,gn
+2323,waterloo,sl
+2324,serabu,sl
+2325,segbwema,sl
+2326,koindu,sl
+2327,nzerekore,gn
+2328,touba,ci
+2329,seguela,ci
+2330,mankono,ci
+2331,katiola,ci
+2332,dabakala,ci
+2333,bondoukou,ci
+2334,wenchi,gh
+2335,ejura,gh
+2336,kpandae,gh
+2337,atakpame,tg
+2338,savalou,bj
+2339,save,bj
+2340,oyo,ng
+2341,ila,ng
+2342,ode,ng
+2343,lokoja,ng
+2344,makurdi,ng
+2345,wukari,ng
+2346,jalingo,ng
+2347,poli,cm
+2348,tchollire,cm
+2349,beinamar,td
+2350,bol,td
+2351,beboto,td
+2352,moissala,td
+2353,kabo,cf
+2354,ndele,cf
+2355,uwayl,sd
+2356,ler,sd
+2357,malakal,sd
+2358,gore,et
+2359,butajira,et
+2360,assela,et
+2361,robe,et
+2362,harer,et
+2363,jijiga,et
+2364,kavaratti,in
+2365,kollam,in
+2366,varkkallai,in
+2367,udankudi,in
+2368,tiruchchendur,in
+2369,anuradhapura,lk
+2370,polonnaruwa,lk
+2371,batticaloa,lk
+2372,krabi,th
+2373,ron phibun,th
+2374,ranot,th
+2375,yaring,th
+2376,phan rang,vn
+2377,balabac,ph
+2378,rio tuba,ph
+2379,siocon,ph
+2380,bayog,ph
+2381,munai,ph
+2382,balila,ph
+2383,santa josefa,ph
+2384,kinablangan,ph
+2385,baculin,ph
+2386,meyungs,pw
+2387,corinto,ni
+2388,guacimo,cr
+2389,chiriqui grande,pa
+2390,cerro cama,pa
+2391,chepo,pa
+2392,wala,pa
+2393,san juan de uraba,co
+2394,buenavista,co
+2395,san benito abad,co
+2396,el banco,co
+2397,el tarra,co
+2398,san carlos del zulia,ve
+2399,villa bruzual,ve
+2400,san jose de guanipa,ve
+2401,tucupita,ve
+2402,boffa,gn
+2403,mambolo,sl
+2404,masingbi,sl
+2405,peyima,sl
+2406,kissidougou,gn
+2407,kerouane,gn
+2408,odienne,ci
+2409,boundiali,ci
+2410,korhogo,ci
+2411,ferkessedougou,ci
+2412,bouna,ci
+2413,kintampo,gh
+2414,tamale,gh
+2415,yendi,gh
+2416,sokode,tg
+2417,beterou,bj
+2418,tchaourou,bj
+2419,kishi,ng
+2420,lafiagi,ng
+2421,bida,ng
+2422,suleja,ng
+2423,keffi,ng
+2424,lafia,ng
+2425,numan,ng
+2426,garoua,cm
+2427,lagdo,cm
+2428,pala,td
+2429,benoy,td
+2430,doba,td
+2431,sarh,td
+2432,kyabe,td
+2433,gogrial,sd
+2434,bentiu,sd
+2435,dembi dolo,et
+2436,gimbi,et
+2437,gedo,et
+2438,hagere hiywet,et
+2439,sendafa,et
+2440,metehara,et
+2441,asbe teferi,et
+2442,bargal,so
+2443,alappuzha,in
+2444,kayankulam,in
+2445,punalur,in
+2446,kadambur,in
+2447,mandapam,in
+2448,vavuniya,lk
+2449,mullaitivu,lk
+2450,trincomalee,lk
+2451,phangnga,th
+2452,phun phin,th
+2453,don sak,th
+2454,pak phanang,th
+2455,kampot,kh
+2456,tra vinh,vn
+2457,taburi,ph
+2458,iraray,ph
+2459,plaridel,ph
+2460,caramay,ph
+2461,cayhagan,ph
+2462,culipapa,ph
+2463,maloh,ph
+2464,lazi,ph
+2465,medina,ph
+2466,bacolod,ph
+2467,barcelona,ph
+2468,la libertad,sv
+2469,san rafael del sur,ni
+2470,puntarenas,cr
+2471,limon,cr
+2472,bocas del toro,pa
+2473,palmas bellas,pa
+2474,portobelo,pa
+2475,tubuala,pa
+2476,ailigandi,pa
+2477,san onofre,co
+2478,el guamo,co
+2479,bosconia,co
+2480,agustin codazzi,co
+2481,villa del rosario,ve
+2482,bachaquero,ve
+2483,carora,ve
+2484,cabudare,ve
+2485,tacarigua,ve
+2486,cua,ve
+2487,altagracia de orituco,ve
+2488,cumana,ve
+2489,maturin,ve
+2490,point fortin,tt
+2491,rio claro,tt
+2492,oussouye,sn
+2493,sangueya,gn
+2494,kindia,gn
+2495,mamou,gn
+2496,gberia fotombu,sl
+2497,tokonou,gn
+2498,kankan,gn
+2499,tingrela,ci
+2500,gaoua,bf
+2501,batie,bf
+2502,wa,gh
+2503,savelugu,gh
+2504,kande,tg
+2505,djougou,bj
+2506,nikki,bj
+2507,kontagora,ng
+2508,minna,ng
+2509,kafanchan,ng
+2510,jos,ng
+2511,bauchi,ng
+2512,pindiga,ng
+2513,mubi,ng
+2514,guider,cm
+2515,fianga,td
+2516,lai,td
+2517,bousso,td
+2518,goundi,td
+2519,am timan,td
+2520,birao,cf
+2521,babanusah,sd
+2522,talawdi,sd
+2523,asosa,et
+2524,mendi,et
+2525,nedjo,et
+2526,shambu,et
+2527,dejen,et
+2528,fiche,et
+2529,abomsa,et
+2530,gewane,et
+2531,dire dawa,et
+2532,borama,so
+2533,berbera,so
+2534,bosaso,so
+2535,salalah,om
+2536,chavakkad,in
+2537,kochi,in
+2538,idukki,in
+2539,sholavandan,in
+2540,arantangi,in
+2541,valvedditturai,lk
+2542,ranong,th
+2543,lang suan,th
+2544,ko samui,th
+2545,rach gia,vn
+2546,can tho,vn
+2547,cam ranh,vn
+2548,panalingaan,ph
+2549,tagusao,ph
+2550,aporawan,ph
+2551,bahile,ph
+2552,osmena,ph
+2553,suba,ph
+2554,magdalena,ph
+2555,cabanbanan,ph
+2556,clarin,ph
+2557,macrohon,ph
+2558,san benito,ph
+2559,union,ph
+2560,cortes,ph
+2561,ewa beach,us
+2562,petatlan,mx
+2563,ocos,gt
+2564,puerto el triunfo,sv
+2565,san juan del sur,ni
+2566,upala,cr
+2567,pital,cr
+2568,carmen,cr
+2569,san andres,co
+2570,tigre,pa
+2571,cartagena,co
+2572,puerto colombia,co
+2573,cienaga,co
+2574,distraccion,co
+2575,maicao,co
+2576,coro,ve
+2577,san felipe,ve
+2578,puerto cabello,ve
+2579,catia la mar,ve
+2580,guatire,ve
+2581,la asuncion,ve
+2582,carupano,ve
+2583,mucurapo,tt
+2584,scarborough,tt
+2585,oistins,bb
+2586,quebo,gw
+2587,boke,gn
+2588,telimele,gn
+2589,dalaba,gn
+2590,dabola,gn
+2591,kouroussa,gn
+2592,siguiri,gn
+2593,bougouni,ml
+2594,kolondieba,ml
+2595,sikasso,ml
+2596,orodara,bf
+2597,bobo dioulasso,bf
+2598,dano,bf
+2599,leo,bf
+2600,navrongo,gh
+2601,dapaong,tg
+2602,natitingou,bj
+2603,banikoara,bj
+2604,kandi,bj
+2605,gaya,ne
+2606,funtua,ng
+2607,zaria,ng
+2608,lere,ng
+2609,azare,ng
+2610,duku,ng
+2611,biu,ng
+2612,mora,cm
+2613,bogo,cm
+2614,guelengdeng,td
+2615,melfi,td
+2616,kaduqli,sd
+2617,abu jubayhah,sd
+2618,marabba,sd
+2619,bure,et
+2620,adet,et
+2621,were ilu,et
+2622,bati,et
+2623,asayita,et
+2624,jibuti,dj
+2625,qandala,so
+2626,koyilandi,in
+2627,malappuram,in
+2628,singanallur,in
+2629,karur,in
+2630,pullampadi,in
+2631,nagapattinam,in
+2632,chumphon,th
+2633,bang saphan,th
+2634,prachuap khiri khan,th
+2635,trat,th
+2636,chau doc,vn
+2637,svay rieng,kh
+2638,bien hoa,vn
+2639,candawaga,ph
+2640,caruray,ph
+2641,liminangcong,ph
+2642,casian,ph
+2643,cuyo,ph
+2644,bugasong,ph
+2645,bay-ang,ph
+2646,libertad,ph
+2647,sulangan,ph
+2648,puerto madero,mx
+2649,leon,ni
+2650,granada,ni
+2651,villa sandino,ni
+2652,bluefields,ni
+2653,corn island,ni
+2654,santa marta,co
+2655,riohacha,co
+2656,uribia,co
+2657,punto fijo,ve
+2658,willemstad,an
+2659,kralendijk,an
+2660,caraballeda,ve
+2661,gouyave,gd
+2662,grenville,gd
+2663,vila do maio,cv
+2664,gunjur,gm
+2665,canchungo,gw
+2666,fulacunda,gw
+2667,gabu,gw
+2668,gaoual,gn
+2669,mali,gn
+2670,dire,ml
+2671,dinguiraye,gn
+2672,kangaba,ml
+2673,koutiala,ml
+2674,yorosso,ml
+2675,solenzo,bf
+2676,boromo,bf
+2677,kokologo,bf
+2678,kombissiri,bf
+2679,koupela,bf
+2680,diapaga,bf
+2681,malanville,bj
+2682,jega,ng
+2683,gusau,ng
+2684,malumfashi,ng
+2685,dutse,ng
+2686,potiskum,ng
+2687,damaturu,ng
+2688,maiduguri,ng
+2689,bama,ng
+2690,kousseri,cm
+2691,dourbali,td
+2692,ngama,td
+2693,bitkine,td
+2694,mongo,td
+2695,adre,td
+2696,kutum,sd
+2697,umm kaddadah,sd
+2698,abu zabad,sd
+2699,galgani,sd
+2700,bahir dar,et
+2701,debre tabor,et
+2702,lalibela,et
+2703,korem,et
+2704,dubti,et
+2705,aden,ye
+2706,bereda,so
+2707,kannangad,in
+2708,payyannur,in
+2709,ponnampet,in
+2710,yelandur,in
+2711,pennagaram,in
+2712,manalurpet,in
+2713,pondicherry,in
+2714,mamallapuram,in
+2715,madras,in
+2716,tiruvottiyur,in
+2717,kattivakkam,in
+2718,mergui,mm
+2719,kui buri,th
+2720,sattahip,th
+2721,laem sing,th
+2722,pousat,kh
+2723,kampong chhnang,kh
+2724,kracheh,kh
+2725,dong xoai,vn
+2726,da lat,vn
+2727,nha trang,vn
+2728,bacuit,ph
+2729,teneguiban,ph
+2730,salvacion,ph
+2731,santa teresa,ph
+2732,caticlan,ph
+2733,balud,ph
+2734,cataingan,ph
+2735,san jose de buan,ph
+2736,dapdap,ph
+2737,san policarpo,ph
+2738,guerrero negro,mx
+2739,el rosario,sv
+2740,intipuca,sv
+2741,somotillo,ni
+2742,jinotega,ni
+2743,rio blanco,ni
+2744,laguna de perlas,ni
+2745,manaure,co
+2746,oranjestad,aw
+2747,westpunt,an
+2748,rincon,an
+2749,hillsborough,gd
+2750,dovers,vc
+2751,holetown,bb
+2752,bathsheba,bb
+2753,porto novo,cv
+2754,dakar,sn
+2755,marsassoum,sn
+2756,kolda,sn
+2757,velingara,sn
+2758,youkounkoun,gn
+2759,kedougou,sn
+2760,kita,ml
+2761,kati,ml
+2762,koulikoro,ml
+2763,segou,ml
+2764,kimparana,ml
+2765,nouna,bf
+2766,tougan,bf
+2767,yako,bf
+2768,kaya,bf
+2769,bogande,bf
+2770,gayeri,bf
+2771,say,ne
+2772,dosso,ne
+2773,birnin kebbi,ng
+2774,sokoto,ng
+2775,kaura namoda,ng
+2776,madarounfa,ne
+2777,katsina,ng
+2778,magaria,ne
+2779,nguru,ng
+2780,gashua,ng
+2781,maine-soroa,ne
+2782,diffa,ne
+2783,massaguet,td
+2784,massakory,td
+2785,bokoro,td
+2786,ati,td
+2787,oum hadjer,td
+2788,abeche,td
+2789,bara,sd
+2790,umm ruwabah,sd
+2791,tandalti,sd
+2792,rabak,sd
+2793,sinjah,sd
+2794,doka,sd
+2795,gondar,et
+2796,dabat,et
+2797,abiy adi,et
+2798,edd,er
+2799,zabid,ye
+2800,lahij,ye
+2801,malpe,in
+2802,mudbidri,in
+2803,alur,in
+2804,kunigal,in
+2805,malur,in
+2806,pallikonda,in
+2807,sriperumbudur,in
+2808,yanam,in
+2809,dawei,mm
+2810,phetchaburi,th
+2811,bang lamung,th
+2812,tha mai,th
+2813,sisophon,kh
+2814,kampong thum,kh
+2815,lumphat,kh
+2816,buon me thuot,vn
+2817,tuy hoa,vn
+2818,buluang,ph
+2819,paluan,ph
+2820,barahan,ph
+2821,yook,ph
+2822,gatbo,ph
+2823,cabadiangan,ph
+2824,anito,ph
+2825,pinotepa nacional,mx
+2826,salina cruz,mx
+2827,la gomera,gt
+2828,conguaco,gt
+2829,suchitoto,sv
+2830,la florida,hn
+2831,el terrero,hn
+2832,trojes,hn
+2833,siuna,ni
+2834,rosita,ni
+2835,puerto cabezas,ni
+2836,bull savanna,jm
+2837,barroualie,vc
+2838,chateaubelair,vc
+2839,canaries,lc
+2840,castries,lc
+2841,crab hill,bb
+2842,diofior,sn
+2843,kahone,sn
+2844,koungheul,sn
+2845,tambacounda,sn
+2846,kayes,ml
+2847,bafoulabe,ml
+2848,kolokani,ml
+2849,banamba,ml
+2850,niono,ml
+2851,djenne,ml
+2852,bandiagara,ml
+2853,djibo,bf
+2854,dori,bf
+2855,tera,ne
+2856,ouallam,ne
+2857,filingue,ne
+2858,dogondoutchi,ne
+2859,illela,ne
+2860,madaoua,ne
+2861,tibiri,ne
+2862,tessaoua,ne
+2863,zinder,ne
+2864,goure,ne
+2865,mao,td
+2866,moussoro,td
+2867,umm jarr,sd
+2868,kinanah,sd
+2869,sinnar,sd
+2870,himora,et
+2871,aksum,et
+2872,adwa,et
+2873,jiblah,ye
+2874,yarim,ye
+2875,sur,om
+2876,malwan,in
+2877,mormugao,in
+2878,kankon,in
+2879,karwar,in
+2880,honavar,in
+2881,hosanagara,in
+2882,channagiri,in
+2883,sira,in
+2884,kadiri,in
+2885,rajampet,in
+2886,nayudupeta,in
+2887,sulurpeta,in
+2888,razole,in
+2889,amalapuram,in
+2890,yarada,in
+2891,labutta,mm
+2892,kanchanaburi,th
+2893,bang len,th
+2894,lam luk ka,th
+2895,sa kaeo,th
+2896,phrai bung,th
+2897,det udom,th
+2898,champasak,la
+2899,play cu,vn
+2900,qui nhon,vn
+2901,cabra,ph
+2902,bugaan,ph
+2903,alabat,ph
+2904,caramoran,ph
+2905,gigmoto,ph
+2906,alugan,ph
+2907,tomatlan,mx
+2908,tecpan,mx
+2909,tres picos,mx
+2910,acapetahua,mx
+2911,san pablo,gt
+2912,chinique,gt
+2913,san agustin acasaguastlan,gt
+2914,san buenaventura,hn
+2915,la rosa,hn
+2916,gualaco,hn
+2917,wampusirpi,hn
+2918,auka,hn
+2919,iralaya,hn
+2920,morant bay,jm
+2921,les cayes,ht
+2922,jacmel,ht
+2923,guanica,us
+2924,arroyo,us
+2925,maunabo,us
+2926,vieux-habitants,gp
+2927,coulihaut,dm
+2928,pointe michel,dm
+2929,basse-pointe,mq
+2930,le vauclin,mq
+2931,ponta do sol,cv
+2932,mindelo,cv
+2933,assomada,cv
+2934,tivaouane,sn
+2935,mbacke,sn
+2936,linguere,sn
+2937,ourossogui,sn
+2938,semme,sn
+2939,bakel,sn
+2940,nioro,ml
+2941,nara,ml
+2942,sokolo,ml
+2943,tenenkou,ml
+2944,mopti,ml
+2945,douentza,ml
+2946,gorom-gorom,bf
+2947,ayorou,ne
+2948,tahoua,ne
+2949,keita,ne
+2950,dakoro,ne
+2951,tanout,ne
+2952,biltine,td
+2953,umm durman,sd
+2954,wad rawah,sd
+2955,tambul,sd
+2956,kassala,sd
+2957,teseney,er
+2958,barentu,er
+2959,addi ugri,er
+2960,ginda,er
+2961,bajil,ye
+2962,sayyan,ye
+2963,mangrol,in
+2964,veraval,in
+2965,mundgod,in
+2966,harpanahalli,in
+2967,bellary,in
+2968,tadpatri,in
+2969,badvel,in
+2970,kavali,in
+2971,singarayakonda,in
+2972,machilipatnam,in
+2973,narasannapeta,in
+2974,palasa,in
+2975,pyapon,mm
+2976,ye,mm
+2977,bo phloi,th
+2978,doembang nangbuat,th
+2979,chai badan,th
+2980,nakhon ratchasima,th
+2981,huai thalaeng,th
+2982,si sa ket,th
+2983,saravan,la
+2984,kon tum,vn
+2985,quang ngai,vn
+2986,aloleng,ph
+2987,palauig,ph
+2988,san narciso,ph
+2989,upig,ph
+2990,carlagan,ph
+2991,jomalig,ph
+2992,pandan,ph
+2993,lahaina,us
+2994,san quintin,mx
+2995,la orilla,mx
+2996,huazolotitlan,mx
+2997,mixtepec,mx
+2998,xadani,mx
+2999,san mateo del mar,mx
+3000,paredon,mx
+3001,san pedro buenavista,mx
+3002,la trinitaria,mx
+3003,barillas,gt
+3004,chisec,gt
+3005,punta gorda,bz
+3006,puerto cortes,hn
+3007,el porvenir,hn
+3008,puerto castilla,hn
+3009,cusuna,hn
+3010,barra patuca,hn
+3011,black river,jm
+3012,portmore,jm
+3013,bani,do
+3014,la romana,do
+3015,vieques,us
+3016,middle island,kn
+3017,charlestown,kn
+3018,grand-bourg,gp
+3019,saint-francois,gp
+3020,ribeira brava,cv
+3021,sal rei,cv
+3022,louga,sn
+3023,gollere,sn
+3024,matam,sn
+3025,maghama,mr
+3026,goundam,ml
+3027,tombouctou,ml
+3028,gao,ml
+3029,abalak,ne
+3030,agadez,ne
+3031,bilma,ne
+3032,faya,td
+3033,khartoum,sd
+3034,wagar,sd
+3035,jizan,sa
+3036,porbandar,in
+3037,ratnagiri,in
+3038,savantvadi,in
+3039,bail hongal,in
+3040,hungund,in
+3041,manvi,in
+3042,alampur,in
+3043,srisailam,in
+3044,addanki,in
+3045,avanigadda,in
+3046,puri,in
+3047,paradwip,in
+3048,kyaikkami,mm
+3049,mudon,mm
+3050,kamphaeng phet,th
+3051,khanu woralaksaburi,th
+3052,nong phai,th
+3053,chaiyaphum,th
+3054,kosum phisai,th
+3055,selaphum,th
+3056,amnat charoen,th
+3057,da nang,vn
+3058,tam ky,vn
+3059,wanning,cn
+3060,macaboboni,ph
+3061,paitan,ph
+3062,joson,ph
+3063,dumabato,ph
+3064,dicabisagan,ph
+3065,payo,ph
+3066,lompoc,us
+3067,manzanillo,mx
+3068,coyuca,mx
+3069,ayutla,mx
+3070,putla,mx
+3071,etla,mx
+3072,quetzaltepec,mx
+3073,guichicovi,mx
+3074,cintalapa,mx
+3075,bochil,mx
+3076,ocosingo,mx
+3077,miguel hidalgo,mx
+3078,benque viejo,bz
+3079,dangriga,bz
+3080,sandy bay,hn
+3081,savannah bight,hn
+3082,bodden town,ky
+3083,lucea,jm
+3084,barahona,do
+3085,cabo rojo,us
+3086,old road,ag
+3087,freetown,ag
+3088,richard toll,sn
+3089,podor,sn
+3090,bababe,mr
+3091,kidal,ml
+3092,marawi,sd
+3093,barbar,sd
+3094,tawkar,sd
+3095,sabya,sa
+3096,najran,sa
+3097,srivardhan,in
+3098,dabhol,in
+3099,guhagar,in
+3100,malkapur,in
+3101,athni,in
+3102,indi,in
+3103,wadi,in
+3104,farrukhnagar,in
+3105,nalgonda,in
+3106,kodar,in
+3107,nuzvid,in
+3108,mandapeta,in
+3109,yellamanchili,in
+3110,srikakulam,in
+3111,akyab,mm
+3112,pathein,mm
+3113,rangoon,mm
+3114,kyaikto,mm
+3115,mae ramat,th
+3116,ban tak,th
+3117,sukhothai,th
+3118,nakhon thai,th
+3119,si bun ruang,th
+3120,kumphawapi,th
+3121,sakhon nakhon,th
+3122,that phanom,th
+3123,dong hoi,vn
+3124,hue,vn
+3125,catuday,ph
+3126,balingasay,ph
+3127,nalvo,ph
+3128,betwagan,ph
+3129,san mariano,ph
+3130,arteaga,mx
+3131,zirandaro,mx
+3132,apaxtla,mx
+3133,copalillo,mx
+3134,acatlan,mx
+3135,teotitlan,mx
+3136,loma bonita,mx
+3137,acayucan,mx
+3138,las choapas,mx
+3139,tamulte,mx
+3140,jonuta,mx
+3141,reforma,mx
+3142,escarcega,mx
+3143,orange walk,bz
+3144,george town,ky
+3145,spanish town,jm
+3146,jeremie,ht
+3147,petit goave,ht
+3148,bajos de haina,do
+3149,lajas,us
+3150,patillas,us
+3151,culebra,us
+3152,road town,vg
+3153,marigot,gp
+3154,codrington,ag
+3155,pombas,cv
+3156,nouakchott,mr
+3157,ndioum,sn
+3158,araouane,ml
+3159,arlit,ne
+3160,sinkat,sd
+3161,abha,sa
+3162,dwarka,in
+3163,diu,in
+3164,alibag,in
+3165,wai,in
+3166,kalas,in
+3167,tuljapur,in
+3168,basavakalyan,in
+3169,medak,in
+3170,siddipet,in
+3171,mahbubabad,in
+3172,bhadrachalam,in
+3173,chitrakonda,in
+3174,anakapalle,in
+3175,gopalpur,in
+3176,myanaung,mm
+3177,letpadan,mm
+3178,nyaunglebin,mm
+3179,pa sang,th
+3180,thoen,th
+3181,den chai,th
+3182,rong kwang,th
+3183,nam som,th
+3184,nong khai,th
+3185,seka,th
+3186,nakhon phanom,th
+3187,ha tinh,vn
+3188,zhuhai,cn
+3189,puro,ph
+3190,sinait,ph
+3191,kabugao,ph
+3192,awallan,ph
+3193,casambalangan,ph
+3194,nishihara,jp
+3195,kihei,us
+3196,armeria,mx
+3197,tepalcatepec,mx
+3198,nueva italia de ruiz,mx
+3199,caracuaro,mx
+3200,jesus del monte,mx
+3201,tlalnepantla,mx
+3202,amozoc,mx
+3203,chocaman,mx
+3204,anton lizardo,mx
+3205,mundo nuevo,mx
+3206,agua dulce,mx
+3207,frontera,mx
+3208,sabancuy,mx
+3209,bolonchen,mx
+3210,nicolas bravo,mx
+3211,bacalar,mx
+3212,felipe carrillo puerto,mx
+3213,cozumel,mx
+3214,west bay,ky
+3215,montego bay,jm
+3216,ocho rios,jm
+3217,port antonio,jm
+3218,saint-marc,ht
+3219,hinche,ht
+3220,constanza,do
+3221,cotui,do
+3222,el seibo,do
+3223,higuey,do
+3224,isabela,us
+3225,the valley,ai
+3226,nouadhibou,mr
+3227,atar,mr
+3228,tessalit,ml
+3229,ibra,om
+3230,kodinar,in
+3231,panvel,in
+3232,manchar,in
+3233,pathardi,in
+3234,dharur,in
+3235,purna,in
+3236,bhainsa,in
+3237,jagtial,in
+3238,allapalli,in
+3239,gidam,in
+3240,jagdalpur,in
+3241,koraput,in
+3242,gunupur,in
+3243,teknaf,bd
+3244,thayetmyo,mm
+3245,pyay,mm
+3246,toungoo,mm
+3247,mae hong son,th
+3248,sansai,th
+3249,dok kham tai,th
+3250,chiang klang,th
+3251,phonhong,la
+3252,pakxan,la
+3253,vinh,vn
+3254,lingao,cn
+3255,jieshi,cn
+3256,davila,ph
+3257,claveria,ph
+3258,san vicente,ph
+3259,hirara,jp
+3260,itoman,jp
+3261,katsuura,jp
+3262,honolulu,us
+3263,juchitlan,mx
+3264,mazamitla,mx
+3265,tlazazalca,mx
+3266,iramuco,mx
+3267,temascalcingo,mx
+3268,ajoloapan,mx
+3269,zacatlan,mx
+3270,la poza,mx
+3271,emilio carranza,mx
+3272,paraiso,mx
+3273,seybaplaya,mx
+3274,hecelchakan,mx
+3275,tzucacab,mx
+3276,tulum,mx
+3277,santa cruz del sur,cu
+3278,niquero,cu
+3279,yara,cu
+3280,el cobre,cu
+3281,guantanamo,cu
+3282,baracoa,cu
+3283,port-de-paix,ht
+3284,cap-haitien,ht
+3285,maimon,do
+3286,sosua,do
+3287,samana,do
+3288,sawakin,sd
+3289,jiddah,sa
+3290,mecca,sa
+3291,abu samrah,qa
+3292,nizwa,om
+3293,chinchani,in
+3294,ojhar,in
+3295,khuldabad,in
+3296,deulgaon raja,in
+3297,washim,in
+3298,digras,in
+3299,wani,in
+3300,mul,in
+3301,kanker,in
+3302,umarkot,in
+3303,junagarh,in
+3304,udayagiri,in
+3305,nayagarh,in
+3306,nimaparha,in
+3307,harindanga,in
+3308,mathbaria,bd
+3309,minbu,mm
+3310,magway,mm
+3311,pyinmana,mm
+3312,loikaw,mm
+3313,chiang rai,th
+3314,chiang khong,th
+3315,luang prabang,la
+3316,xam nua,la
+3317,thanh hoa,vn
+3318,ninh binh,vn
+3319,thai binh,vn
+3320,cam pha,vn
+3321,qiongshan,cn
+3322,yangjiang,cn
+3323,shenzhen,cn
+3324,jiazi,cn
+3325,basco,ph
+3326,naze,jp
+3327,shimoda,jp
+3328,tateyama,jp
+3329,makaha,us
+3330,kahului,us
+3331,todos santos,mx
+3332,bucerias,mx
+3333,las varas,mx
+3334,hostotipaquillo,mx
+3335,san gabriel,mx
+3336,union de san antonio,mx
+3337,dolores hidalgo,mx
+3338,colon,mx
+3339,jacala,mx
+3340,chicontepec,mx
+3341,cazones,mx
+3342,nautla,mx
+3343,vega de alatorre,mx
+3344,celestun,mx
+3345,tetiz,mx
+3346,izamal,mx
+3347,tizimin,mx
+3348,leona vicario,mx
+3349,isla mujeres,mx
+3350,mantua,cu
+3351,guane,cu
+3352,cienfuegos,cu
+3353,venezuela,cu
+3354,las tunas,cu
+3355,gibara,cu
+3356,moa,cu
+3357,cockburn harbour,tc
+3358,cockburn town,tc
+3359,taoudenni,ml
+3360,riyadh,sa
+3361,abu dhabi,ae
+3362,ormara,pk
+3363,keti bandar,pk
+3364,una,in
+3365,mahuva,in
+3366,surat,in
+3367,navapur,in
+3368,amalner,in
+3369,varangaon,in
+3370,akot,in
+3371,chandur,in
+3372,nagpur,in
+3373,bhandara,in
+3374,bhanpuri,in
+3375,mahasamund,in
+3376,padampur,in
+3377,sonepur,in
+3378,angul,in
+3379,bhuban,in
+3380,basudebpur,in
+3381,contai,in
+3382,chauk,mm
+3383,meiktila,mm
+3384,taunggyi,mm
+3385,mae sai,th
+3386,nam tha,la
+3387,dien bien,vn
+3388,son la,vn
+3389,hoa binh,vn
+3390,ha noi,vn
+3391,hong gai,vn
+3392,beihai,cn
+3393,dongli,cn
+3394,meilu,cn
+3395,taicheng,cn
+3396,haimen,cn
+3397,tungkang,tw
+3398,ishigaki,jp
+3399,gushikawa,jp
+3400,hasaki,jp
+3401,wahiawa,us
+3402,kailua,us
+3403,mazatlan,mx
+3404,agua verde,mx
+3405,teacapan,mx
+3406,ruiz,mx
+3407,villa guerrero,mx
+3408,tabasco,mx
+3409,palo alto,mx
+3410,la pila,mx
+3411,fernandez,mx
+3412,ciudad valles,mx
+3413,panuco,mx
+3414,miramar,mx
+3415,tamiahua,mx
+3416,progreso,mx
+3417,dzilam gonzalez,mx
+3418,panaba,mx
+3419,nueva gerona,cu
+3420,batabano,cu
+3421,aguada de pasajeros,cu
+3422,manicaragua,cu
+3423,jatibonico,cu
+3424,esmeralda,cu
+3425,nuevitas,cu
+3426,clarence town,bs
+3427,gat,ly
+3428,marzuq,ly
+3429,aswan,eg
+3430,gwadar,pk
+3431,lalpur,in
+3432,gondal,in
+3433,dhola,in
+3434,amod,in
+3435,kavant,in
+3436,anjad,in
+3437,bhikangaon,in
+3438,khirkiya,in
+3439,amla,in
+3440,chhindwara,in
+3441,waraseoni,in
+3442,kawardha,in
+3443,bilaspur,in
+3444,sakti,in
+3445,sundargarh,in
+3446,raurkela,in
+3447,rairangpur,in
+3448,jaleswar,in
+3449,haldia,in
+3450,baghmara,in
+3451,lalmohan,bd
+3452,bandarban,bd
+3453,saiha,in
+3454,falam,mm
+3455,monywa,mm
+3456,mandalay,mm
+3457,maymyo,mm
+3458,lashio,mm
+3459,yunjinghong,cn
+3460,lao cai,vn
+3461,tuyen quang,vn
+3462,bac can,vn
+3463,lang son,vn
+3464,qinzhou,cn
+3465,lianzhou,cn
+3466,yashan,cn
+3467,gaozhou,cn
+3468,tangping,cn
+3469,danshui,cn
+3470,kaohsiung,tw
+3471,chaochou,tw
+3472,taitung,tw
+3473,shingu,jp
+3474,la cruz,mx
+3475,pueblo nuevo,mx
+3476,huejuquilla el alto,mx
+3477,fresnillo,mx
+3478,los zacatones,mx
+3479,venado,mx
+3480,tula,mx
+3481,xicotencatl,mx
+3482,aldama,mx
+3483,nuevo progreso,mx
+3484,pinar del rio,cu
+3485,cabanas,cu
+3486,jaruco,cu
+3487,marti,cu
+3488,sagua la grande,cu
+3489,caibarien,cu
+3490,moron,cu
+3491,jalu,ly
+3492,asyut,eg
+3493,tahta,eg
+3494,umm lajj,sa
+3495,buraydah,sa
+3496,qurayyat,om
+3497,jiwani,pk
+3498,naliya,in
+3499,anjar,in
+3500,halvad,in
+3501,viramgam,in
+3502,mahudha,in
+3503,morwa,in
+3504,petlawad,in
+3505,dewas,in
+3506,ichhawar,in
+3507,sultanpur,in
+3508,kareli,in
+3509,barela,in
+3510,dindori,in
+3511,kotma,in
+3512,ambikapur,in
+3513,jashpurnagar,in
+3514,khunti,in
+3515,chandil,in
+3516,khatra,in
+3517,srirampur,in
+3518,jhikargachha,bd
+3519,gaurnadi,bd
+3520,lakshmipur,bd
+3521,khagrachari,bd
+3522,north vanlaiphai,in
+3523,shwebo,mm
+3524,mogok,mm
+3525,simao,cn
+3526,gejiu,cn
+3527,mabai,cn
+3528,ha giang,vn
+3529,cao bang,vn
+3530,nanning,cn
+3531,binzhou,cn
+3532,yulin,cn
+3533,nandu,cn
+3534,yuncheng,cn
+3535,foshan,cn
+3536,shilong,cn
+3537,pingshan,cn
+3538,chenghai,cn
+3539,makung,tw
+3540,tainan,tw
+3541,yungkang,tw
+3542,yuli,tw
+3543,ahuimanu,us
+3544,la paz,mx
+3545,eldorado,mx
+3546,el carrizo,mx
+3547,tayoltita,mx
+3548,durango,mx
+3549,vicente guerrero,mx
+3550,nieves,mx
+3551,canitas,mx
+3552,cedral,mx
+3553,doctor arroyo,mx
+3554,santa engracia,mx
+3555,soto la marina,mx
+3556,matamoros,mx
+3557,bahia honda,cu
+3558,key west,us
+3559,marathon,us
+3560,corralillo,cu
+3561,andros town,bs
+3562,rock sound,bs
+3563,adrar,dz
+3564,sohag,eg
+3565,esna,eg
+3566,doha,qa
+3567,dubai,ae
+3568,ruwi,om
+3569,muscat,om
+3570,karachi,pk
+3571,kadhan,pk
+3572,diplo,pk
+3573,rapar,in
+3574,patan,in
+3575,khed brahma,in
+3576,salumbar,in
+3577,mandsaur,in
+3578,susner,in
+3579,biaora,in
+3580,bamora,in
+3581,banda,in
+3582,pawai,in
+3583,barhi,in
+3584,sidhi,in
+3585,pipri,in
+3586,daltenganj,in
+3587,chatra,in
+3588,hesla,in
+3589,mihijam,in
+3590,bheramara,bd
+3591,mirzapur,bd
+3592,bhairab bazar,bd
+3593,kamalpur,in
+3594,darlawn,in
+3595,churachandpur,in
+3596,mawlaik,mm
+3597,katha,mm
+3598,banmo,mm
+3599,zhoucheng,cn
+3600,kaiyuan,cn
+3601,zhongshu,cn
+3602,kaihua,cn
+3603,bose,cn
+3604,jinchengjiang,cn
+3605,laibin,cn
+3606,luorong,cn
+3607,wuzhou,cn
+3608,huaicheng,cn
+3609,qingyuan,cn
+3610,yingcheng,cn
+3611,yuancheng,cn
+3612,rongcheng,cn
+3613,chaozhou,cn
+3614,shima,cn
+3615,erhlin,tw
+3616,puli,tw
+3617,suao,tw
+3618,pacific grove,us
+3619,topolobampo,mx
+3620,la reforma,mx
+3621,culiacan,mx
+3622,santa catarina de tepehuanes,mx
+3623,nuevo ideal,mx
+3624,juarez,mx
+3625,venustiano carranza,mx
+3626,parras,mx
+3627,saltillo,mx
+3628,galeana,mx
+3629,san fernando,mx
+3630,key largo,us
+3631,alice town,bs
+3632,nassau,bs
+3633,los llanos de aridane,es
+3634,arona,es
+3635,aguimes,es
+3636,puerto del rosario,es
+3637,tiznit,ma
+3638,awbari,ly
+3639,sabha,ly
+3640,awjilah,ly
+3641,safaga,eg
+3642,buqayq,sa
+3643,umm bab,qa
+3644,sharjah,ae
+3645,chabahar,ir
+3646,pasni,pk
+3647,uthal,pk
+3648,thatta,pk
+3649,rajo khanani,pk
+3650,mithi,pk
+3651,sanchor,in
+3652,bhinmal,in
+3653,sheoganj,in
+3654,rajsamand,in
+3655,begun,in
+3656,kota,in
+3657,chhabra,in
+3658,isagarh,in
+3659,jatara,in
+3660,khajuraho,in
+3661,manikpur,in
+3662,sirsa,in
+3663,ahraura,in
+3664,sasaram,in
+3665,tekari,in
+3666,lakhisarai,in
+3667,amarpur,in
+3668,ingraj bazar,in
+3669,jaipur hat,bd
+3670,sherpur,bd
+3671,netrakona,bd
+3672,chhatak,bd
+3673,haflong,in
+3674,imphal,in
+3675,phek,in
+3676,myitkyina,mm
+3677,dali,cn
+3678,lianran,cn
+3679,kunming,cn
+3680,qujing,cn
+3681,xingyi,cn
+3682,liuzhou,cn
+3683,guilin,cn
+3684,shaoguan,cn
+3685,xiongzhou,cn
+3686,longyan,cn
+3687,ximei,cn
+3688,luoyang,cn
+3689,tunghsiao,tw
+3690,yangmei,tw
+3691,juifang,tw
+3692,toucheng,tw
+3693,mulege,mx
+3694,loreto,mx
+3695,ahome,mx
+3696,mochicahui,mx
+3697,sinaloa,mx
+3698,guadalupe y calvo,mx
+3699,santa maria del oro,mx
+3700,mapimi,mx
+3701,ramos arizpe,mx
+3702,marin,mx
+3703,general bravo,mx
+3704,rio bravo,mx
+3705,brownsville,us
+3706,freeport,us
+3707,galveston,us
+3708,morgan city,us
+3709,houma,us
+3710,estelle,us
+3711,panama city,us
+3712,saint pete beach,us
+3713,venice,us
+3714,south venice,us
+3715,fort myers beach,us
+3716,naples,us
+3717,immokalee,us
+3718,aventura,us
+3719,high rock,bs
+3720,marsh harbour,bs
+3721,dunmore town,bs
+3722,saint george,bm
+3723,ribeira grande,pt
+3724,adeje,es
+3725,waddan,ly
+3726,abnub,eg
+3727,el balyana,eg
+3728,qena,eg
+3729,sitrah,bh
+3730,khor,qa
+3731,bandar-e lengeh,ir
+3732,minab,ir
+3733,turbat,pk
+3734,bela,pk
+3735,sann,pk
+3736,sanghar,pk
+3737,chor,pk
+3738,barmer,in
+3739,balotra,in
+3740,jodhpur,in
+3741,raipur,in
+3742,sarwar,in
+3743,tonk,in
+3744,sheopur,in
+3745,antri,in
+3746,mau,in
+3747,kurara,in
+3748,dalmau,in
+3749,pratapgarh,in
+3750,nizamabad,in
+3751,sikandarpur,in
+3752,marhaura,in
+3753,darbhanga,in
+3754,murliganj,in
+3755,kishanganj,in
+3756,badarganj,bd
+3757,dhuburi,in
+3758,barpeta,in
+3759,nongpoh,in
+3760,hojai,in
+3761,bokajan,in
+3762,tuensang,in
+3763,khonsa,in
+3764,panzhihua,cn
+3765,anshun,cn
+3766,xiaoweizhai,cn
+3767,lengshuitan,cn
+3768,yongzhou,cn
+3769,chenzhou,cn
+3770,ganzhou,cn
+3771,yongan,cn
+3772,sanming,cn
+3773,fuzhou,cn
+3774,tanshui,tw
+3775,keelung,tw
+3776,nago,jp
+3777,sentyabrskiy,ru
+3778,santa rosalia,mx
+3779,potam,mx
+3780,etchojoa,mx
+3781,alamos,mx
+3782,choix,mx
+3783,valle de allende,mx
+3784,tlahualilo,mx
+3785,ocampo,mx
+3786,nadadores,mx
+3787,monclova,mx
+3788,anahuac,mx
+3789,guerrero,mx
+3790,kingsville,us
+3791,aransas pass,us
+3792,pascagoula,us
+3793,warrington,us
+3794,seminole,us
+3795,belle glade,us
+3796,jupiter,us
+3797,san bartolome de tirajana,es
+3798,tarudant,ma
+3799,warqla,dz
+3800,marsa matruh,eg
+3801,matay,eg
+3802,akhmim,eg
+3803,hurghada,eg
+3804,tabuk,sa
+3805,sakakah,sa
+3806,safwah,sa
+3807,manama,bh
+3808,gerash,ir
+3809,qeshm,ir
+3810,iranshahr,ir
+3811,johi,pk
+3812,sita road,pk
+3813,bozdar,pk
+3814,jaisalmer,in
+3815,pokaran,in
+3816,phalodi,in
+3817,kuchera,in
+3818,nawa,in
+3819,basi,in
+3820,bhasawar,in
+3821,agra,in
+3822,karhal,in
+3823,kannauj,in
+3824,itaunja,in
+3825,gonda,in
+3826,mehndawal,in
+3827,padrauna,in
+3828,kalaiya,np
+3829,janakpur,np
+3830,dhankuta,np
+3831,ilam,np
+3832,phuntsholing,bt
+3833,damphu,bt
+3834,mongar,bt
+3835,udalguri,in
+3836,rangapara,in
+3837,lakhimpur,in
+3838,sonari,in
+3839,margherita,in
+3840,tezu,in
+3841,zhaotong,cn
+3842,caohai,cn
+3843,bijie,cn
+3844,guiyang,cn
+3845,kaili,cn
+3846,tongren,cn
+3847,hongjiang,cn
+3848,shaoyang,cn
+3849,qidong,cn
+3850,hengyang,cn
+3851,pingxiang,cn
+3852,jian,cn
+3853,linchuan,cn
+3854,shaowu,cn
+3855,zhicheng,cn
+3856,jiaocheng,cn
+3857,hanyang,cn
+3858,jinxiang,cn
+3859,wenling,cn
+3860,yomitan,jp
+3861,kushima,jp
+3862,half moon bay,us
+3863,santa isabel,mx
+3864,guaymas,mx
+3865,cocorit,mx
+3866,creel,mx
+3867,cuauhtemoc,mx
+3868,santa cruz de rosales,mx
+3869,saucillo,mx
+3870,muzquiz,mx
+3871,sabinas,mx
+3872,nuevo laredo,mx
+3873,rockport,us
+3874,port lavaca,us
+3875,port arthur,us
+3876,clearwater,us
+3877,winston,us
+3878,yeehaw junction,us
+3879,sebastian,us
+3880,fort pierce,us
+3881,ponta delgada,pt
+3882,guia de isora,es
+3883,galdar,es
+3884,telde,es
+3885,arrecife,es
+3886,hun,ly
+3887,bayan,kw
+3888,bushehr,ir
+3889,khormuj,ir
+3890,jahrom,ir
+3891,lar,ir
+3892,jiroft,ir
+3893,bam,ir
+3894,khash,ir
+3895,dalbandin,pk
+3896,kharan,pk
+3897,surab,pk
+3898,khuzdar,pk
+3899,garhi khairo,pk
+3900,ghauspur,pk
+3901,ubauro,pk
+3902,khanpur,pk
+3903,bikaner,in
+3904,bhadasar,in
+3905,fatehpur,in
+3906,narnaul,in
+3907,nuh,in
+3908,aligarh,in
+3909,ujhani,in
+3910,pawayan,in
+3911,amethi,in
+3912,bhinga,in
+3913,tansen,np
+3914,waling,np
+3915,kathmandu,np
+3916,banepa,np
+3917,khandbari,np
+3918,mangan,in
+3919,gasa,bt
+3920,lhuntshi,bt
+3921,tawang,in
+3922,ziro,in
+3923,along,in
+3924,xichang,cn
+3925,xunchang,cn
+3926,tongzi,cn
+3927,jishou,cn
+3928,lengshuijiang,cn
+3929,loudi,cn
+3930,zhuzhou,cn
+3931,xinyu,cn
+3932,xiongshi,cn
+3933,shangrao,cn
+3934,quzhou,cn
+3935,lishui,cn
+3936,wenzhou,cn
+3937,shenjiamen,cn
+3938,muroto,jp
+3939,severo-kurilsk,ru
+3940,isla vista,us
+3941,rosarito,mx
+3942,providencia,mx
+3943,hermosillo,mx
+3944,ures,mx
+3945,sahuaripa,mx
+3946,madera,mx
+3947,chihuahua,mx
+3948,jimenez,mx
+3949,ojinaga,mx
+3950,acuna,mx
+3951,uvalde,us
+3952,hondo,us
+3953,pleasanton,us
+3954,bay city,us
+3955,lake charles,us
+3956,abbeville,us
+3957,chalmette,us
+3958,callaway,us
+3959,tallahassee,us
+3960,spring hill,us
+3961,lady lake,us
+3962,new smyrna beach,us
+3963,merritt island,us
+3964,cape canaveral,us
+3965,icod de los vinos,es
+3966,santa cruz de tenerife,es
+3967,las palmas,es
+3968,tias,es
+3969,marrakesh,ma
+3970,nalut,ly
+3971,ajdabiya,ly
+3972,bardiyah,ly
+3973,el faiyum,eg
+3974,beba,eg
+3975,el wasta,eg
+3976,suez,eg
+3977,elat,il
+3978,kazerun,ir
+3979,fasa,ir
+3980,darab,ir
+3981,sirjan,ir
+3982,baft,ir
+3983,rudbar,af
+3984,nushki,pk
+3985,kalat,pk
+3986,bhag,pk
+3987,dera bugti,pk
+3988,rojhan,pk
+3989,uch,pk
+3990,yazman,pk
+3991,fort abbas,pk
+3992,suratgarh,in
+3993,bhadra,in
+3994,hansi,in
+3995,sonipat,in
+3996,parichhatgarh,in
+3997,suar,in
+3998,khatima,in
+3999,dhangadhi,np
+4000,jumla,np
+4001,pokhara,np
+4002,lasa,cn
+4003,leshan,cn
+4004,luocheng,cn
+4005,zigong,cn
+4006,yongchang,cn
+4007,longhua,cn
+4008,dayong,cn
+4009,changde,cn
+4010,yueyang,cn
+4011,puqi,cn
+4012,baisha,cn
+4013,nanchang,cn
+4014,jingdezhen,cn
+4015,choucheng,cn
+4016,linhai,cn
+4017,jiaojiang,cn
+4018,nichinan,jp
+4019,port hueneme,us
+4020,maneadero,mx
+4021,caborca,mx
+4022,pitiquito,mx
+4023,benjamin hill,mx
+4024,cumpas,mx
+4025,moctezuma,mx
+4026,benito juarez,mx
+4027,ahumada,mx
+4028,del rio,us
+4029,kerrville,us
+4030,kyle,us
+4031,brenham,us
+4032,katy,us
+4033,atascocita,us
+4034,nederland,us
+4035,thibodaux,us
+4036,gulfport,us
+4037,fairhope,us
+4038,lake city,us
+4039,lakeside,us
+4040,saint augustine,us
+4041,ormond beach,us
+4042,edgewater,us
+4043,vila franca do campo,pt
+4044,santa cruz de la palma,es
+4045,teguise,es
+4046,mrirt,ma
+4047,mizdah,ly
+4048,surt,ly
+4049,alexandria,eg
+4050,madinat sittah uktubar,eg
+4051,mizpe ramon,il
+4052,wadi musa,jo
+4053,bayir,jo
+4054,baghdad,iq
+4055,abadan,ir
+4056,shadegan,ir
+4057,hendijan,ir
+4058,do gonbadan,ir
+4059,marv dasht,ir
+4060,shahr-e babak,ir
+4061,rafsanjan,ir
+4062,kerman,ir
+4063,zabol,ir
+4064,mirabad,af
+4065,quetta,pk
+4066,harnai,pk
+4067,kohlu,pk
+4068,barkhan,pk
+4069,khangarh,pk
+4070,mailsi,pk
+4071,chishtian mandi,pk
+4072,ganganagar,in
+4073,kalanwali,in
+4074,dirba,in
+4075,ladwa,in
+4076,haridwar,in
+4077,pauri,in
+4078,bageshwar,in
+4079,dharchula,in
+4080,pasighat,in
+4081,yaan,cn
+4082,ziyang,cn
+4083,heyang,cn
+4084,fuling,cn
+4085,lichuan,cn
+4086,enshi,cn
+4087,nanhai,cn
+4088,huangmei,cn
+4089,anqing,cn
+4090,tunxi,cn
+4091,fuyang,cn
+4092,yuyao,cn
+4093,dinghai,cn
+4094,kaseda,jp
+4095,oyama,jp
+4096,nikolskoye,ru
+4097,fortuna,us
+4098,rancho palos verdes,us
+4099,el sauzal,mx
+4100,camalu,mx
+4101,puerto penasco,mx
+4102,imuris,mx
+4103,cananea,mx
+4104,agua prieta,mx
+4105,praxedis guerrero,mx
+4106,pecos,us
+4107,odessa,us
+4108,san angelo,us
+4109,brownwood,us
+4110,copperas cove,us
+4111,temple,us
+4112,bryan,us
+4113,lufkin,us
+4114,lumberton,us
+4115,opelousas,us
+4116,zachary,us
+4117,bogalusa,us
+4118,hattiesburg,us
+4119,saraland,us
+4120,crestview,us
+4121,enterprise,us
+4122,bainbridge,us
+4123,thomasville,us
+4124,valdosta,us
+4125,kingsland,us
+4126,saint simons,us
+4127,mount pleasant,us
+4128,north myrtle beach,us
+4129,wilmington,us
+4130,torbay,ca
+4131,camara de lobos,pt
+4132,canico,pt
+4133,agadir,ma
+4134,aflu,dz
+4135,duz,tn
+4136,jadu,ly
+4137,bani walid,ly
+4138,tubruq,ly
+4139,el mahalla el kubra,eg
+4140,port said,eg
+4141,ofaqim,il
+4142,yeroham,il
+4143,busayra,jo
+4144,turayf,sa
+4145,hit,iq
+4146,dehloran,ir
+4147,khorramshahr,ir
+4148,ramshir,ir
+4149,agha jari,ir
+4150,semirom,ir
+4151,mehriz,ir
+4152,bafq,ir
+4153,ravar,ir
+4154,birjand,ir
+4155,zaranj,af
+4156,geresk,af
+4157,chaman,pk
+4158,pishin,pk
+4159,ziarat,pk
+4160,zhob,pk
+4161,garh maharaja,pk
+4162,tandlianwala,pk
+4163,chunian,pk
+4164,makhu,in
+4165,rahon,in
+4166,sabathu,in
+4167,barkot,in
+4168,gangotri,in
+4169,joshimath,in
+4170,linqiong,cn
+4171,tianpeng,cn
+4172,tongchuan,cn
+4173,nanchong,cn
+4174,daxian,cn
+4175,wanxian,cn
+4176,yichang,cn
+4177,qixingtai,cn
+4178,tianmen,cn
+4179,huangpi,cn
+4180,macheng,cn
+4181,lujiang,cn
+4182,tongling,cn
+4183,xuanzhou,cn
+4184,songling,cn
+4185,shanghai,cn
+4186,fukue,jp
+4187,nakamura,jp
+4188,primo tapia,mx
+4189,ensenada,mx
+4190,estacion coahuila,mx
+4191,fortuna foothills,us
+4192,sonoita,mx
+4193,drexel heights,us
+4194,sierra vista,us
+4195,douglas,us
+4196,deming,us
+4197,las cruces,us
+4198,socorro,us
+4199,carlsbad,us
+4200,west odessa,us
+4201,midland,us
+4202,big spring,us
+4203,abilene,us
+4204,stephenville,us
+4205,hillsboro,us
+4206,athens,us
+4207,henderson,us
+4208,bossier city,us
+4209,natchitoches,us
+4210,monroe,us
+4211,vicksburg,us
+4212,brandon,us
+4213,laurel,us
+4214,meridian,us
+4215,selma,us
+4216,troy,us
+4217,eufaula,us
+4218,cordele,us
+4219,jesup,us
+4220,wilmington island,us
+4221,charleston,us
+4222,machico,pt
+4223,porto santo,pt
+4224,asfi,ma
+4225,nador,ma
+4226,wahran,dz
+4227,tuggurt,dz
+4228,yafran,ly
+4229,misratah,ly
+4230,benghazi,ly
+4231,tukrah,ly
+4232,darnah,ly
+4233,rosetta,eg
+4234,damietta,eg
+4235,ashqelon,il
+4236,nehalim,il
+4237,jawa,jo
+4238,mehran,ir
+4239,shush,ir
+4240,shushtar,ir
+4241,masjed-e soleyman,ir
+4242,borujan,ir
+4243,shahreza,ir
+4244,meybod,ir
+4245,anar darreh,af
+4246,farah,af
+4247,sangin,af
+4248,qandahar,af
+4249,uruzgan,af
+4250,sharan,af
+4251,wana,pk
+4252,tank,pk
+4253,paharpur,pk
+4254,mitha tiwana,pk
+4255,liliani,pk
+4256,kamoke,pk
+4257,dera baba nanak,in
+4258,talwara,in
+4259,kulu,in
+4260,sarahan,in
+4261,jiangyou,cn
+4262,baoning,cn
+4263,ankang,cn
+4264,shiyan,cn
+4265,xiangfan,cn
+4266,zaoyang,cn
+4267,xinyang,cn
+4268,huangchuan,cn
+4269,gushi,cn
+4270,hefei,cn
+4271,chaohu,cn
+4272,xiaolingwei,cn
+4273,taixing,cn
+4274,jinsha,cn
+4275,huilong,cn
+4276,ushibuka,jp
+4277,kobayashi,jp
+4278,shintomi,jp
+4279,sukumo,jp
+4280,dana point,us
+4281,poway,us
+4282,imperial,us
+4283,algodones,mx
+4284,buckeye,us
+4285,casa grande,us
+4286,florence,us
+4287,safford,us
+4288,silver city,us
+4289,truth or consequences,us
+4290,alamogordo,us
+4291,artesia,us
+4292,hobbs,us
+4293,lamesa,us
+4294,snyder,us
+4295,graham,us
+4296,mineral wells,us
+4297,lewisville,us
+4298,greenville,us
+4299,texarkana,us
+4300,magnolia,us
+4301,bastrop,us
+4302,canton,us
+4303,starkville,us
+4304,tuscaloosa,us
+4305,alabaster,us
+4306,alexander city,us
+4307,valley,us
+4308,thomaston,us
+4309,milledgeville,us
+4310,north augusta,us
+4311,orangeburg,us
+4312,goose creek,us
+4313,azimur,ma
+4314,casablanca,ma
+4315,fez,ma
+4316,naftah,tn
+4317,tatawin,tn
+4318,bin qirdan,tn
+4319,zuwarah,ly
+4320,tripoli,ly
+4321,masallatah,ly
+4322,lemesos,cy
+4323,tirat karmel,il
+4324,nahariyya,il
+4325,jaramana,sy
+4326,abu kamal,sy
+4327,abdanan,ir
+4328,do rud,ir
+4329,fereydunshahr,ir
+4330,faridan,ir
+4331,esfahan,ir
+4332,ardistan,ir
+4333,ardakan,ir
+4334,tabas,ir
+4335,kusk,af
+4336,sindand,af
+4337,taywarah,af
+4338,deh rawud,af
+4339,gazni,af
+4340,orgun,af
+4341,miram shah,pk
+4342,sarai naurang,pk
+4343,pindi gheb,pk
+4344,chakwal,pk
+4345,sarai alamgir,pk
+4346,katra,in
+4347,bhaderwah,in
+4348,manali,in
+4349,leh,in
+4350,xining,cn
+4351,linxia,cn
+4352,guangyuan,cn
+4353,hanzhong,cn
+4354,dengzhou,cn
+4355,nanyang,cn
+4356,zhumadian,cn
+4357,jieshou,cn
+4358,huaiyuan,cn
+4359,mingguang,cn
+4360,baoying,cn
+4361,zhaoyang,cn
+4362,dafeng,cn
+4363,juegang,cn
+4364,omura,jp
+4365,kikuchi,jp
+4366,saiki,jp
+4367,tanabe,jp
+4368,nemuro,jp
+4369,pacifica,us
+4370,morro bay,us
+4371,malibu,us
+4372,hacienda heights,us
+4373,yucaipa,us
+4374,twentynine palms,us
+4375,blythe,us
+4376,lake havasu city,us
+4377,sun city west,us
+4378,paradise valley,us
+4379,payson,us
+4380,show low,us
+4381,ruidoso,us
+4382,roswell,us
+4383,portales,us
+4384,plainview,us
+4385,vernon,us
+4386,wichita falls,us
+4387,ardmore,us
+4388,durant,us
+4389,paris,us
+4390,hope,us
+4391,arkadelphia,us
+4392,pine bluff,us
+4393,cleveland,us
+4394,grenada,us
+4395,tupelo,us
+4396,columbus,us
+4397,cullman,us
+4398,gadsden,us
+4399,dallas,us
+4400,lawrenceville,us
+4401,anderson,us
+4402,greenwood,us
+4403,forest acres,us
+4404,conway,us
+4405,piney green,us
+4406,elizabeth city,us
+4407,camacha,pt
+4408,rabat,ma
+4409,sidi qasim,ma
+4410,tawnat,ma
+4411,birin,dz
+4412,tawzar,tn
+4413,qibili,tn
+4414,qabis,tn
+4415,jarjis,tn
+4416,zlitan,ly
+4417,palaiokhora,gr
+4418,pirgos,gr
+4419,koutsouras,gr
+4420,palaikastron,gr
+4421,karpathos,gr
+4422,kumluca,tr
+4423,pafos,cy
+4424,dromolaxia,cy
+4425,beirut,lb
+4426,riyaq,lb
+4427,yabrud,sy
+4428,rawah,iq
+4429,balad,iq
+4430,mandali,iq
+4431,kermanshah,ir
+4432,alashtar,ir
+4433,borujerd,ir
+4434,arak,ir
+4435,delijan,ir
+4436,kashan,ir
+4437,semnan,ir
+4438,taybad,ir
+4439,tir pol,af
+4440,herat,af
+4441,sahrak,af
+4442,panjab,af
+4443,gardan diwal,af
+4444,baraki barak,af
+4445,azrow,af
+4446,acin,af
+4447,nowshera,pk
+4448,haripur,pk
+4449,uri,in
+4450,tral,in
+4451,kargil,in
+4452,beidao,cn
+4453,guozhen,cn
+4454,yuxia,cn
+4455,xian,cn
+4456,weinan,cn
+4457,sanmenxia,cn
+4458,yima,cn
+4459,luyang,cn
+4460,xuchang,cn
+4461,xuanwu,cn
+4462,bozhou,cn
+4463,huaibei,cn
+4464,suicheng,cn
+4465,gaogou,cn
+4466,dongkan,cn
+4467,hede,cn
+4468,hirado,jp
+4469,maebaru,jp
+4470,shimonoseki,jp
+4471,hikari,jp
+4472,imabari,jp
+4473,waki,jp
+4474,gobo,jp
+4475,kumano,jp
+4476,toba,jp
+4477,ukiah,us
+4478,monterey,us
+4479,pismo beach,us
+4480,arvin,us
+4481,california city,us
+4482,barstow,us
+4483,bullhead city,us
+4484,kingman,us
+4485,chino valley,us
+4486,cottonwood,us
+4487,winslow,us
+4488,gallup,us
+4489,grants,us
+4490,south valley,us
+4491,bernalillo,us
+4492,las vegas,us
+4493,tucumcari,us
+4494,clovis,us
+4495,canyon,us
+4496,pampa,us
+4497,elk city,us
+4498,altus,us
+4499,chickasha,us
+4500,shawnee,us
+4501,okmulgee,us
+4502,fort smith,us
+4503,russellville,us
+4504,cabot,us
+4505,forrest city,us
+4506,southaven,us
+4507,corinth,us
+4508,scottsboro,us
+4509,east brainerd,us
+4510,gainesville,us
+4511,clemson,us
+4512,spartanburg,us
+4513,rock hill,us
+4514,rockingham,us
+4515,hope mills,us
+4516,goldsboro,us
+4517,new bern,us
+4518,virginia beach,us
+4519,kenitra,ma
+4520,wazzan,ma
+4521,sidi ali,dz
+4522,tazmalt,dz
+4523,constantine,dz
+4524,talah,tn
+4525,subaytilah,tn
+4526,sidi bu zayd,tn
+4527,jabinyanah,tn
+4528,san lawrenz,mt
+4529,dingli,mt
+4530,marsaxlokk,mt
+4531,pachino,it
+4532,methoni,gr
+4533,yialos,gr
+4534,asimion,gr
+4535,arkhangelos,gr
+4536,chlorakas,cy
+4537,polis,cy
+4538,lefka,cy
+4539,paralimni,cy
+4540,dipkarpaz,cy
+4541,tartus,sy
+4542,salamiyah,sy
+4543,manbij,sy
+4544,bayji,iq
+4545,tikrit,iq
+4546,kifri,iq
+4547,paveh,ir
+4548,kamyaran,ir
+4549,qorveh,ir
+4550,hamadan,ir
+4551,tafresh,ir
+4552,qom,ir
+4553,garmsar,ir
+4554,damghan,ir
+4555,sabzevar,ir
+4556,neyshabur,ir
+4557,torbat-e jam,ir
+4558,ciras,af
+4559,lar gerd,af
+4560,carikar,af
+4561,tagab,af
+4562,asadabad,af
+4563,dir,pk
+4564,mingaora,pk
+4565,handwara,in
+4566,bandipur,in
+4567,korla,cn
+4568,yumen,cn
+4569,pingliang,cn
+4570,xixiang,cn
+4571,xinxiang,cn
+4572,heze,cn
+4573,shancheng,cn
+4574,tengzhou,cn
+4575,bianzhuang,cn
+4576,shizilu,cn
+4577,rizhao,cn
+4578,qingdao,cn
+4579,yatou,cn
+4580,seoul,kr
+4581,fukuma,jp
+4582,nagato,jp
+4583,hamada,jp
+4584,shobara,jp
+4585,tsuyama,jp
+4586,nishiwaki,jp
+4587,ritto,jp
+4588,kariya,jp
+4589,mori,jp
+4590,ito,jp
+4591,kamogawa,jp
+4592,ohara,jp
+4593,kamaishi,jp
+4594,king city,us
+4595,avenal,us
+4596,porterville,us
+4597,ridgecrest,us
+4598,pahrump,us
+4599,hurricane,us
+4600,flagstaff,us
+4601,bloomfield,us
+4602,los alamos,us
+4603,espanola,us
+4604,dumas,us
+4605,woodward,us
+4606,clinton,us
+4607,enid,us
+4608,stillwater,us
+4609,jenks,us
+4610,tahlequah,us
+4611,fayetteville,us
+4612,harrison,us
+4613,batesville,us
+4614,jonesboro,us
+4615,blytheville,us
+4616,humboldt,us
+4617,franklin,us
+4618,lebanon,us
+4619,crossville,us
+4620,knoxville,us
+4621,greeneville,us
+4622,boone,us
+4623,statesville,us
+4624,high point,us
+4625,durham,us
+4626,rocky mount,us
+4627,washington,us
+4628,brigantine,us
+4629,nantucket,us
+4630,horta,pt
+4631,aljezur,pt
+4632,faro,pt
+4633,cadiz,es
+4634,barbate,es
+4635,ceuta,es
+4636,torrox,es
+4637,melilla,es
+4638,almeria,es
+4639,medea,dz
+4640,manzil salim,tn
+4641,nibbar,tn
+4642,harqalah,tn
+4643,lamtah,tn
+4644,tabulbah,tn
+4645,xghajra,mt
+4646,syracuse,it
+4647,locri,it
+4648,mouzakion,gr
+4649,koroni,gr
+4650,yefira,gr
+4651,ayia marina,gr
+4652,emborion,gr
+4653,astipalaia,gr
+4654,lardos,gr
+4655,fethiye,tr
+4656,alanya,tr
+4657,anamur,tr
+4658,silifke,tr
+4659,samandag,tr
+4660,aleppo,sy
+4661,suruc,tr
+4662,viransehir,tr
+4663,sinjar,iq
+4664,tall kayf,iq
+4665,irbil,iq
+4666,piranshahr,ir
+4667,baneh,ir
+4668,takab,ir
+4669,bijar,ir
+4670,abhar,ir
+4671,qazvin,ir
+4672,karaj,ir
+4673,damavand,ir
+4674,sari,ir
+4675,shahrud,ir
+4676,mashhad,ir
+4677,sarakhs,ir
+4678,murgab,tm
+4679,dawlatabad,af
+4680,sar-e pul,af
+4681,tokzar,af
+4682,aybak,af
+4683,nahrin,af
+4684,andarab,af
+4685,chitral,pk
+4686,gilgit,pk
+4687,hunza,pk
+4688,kuche,cn
+4689,jiuquan,cn
+4690,lanzhou,cn
+4691,baiyin,cn
+4692,yanan,cn
+4693,linfen,cn
+4694,jiaozuo,cn
+4695,hebi,cn
+4696,puyang,cn
+4697,yanggu,cn
+4698,taian,cn
+4699,nanma,cn
+4700,zhucheng,cn
+4701,jiaonan,cn
+4702,wencheng,cn
+4703,sakaiminato,jp
+4704,tottori,jp
+4705,toyooka,jp
+4706,sabae,jp
+4707,takayama,jp
+4708,tatsuno,jp
+4709,chichibu,jp
+4710,mitsukaido,jp
+4711,healdsburg,us
+4712,los banos,us
+4713,orange cove,us
+4714,exeter,us
+4715,sunrise manor,us
+4716,cedar city,us
+4717,cortez,us
+4718,aztec,us
+4719,alamosa,us
+4720,raton,us
+4721,lamar,us
+4722,guymon,us
+4723,liberal,us
+4724,dodge city,us
+4725,arkansas city,us
+4726,bartlesville,us
+4727,miami,us
+4728,carthage,us
+4729,ozark,us
+4730,west plains,us
+4731,poplar bluff,us
+4732,sikeston,us
+4733,paducah,us
+4734,murray,us
+4735,springfield,us
+4736,glasgow,us
+4737,somerset,us
+4738,kingsport,us
+4739,bristol,us
+4740,pulaski,us
+4741,cave spring,us
+4742,timberlake,us
+4743,colonial heights,us
+4744,williamsburg,us
+4745,atlantic city,us
+4746,louisbourg,ca
+4747,arrifes,pt
+4748,cascais,pt
+4749,punta umbria,es
+4750,lebrija,es
+4751,osuna,es
+4752,loja,es
+4753,berja,es
+4754,nijar,es
+4755,algiers,dz
+4756,tigzirt,dz
+4757,timizart,dz
+4758,tabarqah,tn
+4759,sajanan,tn
+4760,manubah,tn
+4761,manzil tamim,tn
+4762,mazara del vallo,it
+4763,sciacca,it
+4764,licata,it
+4765,palazzolo acreide,it
+4766,siderno,it
+4767,lixourion,gr
+4768,marathopolis,gr
+4769,messini,gr
+4770,leonidion,gr
+4771,milos,gr
+4772,paros,gr
+4773,kamarion,gr
+4774,khorion,gr
+4775,marmaris,tr
+4776,serik,tr
+4777,seydisehir,tr
+4778,karaman,tr
+4779,erdemli,tr
+4780,tarsus,tr
+4781,ceyhan,tr
+4782,kilis,tr
+4783,birecik,tr
+4784,urfa,tr
+4785,nusaybin,tr
+4786,idil,tr
+4787,dahuk,iq
+4788,yuksekova,tr
+4789,oshnaviyeh,ir
+4790,miandoab,ir
+4791,hashtrud,ir
+4792,zanjan,ir
+4793,lahijan,ir
+4794,tonekabon,ir
+4795,nur,ir
+4796,juybar,ir
+4797,bandar-e torkaman,ir
+4798,azad shahr,ir
+4799,kalaleh,ir
+4800,esfarayen,ir
+4801,shirvan,ir
+4802,quchan,ir
+4803,kaka,tm
+4804,qarqin,af
+4805,shaartuz,tj
+4806,qunduz,af
+4807,rostaq,af
+4808,jurm,af
+4809,eskasem,af
+4810,shache,cn
+4811,aksu,cn
+4812,hami,cn
+4813,zhangye,cn
+4814,wuwei,cn
+4815,yinchuan,cn
+4816,xinzhi,cn
+4817,jiexiu,cn
+4818,yuci,cn
+4819,wuan,cn
+4820,tangshan,cn
+4821,linqing,cn
+4822,jinan,cn
+4823,suozhen,cn
+4824,shouguang,cn
+4825,laizhou,cn
+4826,laiyang,cn
+4827,gotsu,jp
+4828,izumo,jp
+4829,mikuni,jp
+4830,matto,jp
+4831,nanao,jp
+4832,itoigawa,jp
+4833,muika,jp
+4834,kuroiso,jp
+4835,iwaki,jp
+4836,namie,jp
+4837,petaluma,us
+4838,concord,us
+4839,garden acres,us
+4840,merced,us
+4841,south lake tahoe,us
+4842,fallon,us
+4843,price,us
+4844,montrose,us
+4845,canon city,us
+4846,pueblo,us
+4847,garden city,us
+4848,great bend,us
+4849,hutchinson,us
+4850,el dorado,us
+4851,emporia,us
+4852,chanute,us
+4853,rolla,us
+4854,herrin,us
+4855,owensboro,us
+4856,radcliff,us
+4857,lawrenceburg,us
+4858,winchester,us
+4859,ashland,us
+4860,saint albans,us
+4861,beckley,us
+4862,hollins,us
+4863,waynesboro,us
+4864,culpeper,us
+4865,lexington park,us
+4866,salisbury,us
+4867,ocean city,us
+4868,mastic beach,us
+4869,port hawkesbury,ca
+4870,bay roberts,ca
+4871,angra,pt
+4872,colares,pt
+4873,sines,pt
+4874,ferreira do alentejo,pt
+4875,moura,pt
+4876,azuaga,es
+4877,andujar,es
+4878,villacarrillo,es
+4879,cehegin,es
+4880,santomera,es
+4881,benidorm,es
+4882,santa eulalia del rio,es
+4883,carbonia,it
+4884,manzil jamil,tn
+4885,rafraf,tn
+4886,marsala,it
+4887,alcamo,it
+4888,cefalu,it
+4889,randazzo,it
+4890,melito di porto salvo,it
+4891,crotone,it
+4892,killini,gr
+4893,kalavrita,gr
+4894,loutrakion,gr
+4895,rafina,gr
+4896,andros,gr
+4897,piryion,gr
+4898,samos,gr
+4899,odemis,tr
+4900,denizli,tr
+4901,dinar,tr
+4902,yalvac,tr
+4903,beysehir,tr
+4904,cumra,tr
+4905,aksaray,tr
+4906,nigde,tr
+4907,goksun,tr
+4908,afsin,tr
+4909,malatya,tr
+4910,siverek,tr
+4911,ergani,tr
+4912,silvan,tr
+4913,siirt,tr
+4914,van,tr
+4915,hakkari,tr
+4916,salmas,ir
+4917,azar shahr,ir
+4918,ahar,ir
+4919,ardabil,ir
+4920,talesh,ir
+4921,astaneh-ye ashrafiyeh,ir
+4922,rudsar,ir
+4923,fereydun kenar,ir
+4924,gonbad-e qabus,ir
+4925,baherden,tm
+4926,buzmeyin,tm
+4927,annau,tm
+4928,sayat,tm
+4929,kerki,tm
+4930,boysun,uz
+4931,denau,uz
+4932,bustonkala,tj
+4933,leningradskiy,tj
+4934,karakendzha,tj
+4935,jinchang,cn
+4936,taiyuan,cn
+4937,luancheng,cn
+4938,hengshui,cn
+4939,cangzhou,cn
+4940,dongying,cn
+4941,longkou,cn
+4942,weihai,cn
+4943,wajima,jp
+4944,ryotsu,jp
+4945,niigata,jp
+4946,nagai,jp
+4947,watari,jp
+4948,ishinomaki,jp
+4949,ofunato,jp
+4950,yamada,jp
+4951,provideniya,ru
+4952,kodiak,us
+4953,south yuba city,us
+4954,north auburn,us
+4955,elko,us
+4956,west wendover,us
+4957,redlands,us
+4958,clifton,us
+4959,glenwood springs,us
+4960,colorado springs,us
+4961,black forest,us
+4962,hays,us
+4963,salina,us
+4964,junction city,us
+4965,topeka,us
+4966,gardner,us
+4967,blue springs,us
+4968,marshall,us
+4969,fulton,us
+4970,wentzville,us
+4971,bethalto,us
+4972,effingham,us
+4973,seymour,us
+4974,loveland,us
+4975,portsmouth,us
+4976,marietta,us
+4977,clarksburg,us
+4978,harrisonburg,us
+4979,front royal,us
+4980,langley park,us
+4981,easton,us
+4982,millville,us
+4983,shelburne,ca
+4984,liverpool,ca
+4985,halifax,ca
+4986,lagoa,pt
+4987,praia da vitoria,pt
+4988,rabo de peixe,pt
+4989,ericeira,pt
+4990,castanheira do ribatejo,pt
+4991,ponte de sor,pt
+4992,don benito,es
+4993,pozoblanco,es
+4994,ciudad real,es
+4995,tomelloso,es
+4996,albacete,es
+4997,almansa,es
+4998,oliva,es
+4999,felanitx,es
+5000,mahon,es
+5001,capoterra,it
+5002,sinnai,it
+5003,tortoli,it
+5004,trapani,it
+5005,terrasini,it
+5006,lipari,it
+5007,amantea,it
+5008,cutro,it
+5009,othonoi,gr
+5010,kavos,gr
+5011,neokhorion,gr
+5012,rentina,gr
+5013,pteleos,gr
+5014,patitirion,gr
+5015,skiros,gr
+5016,aliaga,tr
+5017,akhisar,tr
+5018,simav,tr
+5019,kutahya,tr
+5020,emirdag,tr
+5021,ortakoy,tr
+5022,nevsehir,tr
+5023,talas,tr
+5024,sivas,tr
+5025,tunceli,tr
+5026,solhan,tr
+5027,ahlat,tr
+5028,patnos,tr
+5029,maku,ir
+5030,khoy,ir
+5031,ordubad,az
+5032,mincivan,az
+5033,lerik,az
+5034,masalli,az
+5035,neftcala,az
+5036,gurgan,az
+5037,balkanabat,tm
+5038,gumdag,tm
+5039,gazanjyk,tm
+5040,seydi,tm
+5041,muborak,uz
+5042,koson,uz
+5043,kitob,uz
+5044,tursunzoda,tj
+5045,takob,tj
+5046,navabad,tj
+5047,ozgon,kg
+5048,kashi,cn
+5049,jiayuguan,cn
+5050,shitanjing,cn
+5051,shizuishan,cn
+5052,wuda,cn
+5053,haibowan,cn
+5054,dongsheng,cn
+5055,yuanping,cn
+5056,dingzhou,cn
+5057,renqiu,cn
+5058,yangliuqing,cn
+5059,hangu,cn
+5060,changli,cn
+5061,qinhuangdao,cn
+5062,lushunkou,cn
+5063,dalianwan,cn
+5064,zhuanghe,cn
+5065,dandong,cn
+5066,khasan,ru
+5067,suzu,jp
+5068,sakata,jp
+5069,yuza,jp
+5070,ichinoseki,jp
+5071,sitka,us
+5072,red bluff,us
+5073,susanville,us
+5074,sun valley,us
+5075,fernley,us
+5076,winnemucca,us
+5077,tooele,us
+5078,craig,us
+5079,steamboat springs,us
+5080,boulder,us
+5081,erie,us
+5082,fort morgan,us
+5083,sterling,us
+5084,north platte,us
+5085,lexington,us
+5086,kearney,us
+5087,hastings,us
+5088,beatrice,us
+5089,saint joseph,us
+5090,excelsior springs,us
+5091,kirksville,us
+5092,quincy,us
+5093,jacksonville,us
+5094,decatur,us
+5095,urbana,us
+5096,crawfordsville,us
+5097,noblesville,us
+5098,tipp city,us
+5099,zanesville,us
+5100,moundsville,us
+5101,uniontown,us
+5102,johnstown,us
+5103,chambersburg,us
+5104,hanover,us
+5105,coatesville,us
+5106,cinnaminson,us
+5107,point pleasant,us
+5108,sayville,us
+5109,narragansett,us
+5110,peniche,pt
+5111,vieira de leiria,pt
+5112,castanheira de pera,pt
+5113,coria,es
+5114,bejar,es
+5115,talavera de la reina,es
+5116,toledo,es
+5117,tarancon,es
+5118,teruel,es
+5119,burriana,es
+5120,benicarlo,es
+5121,calvia,es
+5122,alcudia,es
+5123,alghero,it
+5124,cabras,it
+5125,macomer,it
+5126,anzio,it
+5127,forio,it
+5128,sorrento,it
+5129,agropoli,it
+5130,lauria,it
+5131,policoro,it
+5132,gallipoli,it
+5133,delvine,al
+5134,samarina,gr
+5135,kranea elassonos,gr
+5136,melivoia,gr
+5137,sikea,gr
+5138,mirina,gr
+5139,canakkale,tr
+5140,can,tr
+5141,susurluk,tr
+5142,bursa,tr
+5143,bozuyuk,tr
+5144,eskisehir,tr
+5145,gerede,tr
+5146,ankara,tr
+5147,sungurlu,tr
+5148,alaca,tr
+5149,zile,tr
+5150,susehri,tr
+5151,erzincan,tr
+5152,bayburt,tr
+5153,erzurum,tr
+5154,horasan,tr
+5155,karakose,tr
+5156,janfida,am
+5157,zangakatun,am
+5158,istisu,az
+5159,agdam,az
+5160,imisli,az
+5161,qaracala,az
+5162,zig,az
+5163,dasoguz,tm
+5164,hazorasp,uz
+5165,gazojak,tm
+5166,gazli,uz
+5167,romitan,uz
+5168,navoi,uz
+5169,aktash,uz
+5170,samarkand,uz
+5171,zomin,uz
+5172,uroteppa,tj
+5173,chkalovsk,tj
+5174,batken,kg
+5175,stantsiya gorchakovo,uz
+5176,hohhot,cn
+5177,datong,cn
+5178,xuanhua,cn
+5179,mentougou,cn
+5180,shunyi,cn
+5181,fengrun,cn
+5182,xingcheng,cn
+5183,xiongyue,cn
+5184,huanren,cn
+5185,linjiang,cn
+5186,helong,cn
+5187,vrangel,ru
+5188,preobrazheniye,ru
+5189,oga,jp
+5190,tenno,jp
+5191,kazuno,jp
+5192,miyako,jp
+5193,kushiro,jp
+5194,bethel,us
+5195,port hardy,ca
+5196,eureka,us
+5197,arcata,us
+5198,shasta lake,us
+5199,layton,us
+5200,evanston,us
+5201,green river,us
+5202,rock springs,us
+5203,laramie,us
+5204,cheyenne,us
+5205,grand island,us
+5206,papillion,us
+5207,maryville,us
+5208,indianola,us
+5209,pella,us
+5210,fairfield,us
+5211,burlington,us
+5212,kewanee,us
+5213,streator,us
+5214,kankakee,us
+5215,peru,us
+5216,new haven,us
+5217,bucyrus,us
+5218,alliance,us
+5219,butler,us
+5220,indiana,us
+5221,state college,us
+5222,williamsport,us
+5223,hazleton,us
+5224,east stroudsburg,us
+5225,westwood,us
+5226,terryville,us
+5227,groton,us
+5228,newport,us
+5229,yarmouth,ca
+5230,marystown,ca
+5231,areosa,pt
+5232,agucadoura,pt
+5233,leca da palmeira,pt
+5234,castro daire,pt
+5235,custoias,pt
+5236,medina del campo,es
+5237,segovia,es
+5238,guadalajara,es
+5239,calatayud,es
+5240,zaragoza,es
+5241,alcaniz,es
+5242,cambrils,es
+5243,castelldefels,es
+5244,malgrat de mar,es
+5245,porto torres,it
+5246,tempio pausania,it
+5247,olbia,it
+5248,santa marinella,it
+5249,sabaudia,it
+5250,villa literno,it
+5251,san giorgio del sannio,it
+5252,minervino murge,it
+5253,rutigliano,it
+5254,brindisi,it
+5255,durres,al
+5256,cerrik,al
+5257,resen,mk
+5258,promakhoi,gr
+5259,kilkis,gr
+5260,proti,gr
+5261,yenisea,gr
+5262,loutros,gr
+5263,malkara,tr
+5264,gumusyaka,tr
+5265,istanbul,tr
+5266,agva,tr
+5267,akcakoca,tr
+5268,devrek,tr
+5269,safranbolu,tr
+5270,tosya,tr
+5271,corum,tr
+5272,amasya,tr
+5273,terme,tr
+5274,ordu,tr
+5275,gorele,tr
+5276,trabzon,tr
+5277,ardesen,tr
+5278,artvin,tr
+5279,ardahan,tr
+5280,shirak,am
+5281,voskevan,am
+5282,qovlar,az
+5283,aran,az
+5284,kurush,ru
+5285,gilazi,az
+5286,nardaran,az
+5287,artyom,az
+5288,akdepe,tm
+5289,nurota,uz
+5290,chardara,kz
+5291,almazar,uz
+5292,angren,uz
+5293,pop,uz
+5294,paytug,uz
+5295,at-bashi,kg
+5296,kyzyl-suu,kg
+5297,urumqi,cn
+5298,jining,cn
+5299,zhangjiakou,cn
+5300,changping,cn
+5301,chengde,cn
+5302,lingyuan,cn
+5303,yebaishou,cn
+5304,jinzhou,cn
+5305,yingkou,cn
+5306,jiupu,cn
+5307,xiaoshi,cn
+5308,kuandian,cn
+5309,songjianghe,cn
+5310,zarubino,ru
+5311,noshiro,jp
+5312,kizukuri,jp
+5313,mutsu,jp
+5314,hachinohe,jp
+5315,shizunai,jp
+5316,north bend,us
+5317,coos bay,us
+5318,grants pass,us
+5319,medford,us
+5320,klamath falls,us
+5321,altamont,us
+5322,mountain home,us
+5323,twin falls,us
+5324,burley,us
+5325,rupert,us
+5326,preston,us
+5327,rawlins,us
+5328,torrington,us
+5329,scottsbluff,us
+5330,norfolk,us
+5331,south sioux city,us
+5332,carroll,us
+5333,marshalltown,us
+5334,cedar rapids,us
+5335,muscatine,us
+5336,rochelle,us
+5337,elk grove village,us
+5338,michigan city,us
+5339,granger,us
+5340,coldwater,us
+5341,adrian,us
+5342,colchester,ca
+5343,blenheim,ca
+5344,ashtabula,us
+5345,warren,us
+5346,olean,us
+5347,corning,us
+5348,endicott,us
+5349,oneonta,us
+5350,kingston,us
+5351,bridgewater,us
+5352,brewster,us
+5353,muros,es
+5354,vila praia de ancora,pt
+5355,real,pt
+5356,la baneza,es
+5357,valladolid,es
+5358,aranda de duero,es
+5359,soria,es
+5360,arnedo,es
+5361,ejea de los caballeros,es
+5362,barbastro,es
+5363,balaguer,es
+5364,berga,es
+5365,girona,es
+5366,palafrugell,es
+5367,la ciotat,fr
+5368,la seyne-sur-mer,fr
+5369,sainte-maxime,fr
+5370,ajaccio,fr
+5371,porto-vecchio,fr
+5372,orbetello,it
+5373,cerveteri,it
+5374,subiaco,it
+5375,sulmona,it
+5376,termoli,it
+5377,vieste,it
+5378,dubrovnik,hr
+5379,ulcinj,me
+5380,fushe-arrez,al
+5381,tetovo,mk
+5382,sveti nikole,mk
+5383,blagoevgrad,bg
+5384,velingrad,bg
+5385,asenovgrad,bg
+5386,harmanli,bg
+5387,boljarovo,bg
+5388,ahtopol,bg
+5389,durusu,tr
+5390,eregli,tr
+5391,zonguldak,tr
+5392,kastamonu,tr
+5393,sinop,tr
+5394,bafra,tr
+5395,ureki,ge
+5396,naruja,ge
+5397,shorapani,ge
+5398,gori,ge
+5399,akhmeta,ge
+5400,bezhta,ru
+5401,kumukh,ru
+5402,khuchni,ru
+5403,xudat,az
+5404,kuryk,kz
+5405,zhanaozen,kz
+5406,mangit,uz
+5407,beruni,uz
+5408,arys,kz
+5409,lenger,kz
+5410,kosonsoy,uz
+5411,toktogul,kg
+5412,tokmak,kg
+5413,kemin,kg
+5414,karakol,kg
+5415,hovd,mn
+5416,mujiayingzi,cn
+5417,chaoyang,cn
+5418,beipiao,cn
+5419,heishan,cn
+5420,xinmin,cn
+5421,fushun,cn
+5422,liuhe,cn
+5423,erdaojiang,cn
+5424,wangou,cn
+5425,shkotovo-22,ru
+5426,olga,ru
+5427,kamiiso,jp
+5428,muroran,jp
+5429,roseburg,us
+5430,bend,us
+5431,baker city,us
+5432,ontario,us
+5433,nampa,us
+5434,jerome,us
+5435,chubbuck,us
+5436,blackfoot,us
+5437,jackson,us
+5438,lander,us
+5439,riverton,us
+5440,casper,us
+5441,rapid valley,us
+5442,pierre,us
+5443,mitchell,us
+5444,yankton,us
+5445,vermillion,us
+5446,le mars,us
+5447,spencer,us
+5448,ledyard,us
+5449,mason city,us
+5450,waverly,us
+5451,platteville,us
+5452,verona,us
+5453,fort atkinson,us
+5454,west allis,us
+5455,norton shores,us
+5456,jenison,us
+5457,ionia,us
+5458,owosso,us
+5459,lapeer,us
+5460,forest,ca
+5461,ingersoll,ca
+5462,hagersville,ca
+5463,niagara falls,us
+5464,batavia,us
+5465,newark,us
+5466,utica,us
+5467,schenectady,us
+5468,bennington,us
+5469,peterborough,us
+5470,cape elizabeth,us
+5471,rockland,us
+5472,bar harbor,us
+5473,santa comba,es
+5474,castrillon,es
+5475,lena,es
+5476,llanes,es
+5477,reinosa,es
+5478,amurrio,es
+5479,tolosa,es
+5480,oloron-sainte-marie,fr
+5481,lourdes,fr
+5482,saint-gaudens,fr
+5483,limoux,fr
+5484,narbonne,fr
+5485,sete,fr
+5486,port-de-bouc,fr
+5487,le pradet,fr
+5488,saint-raphael,fr
+5489,bordighera,it
+5490,bastia,fr
+5491,portoferraio,it
+5492,massa marittima,it
+5493,chiusi,it
+5494,matelica,it
+5495,san benedetto del tronto,it
+5496,ortona,it
+5497,trogir,hr
+5498,korcula,hr
+5499,stolac,ba
+5500,niksic,me
+5501,sjenica,rs
+5502,kosovska mitrovica,rs
+5503,leskovac,rs
+5504,godec,bg
+5505,jablanica,bg
+5506,sevlievo,bg
+5507,zlatarica,bg
+5508,veliki preslav,bg
+5509,bjala,bg
+5510,sabla,bg
+5511,katsiveli,ua
+5512,arkhipo-osipovka,ru
+5513,gornoye loo,ru
+5514,pitsunda,ge
+5515,sukhumi,ge
+5516,jvari,ge
+5517,mestia,ge
+5518,sadon,ru
+5519,galashki,ru
+5520,vedeno,ru
+5521,chirkey,ru
+5522,kaspiysk,ru
+5523,derbent,ru
+5524,aktau,kz
+5525,beyneu,kz
+5526,kegayli,uz
+5527,karauzyak,uz
+5528,turtkul,uz
+5529,tasbuget,kz
+5530,shieli,kz
+5531,zhanakorgan,kz
+5532,turkistan,kz
+5533,achisay,kz
+5534,karatau,kz
+5535,taraz,kz
+5536,mikhaylovka,kz
+5537,merke,kz
+5538,shu,kz
+5539,kant,kg
+5540,almaty,kz
+5541,tyup,kg
+5542,zharkent,kz
+5543,yining,cn
+5544,kuytun,cn
+5545,mandalgovi,mn
+5546,erenhot,cn
+5547,chifeng,cn
+5548,pingzhuang,cn
+5549,fuxin,cn
+5550,tongliao,cn
+5551,zhengjiatun,cn
+5552,changtu,cn
+5553,xifeng,cn
+5554,panshi,cn
+5555,huadian,cn
+5556,dunhua,cn
+5557,mingyue,cn
+5558,tumen,cn
+5559,kraskino,ru
+5560,russkiy,ru
+5561,yekaterinovka,ru
+5562,kamenka,ru
+5563,plastun,ru
+5564,iwanai,jp
+5565,otaru,jp
+5566,yubari,jp
+5567,otofuke,jp
+5568,kurilsk,ru
+5569,redmond,us
+5570,hailey,us
+5571,rexburg,us
+5572,cody,us
+5573,worland,us
+5574,sheridan,us
+5575,gillette,us
+5576,spearfish,us
+5577,huron,us
+5578,madison,us
+5579,new ulm,us
+5580,mankato,us
+5581,owatonna,us
+5582,winona,us
+5583,onalaska,us
+5584,wisconsin rapids,us
+5585,waupun,us
+5586,manitowoc,us
+5587,two rivers,us
+5588,big rapids,us
+5589,mildmay,ca
+5590,orangeville,ca
+5591,port perry,ca
+5592,colborne,ca
+5593,picton,ca
+5594,watertown,us
+5595,potsdam,us
+5596,glens falls,us
+5597,middlebury,us
+5598,haverhill,us
+5599,topsham,us
+5600,lunenburg,ca
+5601,antigonish,ca
+5602,carballo,es
+5603,naron,es
+5604,foz,es
+5605,aviles,es
+5606,santander,es
+5607,sopelana,es
+5608,hendaye,fr
+5609,saint-paul-les-dax,fr
+5610,tonneins,fr
+5611,moissac,fr
+5612,gaillac,fr
+5613,millau,fr
+5614,ales,fr
+5615,carpentras,fr
+5616,manosque,fr
+5617,carros,fr
+5618,imperia,it
+5619,santa margherita ligure,it
+5620,lerici,it
+5621,montale,it
+5622,bertinoro,it
+5623,pesaro,it
+5624,ancona,it
+5625,zadar,hr
+5626,knin,hr
+5627,glamoc,ba
+5628,gromiljak,ba
+5629,milici,ba
+5630,kosjeric,rs
+5631,kragujevac,rs
+5632,bogovina,rs
+5633,calafat,ro
+5634,marsani,ro
+5635,troianul,ro
+5636,daia,ro
+5637,ciocanesti,ro
+5638,dumbraveni,ro
+5639,tuzla,ro
+5640,sfantu gheorghe,ro
+5641,zaozerne,ua
+5642,uhlove,ua
+5643,sudak,ua
+5644,ordzhonikidze,ua
+5645,abrau-dyurso,ru
+5646,divnomorskoye,ru
+5647,tuapse,ru
+5648,kamennomostskiy,ru
+5649,kurdzhinovo,ru
+5650,dzheguta,ru
+5651,svobody,ru
+5652,sovetskaya,ru
+5653,galyugayevskaya,ru
+5654,terekli-mekteb,ru
+5655,pervomayskoye,ru
+5656,makhachkala,ru
+5657,fort-shevchenko,kz
+5658,shetpe,kz
+5659,kazalinsk,kz
+5660,dzhusaly,kz
+5661,kentau,kz
+5662,zhanatas,kz
+5663,georgiyevka,kz
+5664,boralday,kz
+5665,saryozek,kz
+5666,tekeli,kz
+5667,shihezi,cn
+5668,changji,cn
+5669,darhan,mn
+5670,changchun,cn
+5671,jiutai,cn
+5672,jishu,cn
+5673,huangnihe,cn
+5674,ningan,cn
+5675,dongning,cn
+5676,vozdvizhenka,ru
+5677,anuchino,ru
+5678,chuguyevka,ru
+5679,kavalerovo,ru
+5680,rudnaya pristan,ru
+5681,terney,ru
+5682,yoichi,jp
+5683,rumoi,jp
+5684,fukagawa,jp
+5685,mombetsu,jp
+5686,bihoro,jp
+5687,shibetsu,jp
+5688,yuzhno-kurilsk,ru
+5689,otradnoye,ru
+5690,petropavlovsk-kamchatskiy,ru
+5691,hayesville,us
+5692,gresham,us
+5693,hermiston,us
+5694,pendleton,us
+5695,weiser,us
+5696,dillon,us
+5697,bozeman,us
+5698,livingston,us
+5699,powell,us
+5700,belle fourche,us
+5701,sturgis,us
+5702,aberdeen,us
+5703,willmar,us
+5704,buffalo,us
+5705,north saint paul,us
+5706,menomonie,us
+5707,chippewa falls,us
+5708,merrill,us
+5709,weston,us
+5710,suamico,us
+5711,sturgeon bay,us
+5712,traverse city,us
+5713,alpena,us
+5714,southampton,ca
+5715,wiarton,ca
+5716,bracebridge,ca
+5717,eganville,ca
+5718,smiths falls,ca
+5719,massena,us
+5720,ormstown,ca
+5721,bedford,ca
+5722,berlin,us
+5723,hermon,us
+5724,ellsworth,us
+5725,saint andrews,ca
+5726,saint john,ca
+5727,middleton,ca
+5728,windsor,ca
+5729,truro,ca
+5730,ferrol,es
+5731,cervo,es
+5732,villaviciosa,es
+5733,bermeo,es
+5734,arcachon,fr
+5735,saint-medard-en-jalles,fr
+5736,libourne,fr
+5737,sarlat-la-caneda,fr
+5738,tulle,fr
+5739,aurillac,fr
+5740,firminy,fr
+5741,romans-sur-isere,fr
+5742,meylan,fr
+5743,giaveno,it
+5744,poirino,it
+5745,voghera,it
+5746,cremona,it
+5747,mirandola,it
+5748,adria,it
+5749,caorle,it
+5750,pula,hr
+5751,senj,hr
+5752,gornja koprivna,ba
+5753,lamovita,ba
+5754,derventa,ba
+5755,brcko,ba
+5756,indija,rs
+5757,banatski karlovac,rs
+5758,bozovici,ro
+5759,godinesti,ro
+5760,copaceni,ro
+5761,titesti,ro
+5762,blejoi,ro
+5763,cilibia,ro
+5764,peceneaga,ro
+5765,valea nucarilor,ro
+5766,sulina,ro
+5767,zatoka,ua
+5768,lazurne,ua
+5769,ahrarne,ua
+5770,staryy krym,ua
+5771,lenine,ua
+5772,vyshestebliyevskaya,ru
+5773,krymsk,ru
+5774,krasnodar,ru
+5775,novolabinskaya,ru
+5776,glubokiy,ru
+5777,stavropol,ru
+5778,gofitskoye,ru
+5779,sotnikovskoye,ru
+5780,urozhaynoye,ru
+5781,komsomolskiy,ru
+5782,kaspiyskiy,ru
+5783,kirovskiy,ru
+5784,saryshagan,kz
+5785,gulshat,kz
+5786,ushtobe,kz
+5787,sarkand,kz
+5788,karamay,cn
+5789,baruun-urt,mn
+5790,wulanhaote,cn
+5791,taonan,cn
+5792,kaitong,cn
+5793,qianan,cn
+5794,qianguo,cn
+5795,shuangcheng,cn
+5796,wuchang,cn
+5797,shangzhi,cn
+5798,hailin,cn
+5799,chaihe,cn
+5800,hengshan,cn
+5801,kamen-rybolov,ru
+5802,chkalovskoye,ru
+5803,krasnorechenskiy,ru
+5804,svetlaya,ru
+5805,wakkanai,jp
+5806,makubetsu,jp
+5807,abashiri,jp
+5808,ketchikan,us
+5809,ucluelet,ca
+5810,astoria,us
+5811,longview,us
+5812,washougal,us
+5813,yakima,us
+5814,grandview,us
+5815,kennewick,us
+5816,walla walla,us
+5817,lewiston,us
+5818,anaconda,us
+5819,butte,us
+5820,belgrade,us
+5821,billings,us
+5822,miles city,us
+5823,glendive,us
+5824,dickinson,us
+5825,mandan,us
+5826,bismarck,us
+5827,wahpeton,us
+5828,fergus falls,us
+5829,brainerd,us
+5830,north branch,us
+5831,superior,us
+5832,marquette,us
+5833,escanaba,us
+5834,sault sainte marie,ca
+5835,thessalon,ca
+5836,blind river,ca
+5837,little current,ca
+5838,lively,ca
+5839,sturgeon falls,ca
+5840,powassan,ca
+5841,deep river,ca
+5842,pembroke,ca
+5843,maniwaki,ca
+5844,saint-andre-avellin,ca
+5845,sainte-adele,ca
+5846,sorel,ca
+5847,beauceville,ca
+5848,liniere,ca
+5849,millinocket,us
+5850,houlton,us
+5851,fredericton,ca
+5852,oromocto,ca
+5853,amherst,ca
+5854,charlottetown,ca
+5855,inverness,ca
+5856,burgeo,ca
+5857,concarneau,fr
+5858,ploemeur,fr
+5859,challans,fr
+5860,rochefort,fr
+5861,angouleme,fr
+5862,saint-junien,fr
+5863,gueret,fr
+5864,riom,fr
+5865,riorges,fr
+5866,meyzieu,fr
+5867,cran-gevrier,fr
+5868,martigny,ch
+5869,zermatt,ch
+5870,viganello,ch
+5871,sondrio,it
+5872,rovereto,it
+5873,valdobbiadene,it
+5874,codroipo,it
+5875,idrija,si
+5876,ravne,si
+5877,zagreb,hr
+5878,bjelovar,hr
+5879,szentlorinc,hu
+5880,gara,hu
+5881,kanjiza,rs
+5882,varias,ro
+5883,ohaba lunga,ro
+5884,certeju de sus,ro
+5885,cenade,ro
+5886,jibert,ro
+5887,cernat,ro
+5888,fitionesti,ro
+5889,suceveni,ro
+5890,dmytrivka,ua
+5891,kulevcha,ua
+5892,oleksandrivka,ua
+5893,bekhtery,ua
+5894,krasne,ua
+5895,voyinka,ua
+5896,partyzany,ua
+5897,novyy svit,ua
+5898,akhtanizovskaya,ru
+5899,primorsko-akhtarsk,ru
+5900,kanevskaya,ru
+5901,novoleushkovskaya,ru
+5902,belaya glina,ru
+5903,gorodovikovsk,ru
+5904,ipatovo,ru
+5905,arshan,ru
+5906,yashkul,ru
+5907,zenzeli,ru
+5908,kamyzyak,ru
+5909,marfino,ru
+5910,balykshi,kz
+5911,karaton,kz
+5912,shubarshi,kz
+5913,emba,kz
+5914,zhezkazgan,kz
+5915,balkhash,kz
+5916,urdzhar,kz
+5917,baijiantan,cn
+5918,altay,cn
+5919,kungurtug,ru
+5920,ondorhaan,mn
+5921,manzhouli,cn
+5922,hailar,cn
+5923,zhenlai,cn
+5924,tailai,cn
+5925,zhaozhou,cn
+5926,zhaodong,cn
+5927,hulan,cn
+5928,yilan,cn
+5929,qitaihe,cn
+5930,baoqing,cn
+5931,lazo,ru
+5932,dalnerechensk,ru
+5933,novopokrovka,ru
+5934,vostok,ru
+5935,shebunino,ru
+5936,novikovo,ru
+5937,prince rupert,ca
+5938,hoquiam,us
+5939,tumwater,us
+5940,enumclaw,us
+5941,ellensburg,us
+5942,east wenatchee,us
+5943,moses lake,us
+5944,cheney,us
+5945,moscow,us
+5946,orchard homes,us
+5947,missoula,us
+5948,helena,us
+5949,great falls,us
+5950,lewistown,us
+5951,valley city,us
+5952,west fargo,us
+5953,bemidji,us
+5954,hibbing,us
+5955,duluth,us
+5956,thunder bay,ca
+5957,elliot lake,ca
+5958,capreol,ca
+5959,redwater,ca
+5960,temiscaming,ca
+5961,ferme-neuve,ca
+5962,saint-michel-des-saints,ca
+5963,la tuque,ca
+5964,saint-raymond,ca
+5965,beaupre,ca
+5966,saint-jean-port-joli,ca
+5967,notre-dame-du-lac,ca
+5968,caribou,us
+5969,plaster rock,ca
+5970,bathurst,ca
+5971,caraquet,ca
+5972,alberton,ca
+5973,cap-aux-meules,ca
+5974,new waterford,ca
+5975,channel-port aux basques,ca
+5976,miquelon,pm
+5977,grand bank,ca
+5978,wabana,ca
+5979,dingle,ie
+5980,plouzane,fr
+5981,quimper,fr
+5982,guerande,fr
+5983,les herbiers,fr
+5984,thouars,fr
+5985,amboise,fr
+5986,issoudun,fr
+5987,nevers,fr
+5988,autun,fr
+5989,beaune,fr
+5990,besancon,fr
+5991,neuchatel,ch
+5992,ruswil,ch
+5993,glarus,ch
+5994,schruns,at
+5995,telfs,at
+5996,brunico,it
+5997,bad hofgastein,at
+5998,tamsweg,at
+5999,koflach,at
+6000,barnbach,at
+6001,zalaszentgrot,hu
+6002,balatonalmadi,hu
+6003,szalkszentmarton,hu
+6004,kocser,hu
+6005,devavanya,hu
+6006,osorheiu,ro
+6007,buciumi,ro
+6008,fizesu gherlii,ro
+6009,rastolita,ro
+6010,ceahlau,ro
+6011,sagna,ro
+6012,grozesti,ro
+6013,chisinau,md
+6014,velyka mykhaylivka,ua
+6015,petrivka,ua
+6016,shevchenkove,ua
+6017,snihurivka,ua
+6018,velyka lepetykha,ua
+6019,vesele,ua
+6020,rozivka,ua
+6021,osypenko,ua
+6022,syedove,ua
+6023,aleksandrovka,ru
+6024,kirovskaya,ru
+6025,rassvet,ru
+6026,orlovskiy,ru
+6027,dubovskoye,ru
+6028,zavetnoye,ru
+6029,ketchenery,ru
+6030,yenotayevka,ru
+6031,aksarayskiy,ru
+6032,dossor,kz
+6033,atasu,kz
+6034,ayagoz,kz
+6035,zaysan,kz
+6036,ulaangom,mn
+6037,erzin,ru
+6038,bulgan,mn
+6039,ulaanbaatar,mn
+6040,longjiang,cn
+6041,angangxi,cn
+6042,ranghulu,cn
+6043,mingshui,cn
+6044,suileng,cn
+6045,tieli,cn
+6046,langxiang,cn
+6047,jiamusi,cn
+6048,fulitun,cn
+6049,fujin,cn
+6050,bikin,ru
+6051,vyazemskiy,ru
+6052,nevelsk,ru
+6053,pravda,ru
+6054,sokol,ru
+6055,sooke,ca
+6056,port townsend,us
+6057,west lake stevens,us
+6058,wenatchee,us
+6059,east wenatchee bench,us
+6060,rathdrum,us
+6061,sandpoint,us
+6062,kalispell,us
+6063,polson,us
+6064,havre,us
+6065,shaunavon,ca
+6066,assiniboia,ca
+6067,sidney,us
+6068,williston,us
+6069,minot,us
+6070,devils lake,us
+6071,grand forks,us
+6072,fort frances,ca
+6073,atikokan,ca
+6074,terrace bay,ca
+6075,wawa,ca
+6076,chapleau,ca
+6077,timmins,ca
+6078,kirkland lake,ca
+6079,macamic,ca
+6080,malartic,ca
+6081,senneterre,ca
+6082,desbiens,ca
+6083,bagotville,ca
+6084,la malbaie,ca
+6085,saint-jean-de-dieu,ca
+6086,campbellton,ca
+6087,new richmond,ca
+6088,grande-riviere,ca
+6089,harbour breton,ca
+6090,carbonear,ca
+6091,nanortalik,gl
+6092,bantry,ie
+6093,skibbereen,ie
+6094,penzance,gb
+6095,pontivy,fr
+6096,rennes,fr
+6097,vitre,fr
+6098,allonnes,fr
+6099,vendome,fr
+6100,saint-jean-de-braye,fr
+6101,amilly,fr
+6102,saint-andre-les-vergers,fr
+6103,chaumont,fr
+6104,vesoul,fr
+6105,gerardmer,fr
+6106,kirchzarten,de
+6107,stockach,de
+6108,bad wurzach,de
+6109,landsberg,de
+6110,grafing,de
+6111,freilassing,de
+6112,vorchdorf,at
+6113,purgstall,at
+6114,berndorf,at
+6115,hainburg,at
+6116,kolarovo,sk
+6117,diosjeno,hu
+6118,matranovak,hu
+6119,sajoszoged,hu
+6120,levelek,hu
+6121,halmeu,ro
+6122,bocicoiu mare,ro
+6123,verkhovyna,ua
+6124,musenita,ro
+6125,avrameni,ro
+6126,drochia,md
+6127,zahnitkiv,ua
+6128,zavallya,ua
+6129,pidhorodna,ua
+6130,kompaniyivka,ua
+6131,kazanka,ua
+6132,sofiyivka,ua
+6133,solone,ua
+6134,novomykolayivka,ua
+6135,krasnoarmeysk,ua
+6136,vysoke,ua
+6137,almaznyy,ru
+6138,sinegorskiy,ru
+6139,tsimlyansk,ru
+6140,nizhniy chir,ru
+6141,oktyabrskiy,ru
+6142,malyye derbety,ru
+6143,chernyy yar,ru
+6144,nizhniy baskunchak,ru
+6145,tambovka,ru
+6146,inderborskiy,kz
+6147,makat,kz
+6148,shubarkuduk,kz
+6149,karkaralinsk,kz
+6150,kurchum,kz
+6151,erdenet,mn
+6152,zabaykalsk,ru
+6153,yakeshi,cn
+6154,zalantun,cn
+6155,gannan,cn
+6156,yian,cn
+6157,keshan,cn
+6158,beian,cn
+6159,cuiluan,cn
+6160,youhao,cn
+6161,xinqing,cn
+6162,amurzet,ru
+6163,babstovo,ru
+6164,leninskoye,ru
+6165,smidovich,ru
+6166,mukhen,ru
+6167,mayskiy,ru
+6168,sovetskaya gavan,ru
+6169,tomari,ru
+6170,ilinskiy,ru
+6171,vostochnyy,ru
+6172,makarov,ru
+6173,poronaysk,ru
+6174,port alberni,ca
+6175,nanaimo,ca
+6176,white rock,ca
+6177,chilliwack,ca
+6178,oliver,ca
+6179,osoyoos,ca
+6180,rossland,ca
+6181,salmo,ca
+6182,creston,ca
+6183,fernie,ca
+6184,pincher creek,ca
+6185,cardston,ca
+6186,taber,ca
+6187,bow island,ca
+6188,gravelbourg,ca
+6189,weyburn,ca
+6190,estevan,ca
+6191,carnduff,ca
+6192,melita,ca
+6193,boissevain,ca
+6194,killarney,ca
+6195,winkler,ca
+6196,morris,ca
+6197,steinbach,ca
+6198,kenora,ca
+6199,manitouwadge,ca
+6200,hornepayne,ca
+6201,hearst,ca
+6202,kapuskasing,ca
+6203,cochrane,ca
+6204,iroquois falls,ca
+6205,amos,ca
+6206,chapais,ca
+6207,normandin,ca
+6208,dolbeau,ca
+6209,saint-ambroise,ca
+6210,les escoumins,ca
+6211,forestville,ca
+6212,baie-comeau,ca
+6213,cap-chat,ca
+6214,murdochville,ca
+6215,riviere-au-renard,ca
+6216,havre-saint-pierre,ca
+6217,corner brook,ca
+6218,deer lake,ca
+6219,springdale,ca
+6220,lewisporte,ca
+6221,hare bay,ca
+6222,bonavista,ca
+6223,morlaix,fr
+6224,plerin,fr
+6225,saint-malo,fr
+6226,saint-lo,fr
+6227,argentan,fr
+6228,evreux,fr
+6229,triel-sur-seine,fr
+6230,meaux,fr
+6231,epernay,fr
+6232,bar-le-duc,fr
+6233,pont-a-mousson,fr
+6234,sarreguemines,fr
+6235,landau,de
+6236,vaihingen,de
+6237,ellwangen,de
+6238,treuchtlingen,de
+6239,ratisbon,de
+6240,regen,de
+6241,prachatice,cz
+6242,chlum u trebone,cz
+6243,jaromerice nad rokytnou,cz
+6244,hovorany,cz
+6245,trencin,sk
+6246,martin,sk
+6247,svit,sk
+6248,sabinov,sk
+6249,humenne,sk
+6250,turka,ua
+6251,spas,ua
+6252,tysmenytsya,ua
+6253,kopychyntsi,ua
+6254,dunayivtsi,ua
+6255,zhmerynka,ua
+6256,nemyriv,ua
+6257,tsybuliv,ua
+6258,yerky,ua
+6259,pryyutivka,ua
+6260,kobelyaky,ua
+6261,mahdalynivka,ua
+6262,sakhnovshchyna,ua
+6263,barvinkove,ua
+6264,kreminna,ua
+6265,frunze,ua
+6266,krasnovka,ru
+6267,kashary,ru
+6268,kletskaya,ru
+6269,ilovlya,ru
+6270,dubovka,ru
+6271,kapustin yar,ru
+6272,aleksandrov gay,ru
+6273,temir,kz
+6274,dombarovskiy,ru
+6275,svetlyy,ru
+6276,derzhavinsk,kz
+6277,abay,kz
+6278,aktas,kz
+6279,shar,kz
+6280,serebryansk,kz
+6281,zyryanovsk,kz
+6282,ust-koksa,ru
+6283,kosh-agach,ru
+6284,mugur-aksy,ru
+6285,suhbaatar,mn
+6286,krasnyy chikoy,ru
+6287,kyra,ru
+6288,aksha,ru
+6289,nizhniy tsasuchey,ru
+6290,dauriya,ru
+6291,nehe,cn
+6292,nenjiang,cn
+6293,konstantinovka,ru
+6294,poyarkovo,ru
+6295,arkhara,ru
+6296,obluche,ru
+6297,londoko,ru
+6298,birobidzhan,ru
+6299,litovko,ru
+6300,troitskoye,ru
+6301,gurskoye,ru
+6302,vysokogornyy,ru
+6303,lososina,ru
+6304,uglegorsk,ru
+6305,vakhrushev,ru
+6306,beringovskiy,ru
+6307,campbell river,ca
+6308,powell river,ca
+6309,pemberton,ca
+6310,lillooet,ca
+6311,merritt,ca
+6312,peachland,ca
+6313,lumby,ca
+6314,nakusp,ca
+6315,nelson,ca
+6316,claresholm,ca
+6317,lethbridge,ca
+6318,medicine hat,ca
+6319,maple creek,ca
+6320,swift current,ca
+6321,regina,ca
+6322,grenfell,ca
+6323,moosomin,ca
+6324,virden,ca
+6325,carberry,ca
+6326,carman,ca
+6327,selkirk,ca
+6328,pinawa,ca
+6329,dryden,ca
+6330,sioux lookout,ca
+6331,longlac,ca
+6332,la sarre,ca
+6333,matagami,ca
+6334,chute-aux-outardes,ca
+6335,port-cartier,ca
+6336,sept-iles,ca
+6337,saint-augustin,ca
+6338,kinsale,ie
+6339,falmouth,gb
+6340,ivybridge,gb
+6341,torquay,gb
+6342,octeville,fr
+6343,tourlaville,fr
+6344,fecamp,fr
+6345,dieppe,fr
+6346,cambrai,fr
+6347,fourmies,fr
+6348,gedinne,be
+6349,clervaux,lu
+6350,wittlich,de
+6351,geisenheim,de
+6352,seligenstadt,de
+6353,werneck,de
+6354,lichtenfels,de
+6355,wunsiedel,de
+6356,touzim,cz
+6357,kraluv dvur,cz
+6358,pecky,cz
+6359,holice,cz
+6360,vikyrovice,cz
+6361,stepankovice,cz
+6362,pszczyna,pl
+6363,wieliczka,pl
+6364,tarnow,pl
+6365,rzeszow,pl
+6366,lubaczow,pl
+6367,zhovkva,ua
+6368,brody,ua
+6369,lanivtsi,ua
+6370,shepetivka,ua
+6371,chudniv,ua
+6372,andrushivka,ua
+6373,fastiv,ua
+6374,rzhyshchiv,ua
+6375,drabiv,ua
+6376,chornukhy,ua
+6377,velyka bahachka,ua
+6378,okhtyrka,ua
+6379,peresichna,ua
+6380,staryy saltiv,ua
+6381,urazovo,ru
+6382,rovenki,ru
+6383,mitrofanovka,ru
+6384,petropavlovka,ru
+6385,alekseyevskaya,ru
+6386,danilovka,ru
+6387,petrov val,ru
+6388,kamyshin,ru
+6389,savinka,ru
+6390,novouzensk,ru
+6391,ozinki,ru
+6392,zachagansk,kz
+6393,aksay,kz
+6394,chingirlau,kz
+6395,sol-iletsk,ru
+6396,aqtobe,kz
+6397,khromtau,kz
+6398,kushmurun,kz
+6399,atbasar,kz
+6400,astana,kz
+6401,shakhtinsk,kz
+6402,temirtau,kz
+6403,semey,kz
+6404,glubokoe,kz
+6405,oskemen,kz
+6406,samagaltay,ru
+6407,zakamensk,ru
+6408,kholtoson,ru
+6409,chikoy,ru
+6410,bichura,ru
+6411,sherlovaya gora,ru
+6412,krasnokamensk,ru
+6413,priargunsk,ru
+6414,genhe,cn
+6415,alihe,cn
+6416,heihe,cn
+6417,yekaterinoslavka,ru
+6418,novobureyskiy,ru
+6419,talakan,ru
+6420,tyrma,ru
+6421,elban,ru
+6422,amursk,ru
+6423,vanino,ru
+6424,boshnyakovo,ru
+6425,smirnykh,ru
+6426,ozernovskiy,ru
+6427,cache creek,ca
+6428,chase,ca
+6429,sicamous,ca
+6430,revelstoke,ca
+6431,golden,ca
+6432,banff,ca
+6433,canmore,ca
+6434,calgary,ca
+6435,strathmore,ca
+6436,brooks,ca
+6437,kindersley,ca
+6438,eston,ca
+6439,rosetown,ca
+6440,outlook,ca
+6441,davidson,ca
+6442,lumsden,ca
+6443,indian head,ca
+6444,melville,ca
+6445,langenburg,ca
+6446,roblin,ca
+6447,dauphin,ca
+6448,neepawa,ca
+6449,gimli,ca
+6450,lac du bonnet,ca
+6451,moose factory,ca
+6452,albanel,ca
+6453,hauterive,ca
+6454,saint anthony,ca
+6455,vestmannaeyjar,is
+6456,dunmore east,ie
+6457,bodmin,gb
+6458,barnstaple,gb
+6459,taunton,gb
+6460,waterlooville,gb
+6461,haywards heath,gb
+6462,ashford,gb
+6463,marck,fr
+6464,staden,be
+6465,wichelen,be
+6466,diest,be
+6467,gangelt,de
+6468,leverkusen,de
+6469,kreuztal,de
+6470,bad wildungen,de
+6471,sontra,de
+6472,erfurt,de
+6473,eisenberg,de
+6474,mittweida,de
+6475,pirna,de
+6476,bogatynia,pl
+6477,zlotoryja,pl
+6478,wroclaw,pl
+6479,kluczbork,pl
+6480,klobuck,pl
+6481,wloszczowa,pl
+6482,starachowice,pl
+6483,opole lubelskie,pl
+6484,krasnystaw,pl
+6485,hrubieszow,pl
+6486,holoby,ua
+6487,olyka,ua
+6488,rokytne,ua
+6489,buchmany,ua
+6490,chopovychi,ua
+6491,ivankiv,ua
+6492,oster,ua
+6493,talalayivka,ua
+6494,bakhmach,ua
+6495,terny,ua
+6496,verkhnya syrovatka,ua
+6497,ivnya,ru
+6498,skorodnoye,ru
+6499,gorodishche,ru
+6500,ostrogozhsk,ru
+6501,bobrov,ru
+6502,abramovka,ru
+6503,uryupinsk,ru
+6504,preobrazhenskaya,ru
+6505,yelan,ru
+6506,zhirnovsk,ru
+6507,rovnoye,ru
+6508,krasnyy kut,ru
+6509,yershov,ru
+6510,dergachi,ru
+6511,dubenskiy,ru
+6512,akkermanovka,ru
+6513,novoorsk,ru
+6514,yasnyy,ru
+6515,lisakovsk,kz
+6516,alekseyevka,kz
+6517,osakarovka,kz
+6518,ereymentau,kz
+6519,ekibastuz,kz
+6520,maykain,kz
+6521,malinovoye ozero,ru
+6522,uglovskoye,ru
+6523,veseloyarsk,ru
+6524,staroaleyskoye,ru
+6525,charyshskoye,ru
+6526,ust-kan,ru
+6527,onguday,ru
+6528,ulagan,ru
+6529,teeli,ru
+6530,kyzyl-mazhalyk,ru
+6531,khandagayty,ru
+6532,shagonar,ru
+6533,khovu-aksy,ru
+6534,balgazyn,ru
+6535,saryg-sep,ru
+6536,kyren,ru
+6537,bayangol,ru
+6538,baykalsk,ru
+6539,selenduma,ru
+6540,tarbagatay,ru
+6541,balyaga,ru
+6542,bada,ru
+6543,khilok,ru
+6544,ulety,ru
+6545,drovyanaya,ru
+6546,duldurga,ru
+6547,olovyannaya,ru
+6548,kalanguy,ru
+6549,aleksandrovskiy zavod,ru
+6550,kalga,ru
+6551,nerchinskiy zavod,ru
+6552,srednebelaya,ru
+6553,romny,ru
+6554,novyy urgal,ru
+6555,chegdomyn,ru
+6556,berezovyy,ru
+6557,gornyy,ru
+6558,gorin,ru
+6559,de-kastri,ru
+6560,aleksandrovsk-sakhalinskiy,ru
+6561,tymovskoye,ru
+6562,katangli,ru
+6563,quesnel,ca
+6564,williams lake,ca
+6565,one hundred mile house,ca
+6566,jasper,ca
+6567,rocky mountain house,ca
+6568,penhold,ca
+6569,three hills,ca
+6570,hanna,ca
+6571,provost,ca
+6572,macklin,ca
+6573,kerrobert,ca
+6574,biggar,ca
+6575,saskatoon,ca
+6576,watrous,ca
+6577,lanigan,ca
+6578,wadena,ca
+6579,preeceville,ca
+6580,kamsack,ca
+6581,swan river,ca
+6582,attawapiskat,ca
+6583,grindavik,is
+6584,killorglin,ie
+6585,macroom,ie
+6586,youghal,ie
+6587,wexford,ie
+6588,haverfordwest,gb
+6589,carmarthen,gb
+6590,brynmawr,gb
+6591,cheltenham,gb
+6592,bicester,gb
+6593,hertford,gb
+6594,lowestoft,gb
+6595,blankenberge,be
+6596,monster,nl
+6597,ijsselstein,nl
+6598,rheden,nl
+6599,gescher,de
+6600,sassenberg,de
+6601,lemgo,de
+6602,bad salzdetfurth,de
+6603,halberstadt,de
+6604,zerbst,de
+6605,juterbog,de
+6606,lubben,de
+6607,krosno odrzanskie,pl
+6608,wolsztyn,pl
+6609,srem,pl
+6610,pleszew,pl
+6611,leczyca,pl
+6612,lowicz,pl
+6613,konstancin-jeziorna,pl
+6614,siedlce,pl
+6615,biala podlaska,pl
+6616,zabinka,by
+6617,rakiv lis,ua
+6618,pinsk,by
+6619,stolin,by
+6620,lyuban,by
+6621,mazyr,by
+6622,lyubech,ua
+6623,dobryanka,ua
+6624,shchors,ua
+6625,kholmy,ua
+6626,druzhba,ua
+6627,dmitriyev-lgovskiy,ru
+6628,fatezh,ru
+6629,shchigry,ru
+6630,volovo,ru
+6631,gremyachye,ru
+6632,verkhnyaya khava,ru
+6633,rzhaksa,ru
+6634,turki,ru
+6635,rtishchevo,ru
+6636,atkarsk,ru
+6637,novyye burasy,ru
+6638,sennoy,ru
+6639,balakovo,ru
+6640,ivanteyevka,ru
+6641,perelyub,ru
+6642,bolshaya chernigovka,ru
+6643,kurmanayevka,ru
+6644,tashla,ru
+6645,perevolotskiy,ru
+6646,kargala,ru
+6647,matveyevka,ru
+6648,zilair,ru
+6649,buribay,ru
+6650,energetik,ru
+6651,krasnoyarskiy,ru
+6652,zhitikara,kz
+6653,esil,kz
+6654,makinsk,kz
+6655,stepnogorsk,kz
+6656,klyuchi,ru
+6657,mikhaylovskoye,ru
+6658,novoyegoryevskoye,ru
+6659,pospelikha,ru
+6660,ust-kalmanka,ru
+6661,petropavlovskoye,ru
+6662,belokurikha,ru
+6663,gorno-altaysk,ru
+6664,turochak,ru
+6665,tashtagol,ru
+6666,tashtyp,ru
+6667,abaza,ru
+6668,sug-aksy,ru
+6669,chaa-khol,ru
+6670,turan,ru
+6671,kaa-khem,ru
+6672,toora-khem,ru
+6673,orlik,ru
+6674,kultuk,ru
+6675,bolshoy lug,ru
+6676,listvyanka,ru
+6677,istok,ru
+6678,selenginsk,ru
+6679,onokhoy,ru
+6680,novoilinsk,ru
+6681,kizhinga,ru
+6682,sosnovo-ozerskoye,ru
+6683,mogzon,ru
+6684,domna,ru
+6685,makkaveyevo,ru
+6686,urulga,ru
+6687,shilka,ru
+6688,priiskovyy,ru
+6689,sretensk,ru
+6690,ust-karsk,ru
+6691,tahe,cn
+6692,ushumun,ru
+6693,sivaki,ru
+6694,shimanovsk,ru
+6695,svobodnyy,ru
+6696,fevralsk,ru
+6697,stoyba,ru
+6698,sofiysk,ru
+6699,imeni poliny osipenko,ru
+6700,bogorodskoye,ru
+6701,lazarev,ru
+6702,nogliki,ru
+6703,ust-kamchatsk,ru
+6704,kitimat,ca
+6705,houston,ca
+6706,burns lake,ca
+6707,vanderhoof,ca
+6708,hinton,ca
+6709,edson,ca
+6710,drayton valley,ca
+6711,calmar,ca
+6712,camrose,ca
+6713,viking,ca
+6714,wainwright,ca
+6715,lloydminster,ca
+6716,unity,ca
+6717,north battleford,ca
+6718,langham,ca
+6719,prince albert,ca
+6720,melfort,ca
+6721,nipawin,ca
+6722,hudson bay,ca
+6723,the pas,ca
+6724,tasiilaq,gl
+6725,kilrush,ie
+6726,ennis,ie
+6727,birr,ie
+6728,athy,ie
+6729,wicklow,ie
+6730,llangefni,gb
+6731,caernarfon,gb
+6732,wrexham,gb
+6733,stafford,gb
+6734,carlton,gb
+6735,boston,gb
+6736,norwich,gb
+6737,great yarmouth,gb
+6738,den helder,nl
+6739,anna paulowna,nl
+6740,heerenveen,nl
+6741,stadskanaal,nl
+6742,garrel,de
+6743,achim,de
+6744,munster,de
+6745,dannenberg,de
+6746,perleberg,de
+6747,neuruppin,de
+6748,angermunde,de
+6749,mysliborz,pl
+6750,drezdenko,pl
+6751,chodziez,pl
+6752,bydgoszcz,pl
+6753,golub-dobrzyn,pl
+6754,dzialdowo,pl
+6755,przasnysz,pl
+6756,lomza,pl
+6757,lapy,pl
+6758,vawkavysk,by
+6759,slonim,by
+6760,navahrudak,by
+6761,kleck,by
+6762,zlobin,by
+6763,gomel,by
+6764,gordeyevka,ru
+6765,mglin,ru
+6766,vygonichi,ru
+6767,karachev,ru
+6768,orel,ru
+6769,novosil,ru
+6770,yefremov,ru
+6771,lebedyan,ru
+6772,kalikino,ru
+6773,dmitriyevka,ru
+6774,platonovka,ru
+6775,poim,ru
+6776,zasechnoye,ru
+6777,srednyaya yelyuzan,ru
+6778,nikolayevka,ru
+6779,radishchevo,ru
+6780,obsharovka,ru
+6781,samara,ru
+6782,utevka,ru
+6783,koltubanovskiy,ru
+6784,pleshanovo,ru
+6785,sharlyk,ru
+6786,meleuz,ru
+6787,starosubkhangulovo,ru
+6788,temyasovo,ru
+6789,kizilskoye,ru
+6790,yuzhnyy,ru
+6791,kartaly,ru
+6792,tobol,kz
+6793,qostanay,kz
+6794,sergeyevka,kz
+6795,stepnyak,kz
+6796,bestobe,kz
+6797,russkaya polyana,ru
+6798,bolshegrivskoye,ru
+6799,kachiry,kz
+6800,pavlodar,kz
+6801,burla,ru
+6802,galbshtadt,ru
+6803,blagoveshchenka,ru
+6804,zavyalovo,ru
+6805,rebrikha,ru
+6806,topchikha,ru
+6807,zaton,ru
+6808,tselinnoye,ru
+6809,kaz,ru
+6810,sheregesh,ru
+6811,biskamzha,ru
+6812,beya,ru
+6813,shushenskoye,ru
+6814,karatuzskoye,ru
+6815,tyret pervaya,ru
+6816,cheremkhovo,ru
+6817,bokhan,ru
+6818,ust-ordynskiy,ru
+6819,bayanday,ru
+6820,khuzhir,ru
+6821,ust-barguzin,ru
+6822,barguzin,ru
+6823,smolenka,ru
+6824,verkh-usugli,ru
+6825,vershino-darasunskiy,ru
+6826,bukachacha,ru
+6827,zhireken,ru
+6828,klyuchevskiy,ru
+6829,amazar,ru
+6830,yerofey pavlovich,ru
+6831,urusha,ru
+6832,skovorodino,ru
+6833,taldan,ru
+6834,tygda,ru
+6835,ekimchan,ru
+6836,zlatoustovsk,ru
+6837,mago,ru
+6838,nikolayevsk-na-amure,ru
+6839,tungor,ru
+6840,sobolevo,ru
+6841,ust-bolsheretsk,ru
+6842,yelizovo,ru
+6843,egvekinot,ru
+6844,palmer,us
+6845,prince george,ca
+6846,beaverlodge,ca
+6847,wembley,ca
+6848,whitecourt,ca
+6849,barrhead,ca
+6850,westlock,ca
+6851,lamont,ca
+6852,two hills,ca
+6853,elk point,ca
+6854,grand centre,ca
+6855,meadow lake,ca
+6856,shellbrook,ca
+6857,flin flon,ca
+6858,thompson,ca
+6859,swinford,ie
+6860,boyle,ie
+6861,bailieborough,ie
+6862,newry,gb
+6863,portpatrick,gb
+6864,whitehaven,gb
+6865,fleetwood,gb
+6866,keighley,gb
+6867,york,gb
+6868,bridlington,gb
+6869,skegness,gb
+6870,harlingen,nl
+6871,kollumerland,nl
+6872,norden,de
+6873,jever,de
+6874,brunsbuttel,de
+6875,neumunster,de
+6876,neustadt,de
+6877,bad doberan,de
+6878,demmin,de
+6879,wolgast,de
+6880,gryfice,pl
+6881,bialogard,pl
+6882,miastko,pl
+6883,koscierzyna,pl
+6884,malbork,pl
+6885,morag,pl
+6886,biskupiec,pl
+6887,gizycko,pl
+6888,suwalki,pl
+6889,druskininkai,lt
+6890,eisiskes,lt
+6891,dzerzhinsk,by
+6892,minsk,by
+6893,senno,by
+6894,orsha,by
+6895,horki,by
+6896,khislavichi,ru
+6897,roslavl,ru
+6898,betlitsa,ru
+6899,duminichi,ru
+6900,sosenskiy,ru
+6901,dubna,ru
+6902,brusyanskiy,ru
+6903,novolvovsk,ru
+6904,korablino,ru
+6905,putyatino,ru
+6906,shatsk,ru
+6907,potma,ru
+6908,kovylkino,ru
+6909,zykovo,ru
+6910,bolshiye berezniki,ru
+6911,veshkayma,ru
+6912,bolshiye klyuchishchi,ru
+6913,sengiley,ru
+6914,novaya malykla,ru
+6915,sergiyevsk,ru
+6916,kamyshla,ru
+6917,severnoye,ru
+6918,priyutovo,ru
+6919,rayevskiy,ru
+6920,tolbazy,ru
+6921,tukan,ru
+6922,lomovka,ru
+6923,mishkino,ru
+6924,uyskoye,ru
+6925,plast,ru
+6926,bobrovka,ru
+6927,oktyabrskoye,ru
+6928,borovskoy,kz
+6929,zverinogolovskoye,ru
+6930,polovinnoye,ru
+6931,poltavka,ru
+6932,odesskoye,ru
+6933,kupino,ru
+6934,karasuk,ru
+6935,krasnozerskoye,ru
+6936,pankrushikha,ru
+6937,krutikha,ru
+6938,suzun,ru
+6939,cherepanovo,ru
+6940,zalesovo,ru
+6941,guryevsk,ru
+6942,novokuznetsk,ru
+6943,mezhdurechensk,ru
+6944,kommunar,ru
+6945,sorsk,ru
+6946,bograd,ru
+6947,sayanskiy,ru
+6948,bolshaya irba,ru
+6949,koshurnikovo,ru
+6950,aginskoye,ru
+6951,nizhneudinsk,ru
+6952,shumskiy,ru
+6953,tulun,ru
+6954,zima,ru
+6955,ust-uda,ru
+6956,osa,ru
+6957,zhigalovo,ru
+6958,kachug,ru
+6959,kurumkan,ru
+6960,bagdarin,ru
+6961,ksenyevka,ru
+6962,mogocha,ru
+6963,magdagachi,ru
+6964,zeya,ru
+6965,tokur,ru
+6966,chumikan,ru
+6967,mnogovershinnyy,ru
+6968,okha,ru
+6969,ekhabi,ru
+6970,milkovo,ru
+6971,terrace,ca
+6972,smithers,ca
+6973,fort saint james,ca
+6974,mackenzie,ca
+6975,dawson creek,ca
+6976,valleyview,ca
+6977,high prairie,ca
+6978,slave lake,ca
+6979,athabasca,ca
+6980,smoky lake,ca
+6981,bonnyville,ca
+6982,la ronge,ca
+6983,olafsvik,is
+6984,killybegs,ie
+6985,letterkenny,ie
+6986,moville,ie
+6987,waterfoot,gb
+6988,stranraer,gb
+6989,castle douglas,gb
+6990,gretna,gb
+6991,consett,gb
+6992,seaham,gb
+6993,westerland,de
+6994,logumkloster,dk
+6995,guderup,dk
+6996,nakskov,dk
+6997,nyrad,dk
+6998,trelleborg,se
+6999,ystad,se
+7000,aakirkeby,dk
+7001,darlowo,pl
+7002,ustka,pl
+7003,wladyslawowo,pl
+7004,primore,ru
+7005,polessk,ru
+7006,neman,ru
+7007,sakiai,lt
+7008,kaunas,lt
+7009,sirvintos,lt
+7010,svencioneliai,lt
+7011,pastavy,by
+7012,disna,by
+7013,rudnya,ru
+7014,smolensk,ru
+7015,safonovo,ru
+7016,vyazma,ru
+7017,iznoski,ru
+7018,medyn,ru
+7019,kremenki,ru
+7020,stupino,ru
+7021,lukhovitsy,ru
+7022,spas-klepiki,ru
+7023,lashma,ru
+7024,yelatma,ru
+7025,diveyevo,ru
+7026,lesogorsk,ru
+7027,gagino,ru
+7028,sechenovo,ru
+7029,kirya,ru
+7030,yalchiki,ru
+7031,bolgar,ru
+7032,bazarnyye mataki,ru
+7033,novosheshminsk,ru
+7034,russkiy aktash,ru
+7035,muslyumovo,ru
+7036,blagoveshchensk,ru
+7037,ulu-telyak,ru
+7038,kropachevo,ru
+7039,satka,ru
+7040,turgoyak,ru
+7041,poletayevo,ru
+7042,kanashevo,ru
+7043,shchuchye,ru
+7044,glyadyanskoye,ru
+7045,makushino,ru
+7046,petukhovo,ru
+7047,petropavl,kz
+7048,bulaevo,kz
+7049,isilkul,ru
+7050,rostovka,ru
+7051,luzino,ru
+7052,kormilovka,ru
+7053,okoneshnikovo,ru
+7054,tatarsk,ru
+7055,chany,ru
+7056,barabinsk,ru
+7057,zdvinsk,ru
+7058,kargat,ru
+7059,chulym,ru
+7060,chik,ru
+7061,novosibirsk,ru
+7062,krasnoye,ru
+7063,plotnikovo,ru
+7064,zelenogorskiy,ru
+7065,tsentralnyy,ru
+7066,goryachegorsk,ru
+7067,kopyevo,ru
+7068,balakhta,ru
+7069,partizanskoye,ru
+7070,irbeyskoye,ru
+7071,tinskoy,ru
+7072,uk,ru
+7073,atagay,ru
+7074,pokosnoye,ru
+7075,magistralnyy,ru
+7076,severobaykalsk,ru
+7077,yanchukan,ru
+7078,taksimo,ru
+7079,tupik,ru
+7080,tynda,ru
+7081,ayan,ru
+7082,arman,ru
+7083,magadan,ru
+7084,haines junction,ca
+7085,fort saint john,ca
+7086,spirit river,ca
+7087,fairview,ca
+7088,peace river,ca
+7089,paamiut,gl
+7090,qaqortoq,gl
+7091,buncrana,ie
+7092,bowmore,gb
+7093,dunoon,gb
+7094,cumbernauld,gb
+7095,cockenzie,gb
+7096,eyemouth,gb
+7097,blyth,gb
+7098,whitley bay,gb
+7099,vigrestad,no
+7100,vestbygda,no
+7101,hvide sande,dk
+7102,lind,dk
+7103,stilling,dk
+7104,kalundborg,dk
+7105,frederiksvaerk,dk
+7106,landskrona,se
+7107,kristianstad,se
+7108,karlshamn,se
+7109,karlskrona,se
+7110,kalmar,se
+7111,palanga,lt
+7112,plunge,lt
+7113,kursenai,lt
+7114,linkuva,lt
+7115,obeliai,lt
+7116,subate,lv
+7117,kraslava,lv
+7118,zilupe,lv
+7119,idritsa,ru
+7120,nevel,ru
+7121,kunya,ru
+7122,zapadnaya dvina,ru
+7123,belyy,ru
+7124,sychevka,ru
+7125,zubtsov,ru
+7126,volokolamsk,ru
+7127,povarovo,ru
+7128,fryazino,ru
+7129,kirzhach,ru
+7130,sobinka,ru
+7131,krasnyy bogatyr,ru
+7132,nikologory,ru
+7133,tumbotino,ru
+7134,dalneye konstantinovo,ru
+7135,lyskovo,ru
+7136,vasilsursk,ru
+7137,ishlei,ru
+7138,zvenigovo,ru
+7139,osinovo,ru
+7140,arsk,ru
+7141,kukmor,ru
+7142,grakhovo,ru
+7143,menzelinsk,ru
+7144,agidel,ru
+7145,krasnokholmskiy,ru
+7146,starobaltachevo,ru
+7147,karaidel,ru
+7148,bolsheustikinskoye,ru
+7149,novobelokatay,ru
+7150,nizhniy ufaley,ru
+7151,tyubuk,ru
+7152,martyush,ru
+7153,dalmatovo,ru
+7154,kargapolye,ru
+7155,krasnyy oktyabr,ru
+7156,uporovo,ru
+7157,mokrousovo,ru
+7158,armizonskoye,ru
+7159,novoseleznevo,ru
+7160,ishim,ru
+7161,krutinka,ru
+7162,tyukalinsk,ru
+7163,sargatskoye,ru
+7164,kolosovka,ru
+7165,muromtsevo,ru
+7166,ust-tarka,ru
+7167,vengerovo,ru
+7168,ubinskoye,ru
+7169,kolyvan,ru
+7170,tashara,ru
+7171,kozhevnikovo,ru
+7172,yurga,ru
+7173,anzhero-sudzhensk,ru
+7174,izhmorskiy,ru
+7175,suslovo,ru
+7176,itatskiy,ru
+7177,nazarovo,ru
+7178,novochernorechenskiy,ru
+7179,divnogorsk,ru
+7180,krasnoyarsk,ru
+7181,shalinskoye,ru
+7182,borodino,ru
+7183,ilanskiy,ru
+7184,tayshet,ru
+7185,chunskiy,ru
+7186,vikhorevka,ru
+7187,bratsk,ru
+7188,vidim,ru
+7189,shestakovo,ru
+7190,yantal,ru
+7191,ust-kut,ru
+7192,kazachinskoye,ru
+7193,kichera,ru
+7194,severomuysk,ru
+7195,chara,ru
+7196,khani,ru
+7197,neryungri,ru
+7198,zolotinka,ru
+7199,chagda,ru
+7200,ola,ru
+7201,esso,ru
+7202,homer,us
+7203,juneau,us
+7204,grimshaw,ca
+7205,iqaluit,ca
+7206,portree,gb
+7207,mallaig,gb
+7208,fort william,gb
+7209,kingussie,gb
+7210,ballater,gb
+7211,portlethen,gb
+7212,boddam,gb
+7213,varhaug,no
+7214,farsund,no
+7215,thyboron,dk
+7216,nykobing,dk
+7217,gistrup,dk
+7218,saeby,dk
+7219,varberg,se
+7220,halmstad,se
+7221,ljungby,se
+7222,vaxjo,se
+7223,nybro,se
+7224,oskarshamn,se
+7225,visby,se
+7226,liepaja,lv
+7227,pavilosta,lv
+7228,kuldiga,lv
+7229,tukums,lv
+7230,riga,lv
+7231,sigulda,lv
+7232,madona,lv
+7233,balvi,lv
+7234,pytalovo,ru
+7235,pushkinskiye gory,ru
+7236,bezhanitsy,ru
+7237,poddorye,ru
+7238,marevo,ru
+7239,ostashkov,ru
+7240,kuvshinovo,ru
+7241,torzhok,ru
+7242,vasilyevskiy mokh,ru
+7243,kalyazin,ru
+7244,petrovskoye,ru
+7245,ilinskoye-khovanskoye,ru
+7246,ivanovo,ru
+7247,vichuga,ru
+7248,puchezh,ru
+7249,kovernino,ru
+7250,sukhobezvodnoye,ru
+7251,arya,ru
+7252,sanchursk,ru
+7253,orshanka,ru
+7254,sernur,ru
+7255,urzhum,ru
+7256,kilmez,ru
+7257,uva,ru
+7258,yakshur-bodya,ru
+7259,votkinsk,ru
+7260,yelovo,ru
+7261,barda,ru
+7262,orda,ru
+7263,achit,ru
+7264,bisert,ru
+7265,pervouralsk,ru
+7266,staropyshminsk,ru
+7267,sukhoy log,ru
+7268,pyshma,ru
+7269,troitskiy,ru
+7270,zavodouspenskoye,ru
+7271,bogandinskiy,ru
+7272,yarkovo,ru
+7273,omutinskoye,ru
+7274,uspenka,ru
+7275,bolshoye sorokino,ru
+7276,vikulovo,ru
+7277,bolshiye uki,ru
+7278,znamenskoye,ru
+7279,sedelnikovo,ru
+7280,kyshtovka,ru
+7281,kedrovyy,ru
+7282,bakchar,ru
+7283,podgornoye,ru
+7284,krivosheino,ru
+7285,samus,ru
+7286,zyryanskoye,ru
+7287,teguldet,ru
+7288,tyukhtet,ru
+7289,bolshoy uluy,ru
+7290,novobirilyussy,ru
+7291,bolshaya murta,ru
+7292,predivinsk,ru
+7293,taseyevo,ru
+7294,aban,ru
+7295,chunoyar,ru
+7296,novobiryusinskiy,ru
+7297,shitkino,ru
+7298,novaya igirma,ru
+7299,markova,ru
+7300,ulkan,ru
+7301,alekseyevsk,ru
+7302,gorno-chuyskiy,ru
+7303,mamakan,ru
+7304,chulman,ru
+7305,tommot,ru
+7306,okhotsk,ru
+7307,tigil,ru
+7308,nome,us
+7309,anchorage,us
+7310,fort nelson,ca
+7311,high level,ca
+7312,hofn,is
+7313,stornoway,gb
+7314,ullapool,gb
+7315,golspie,gb
+7316,findochty,gb
+7317,fraserburgh,gb
+7318,peterhead,gb
+7319,visnes,no
+7320,egersund,no
+7321,lyngdal,no
+7322,kristiansand,no
+7323,fevik,no
+7324,hirtshals,dk
+7325,skagen,dk
+7326,kungalv,se
+7327,boras,se
+7328,jonkoping,se
+7329,tranas,se
+7330,linkoping,se
+7331,vastervik,se
+7332,ventspils,lv
+7333,salme,ee
+7334,valjala,ee
+7335,tostamaa,ee
+7336,mazsalaca,lv
+7337,torva,ee
+7338,mammaste,ee
+7339,seredka,ru
+7340,plyussa,ru
+7341,dno,ru
+7342,volot,ru
+7343,parfino,ru
+7344,valday,ru
+7345,berezayka,ru
+7346,udomlya,ru
+7347,maksatikha,ru
+7348,krasnyy kholm,ru
+7349,novyy nekouz,ru
+7350,rybinsk,ru
+7351,danilov,ru
+7352,ostrovskoye,ru
+7353,kadyy,ru
+7354,makaryev,ru
+7355,manturovo,ru
+7356,vetluga,ru
+7357,pizhma,ru
+7358,tuzha,ru
+7359,verkhoshizhemye,ru
+7360,kumeny,ru
+7361,yukamenskoye,ru
+7362,balezino,ru
+7363,kez,ru
+7364,mendeleyevo,ru
+7365,kondratovo,ru
+7366,komarikhinskiy,ru
+7367,lysva,ru
+7368,staryy biser,ru
+7369,nizhniy tagil,ru
+7370,nizhnyaya salda,ru
+7371,verkhnyaya sinyachikha,ru
+7372,irbit,ru
+7373,turinsk,ru
+7374,azanka,ru
+7375,nizhnyaya tavda,ru
+7376,tobolsk,ru
+7377,vagay,ru
+7378,ust-ishim,ru
+7379,tevriz,ru
+7380,parabel,ru
+7381,kolpashevo,ru
+7382,molchanovo,ru
+7383,belyy yar,ru
+7384,pirovskoye,ru
+7385,strelka,ru
+7386,motygino,ru
+7387,boguchany,ru
+7388,kodinsk,ru
+7389,ust-ilimsk,ru
+7390,zheleznodorozhnyy,ru
+7391,rudnogorsk,ru
+7392,kirensk,ru
+7393,sogdiondon,ru
+7394,lugovskiy,ru
+7395,kropotkin,ru
+7396,serebryanyy bor,ru
+7397,lebedinyy,ru
+7398,ust-maya,ru
+7399,palana,ru
+7400,ossora,ru
+7401,tilichiki,ru
+7402,hay river,ca
+7403,nuuk,gl
+7404,sorvag,fo
+7405,thurso,gb
+7406,kirkwall,gb
+7407,sandwick,gb
+7408,lerwick,gb
+7409,holme,no
+7410,kopervik,no
+7411,jorpeland,no
+7412,tonstad,no
+7413,dalen,no
+7414,bo,no
+7415,larvik,no
+7416,skjaerhollen,no
+7417,orje,no
+7418,lidkoping,se
+7419,mariestad,se
+7420,kumla,se
+7421,katrineholm,se
+7422,nykoping,se
+7423,nynashamn,se
+7424,boo,se
+7425,maarianhamina,fi
+7426,karla,ee
+7427,kardla,ee
+7428,palivere,ee
+7429,kaiu,ee
+7430,koeru,ee
+7431,avinurme,ee
+7432,slantsy,ru
+7433,kingisepp,ru
+7434,tolmachevo,ru
+7435,bolshaya vishera,ru
+7436,kholm,ru
+7437,boksitogorsk,ru
+7438,sazonovo,ru
+7439,ustyuzhna,ru
+7440,kaduy,ru
+7441,cherepovets,ru
+7442,chebsara,ru
+7443,vologda,ru
+7444,vokhtoga,ru
+7445,soligalich,ru
+7446,chukhloma,ru
+7447,kologriv,ru
+7448,georgiyevskoye,ru
+7449,pavino,ru
+7450,bogovarovo,ru
+7451,darovskoy,ru
+7452,yurya,ru
+7453,stulovo,ru
+7454,belaya kholunitsa,ru
+7455,chernaya kholunitsa,ru
+7456,kostino,ru
+7457,yurla,ru
+7458,yusva,ru
+7459,maykor,ru
+7460,yayva,ru
+7461,severnyy-kospashskiy,ru
+7462,medvedka,ru
+7463,is,ru
+7464,verkhoturye,ru
+7465,sosva,ru
+7466,gari,ru
+7467,tabory,ru
+7468,mortka,ru
+7469,kuminskiy,ru
+7470,irtyshskiy,ru
+7471,turtas,ru
+7472,salym,ru
+7473,nizhnevartovsk,ru
+7474,strezhevoy,ru
+7475,kargasok,ru
+7476,togur,ru
+7477,yeniseysk,ru
+7478,lesosibirsk,ru
+7479,yuzhno-yeniseyskiy,ru
+7480,vitim,ru
+7481,balakhninskiy,ru
+7482,aldan,ru
+7483,nizhniy kuranakh,ru
+7484,eldikan,ru
+7485,solnechnyy,ru
+7486,talaya,ru
+7487,soldotna,us
+7488,whitehorse,ca
+7489,yellowknife,ca
+7490,pangnirtung,ca
+7491,maniitsoq,gl
+7492,toftir,fo
+7493,vagur,fo
+7494,stromness,gb
+7495,scalloway,gb
+7496,solsvik,no
+7497,storebo,no
+7498,rosendal,no
+7499,tyssedal,no
+7500,amot,no
+7501,rjukan,no
+7502,vikersund,no
+7503,ask,no
+7504,skotterud,no
+7505,arvika,se
+7506,kristinehamn,se
+7507,ludvika,se
+7508,fagersta,se
+7509,enkoping,se
+7510,uppsala,se
+7511,norrtalje,se
+7512,uusikaupunki,fi
+7513,parainen,fi
+7514,hanko,fi
+7515,lohja,fi
+7516,helsinki,fi
+7517,loviisa,fi
+7518,kotka,fi
+7519,narva-joesuu,ee
+7520,lebyazhye,ru
+7521,lisiy nos,ru
+7522,imeni morozova,ru
+7523,novaya ladoga,ru
+7524,syasstroy,ru
+7525,vytegra,ru
+7526,lipin bor,ru
+7527,kirillov,ru
+7528,kharovsk,ru
+7529,syamzha,ru
+7530,verkhovazhye,ru
+7531,totma,ru
+7532,nyuksenitsa,ru
+7533,nikolsk,ru
+7534,kichmengskiy gorodok,ru
+7535,podosinovets,ru
+7536,zarya,ru
+7537,raduzhnyy,ru
+7538,koygorodok,ru
+7539,lesnoy,ru
+7540,rudnichnyy,ru
+7541,gayny,ru
+7542,kosa,ru
+7543,kerchevskiy,ru
+7544,krasnovishersk,ru
+7545,kytlym,ru
+7546,volchansk,ru
+7547,serov,ru
+7548,uray,ru
+7549,lugovoy,ru
+7550,kondinskoye,ru
+7551,uvat,ru
+7552,gornopravdinsk,ru
+7553,nefteyugansk,ru
+7554,surgut,ru
+7555,lokosovo,ru
+7556,megion,ru
+7557,teya,ru
+7558,severo-yeniseyskiy,ru
+7559,baykit,ru
+7560,vanavara,ru
+7561,yerbogachen,ru
+7562,peleduy,ru
+7563,lensk,ru
+7564,suntar,ru
+7565,mokhsogollokh,ru
+7566,amga,ru
+7567,ust-omchug,ru
+7568,palatka,ru
+7569,dukat,ru
+7570,omsukchan,ru
+7571,anadyr,ru
+7572,lavrentiya,ru
+7573,kenai,us
+7574,norman wells,ca
+7575,brae,gb
+7576,aras,no
+7577,hoyanger,no
+7578,kaupanger,no
+7579,ardalstangen,no
+7580,fagernes,no
+7581,dokka,no
+7582,brumunddal,no
+7583,valer,no
+7584,hof,no
+7585,borlange,se
+7586,bollnas,se
+7587,soderhamn,se
+7588,gavle,se
+7589,eura,fi
+7590,vammala,fi
+7591,valkeakoski,fi
+7592,riihimaki,fi
+7593,nastola,fi
+7594,valkeala,fi
+7595,lappeenranta,fi
+7596,lesogorskiy,ru
+7597,kuznechnoye,ru
+7598,pitkyaranta,ru
+7599,olonets,ru
+7600,vazhiny,ru
+7601,voznesenye,ru
+7602,kargopol,ru
+7603,yertsevo,ru
+7604,podyuga,ru
+7605,velsk,ru
+7606,ileza,ru
+7607,kizema,ru
+7608,udimskiy,ru
+7609,vychegodskiy,ru
+7610,ilinsko-podomskoye,ru
+7611,urdoma,ru
+7612,vizinga,ru
+7613,kortkeros,ru
+7614,ust-kulom,ru
+7615,cherdyn,ru
+7616,nyrob,ru
+7617,cheremukhovo,ru
+7618,polunochnoye,ru
+7619,ous,ru
+7620,pelym,ru
+7621,pionerskiy,ru
+7622,zelenoborsk,ru
+7623,kommunisticheskiy,ru
+7624,cheuskiny,ru
+7625,barsovo,ru
+7626,verkhnevilyuysk,ru
+7627,vilyuysk,ru
+7628,kysyl-syr,ru
+7629,berdigestyakh,ru
+7630,mayya,ru
+7631,kadykchan,ru
+7632,kholodnyy,ru
+7633,karamken,ru
+7634,atka,ru
+7635,evensk,ru
+7636,wasilla,us
+7637,fairbanks,us
+7638,sandavagur,fo
+7639,klaksvik,fo
+7640,floro,no
+7641,maloy,no
+7642,nordfjordeid,no
+7643,stryn,no
+7644,ovre ardal,no
+7645,vagamo,no
+7646,folldal,no
+7647,tynset,no
+7648,roros,no
+7649,ostersund,se
+7650,hudiksvall,se
+7651,harnosand,se
+7652,kristiinankaupunki,fi
+7653,noormarkku,fi
+7654,kankaanpaa,fi
+7655,kangasala,fi
+7656,jamsa,fi
+7657,jyvaskyla,fi
+7658,mikkeli,fi
+7659,varkaus,fi
+7660,savonlinna,fi
+7661,lakhdenpokhya,ru
+7662,lyaskelya,ru
+7663,suoyarvi,ru
+7664,shuya,ru
+7665,petrozavodsk,ru
+7666,pudozh,ru
+7667,konevo,ru
+7668,shalakusha,ru
+7669,puksoozero,ru
+7670,shenkursk,ru
+7671,mirnyy,ru
+7672,dvinskoy,ru
+7673,krasnoborsk,ru
+7674,solvychegodsk,ru
+7675,yarensk,ru
+7676,mikun,ru
+7677,sedkyrkeshch,ru
+7678,voyvozh,ru
+7679,troitsko-pechorsk,ru
+7680,agirish,ru
+7681,nyagan,ru
+7682,poykovskiy,ru
+7683,novoagansk,ru
+7684,turukhansk,ru
+7685,tura,ru
+7686,chernyshevskiy,ru
+7687,pokrovsk,ru
+7688,nizhniy bestyakh,ru
+7689,borogontsy,ru
+7690,churapcha,ru
+7691,dzhebariki-khaya,ru
+7692,ust-nera,ru
+7693,artyk,ru
+7694,burkhala,ru
+7695,yagodnoye,ru
+7696,spornoye,ru
+7697,orotukan,ru
+7698,seymchan,ru
+7699,kamenskoye,ru
+7700,mayo,ca
+7701,keflavik,is
+7702,leirvik,fo
+7703,raudeberg,no
+7704,larsnes,no
+7705,roald,no
+7706,bud,no
+7707,rensvik,no
+7708,rindal,no
+7709,berkak,no
+7710,hell,no
+7711,snasa,no
+7712,timra,se
+7713,ornskoldsvik,se
+7714,umea,se
+7715,vaasa,fi
+7716,mustasaari,fi
+7717,lapua,fi
+7718,keuruu,fi
+7719,aanekoski,fi
+7720,iisalmi,fi
+7721,kuopio,fi
+7722,joensuu,fi
+7723,lieksa,fi
+7724,vyartsilya,ru
+7725,porosozero,ru
+7726,medvezhyegorsk,ru
+7727,povenets,ru
+7728,maloshuyka,ru
+7729,mudyuga,ru
+7730,savinskiy,ru
+7731,bereznik,ru
+7732,rochegda,ru
+7733,verkhnyaya toyma,ru
+7734,blagoyevo,ru
+7735,koslan,ru
+7736,aykino,ru
+7737,sindor,ru
+7738,borovoy,ru
+7739,yarega,ru
+7740,vuktyl,ru
+7741,igrim,ru
+7742,andra,ru
+7743,muravlenko,ru
+7744,noyabrsk,ru
+7745,tarko-sale,ru
+7746,krasnoselkup,ru
+7747,nyurba,ru
+7748,sangar,ru
+7749,namtsy,ru
+7750,khandyga,ru
+7751,shirokiy,ru
+7752,college,us
+7753,sisimiut,gl
+7754,kopavogur,is
+7755,selfoss,is
+7756,hvolsvollur,is
+7757,akureyri,is
+7758,vestmanna,fo
+7759,sistranda,no
+7760,olden,no
+7761,malm,no
+7762,klaebu,no
+7763,pietarsaari,fi
+7764,kokkola,fi
+7765,ylivieska,fi
+7766,nivala,fi
+7767,muhos,fi
+7768,kajaani,fi
+7769,muyezerskiy,ru
+7770,segezha,ru
+7771,nadvoitsy,ru
+7772,belomorsk,ru
+7773,solovetskiy,ru
+7774,onega,ru
+7775,kodino,ru
+7776,pervomayskiy,ru
+7777,lukovetskiy,ru
+7778,pinega,ru
+7779,karpogory,ru
+7780,leshukonskoye,ru
+7781,vodnyy,ru
+7782,sosnogorsk,ru
+7783,nizhniy odes,ru
+7784,synya,ru
+7785,inta,ru
+7786,verkhnyaya inta,ru
+7787,aksarka,ru
+7788,nadym,ru
+7789,gubkinskiy,ru
+7790,purpe,ru
+7791,aykhal,ru
+7792,myaundzha,ru
+7793,sinegorye,ru
+7794,barrow,us
+7795,inuvik,ca
+7796,stykkisholmur,is
+7797,borgarnes,is
+7798,hvammstangi,is
+7799,blonduos,is
+7800,dalvik,is
+7801,husavik,is
+7802,kristiansund,no
+7803,a,no
+7804,rorvik,no
+7805,terrak,no
+7806,trofors,no
+7807,storforshei,no
+7808,skelleftea,se
+7809,pitea,se
+7810,lulea,se
+7811,raahe,fi
+7812,haukipudas,fi
+7813,kuusamo,fi
+7814,kostomuksha,ru
+7815,kalevala,ru
+7816,loukhi,ru
+7817,kem,ru
+7818,severodvinsk,ru
+7819,uyemskiy,ru
+7820,ust-tsilma,ru
+7821,shchelyayur,ru
+7822,izhma,ru
+7823,kozhva,ru
+7824,muzhi,ru
+7825,salekhard,ru
+7826,yar-sale,ru
+7827,staryy nadym,ru
+7828,pangody,ru
+7829,urengoy,ru
+7830,udachnyy,ru
+7831,zhigansk,ru
+7832,verkhoyansk,ru
+7833,zyryanka,ru
+7834,srednekolymsk,ru
+7835,cherskiy,ru
+7836,aklavik,ca
+7837,bolungarvik,is
+7838,skagastrond,is
+7839,bronnoysund,no
+7840,leland,no
+7841,korgen,no
+7842,rognan,no
+7843,straumen,no
+7844,beisfjord,no
+7845,kiruna,se
+7846,boden,se
+7847,tornio,fi
+7848,kemi,fi
+7849,rovaniemi,fi
+7850,kemijarvi,fi
+7851,pyaozerskiy,ru
+7852,zelenoborskiy,ru
+7853,umba,ru
+7854,arkhangelsk,ru
+7855,mezen,ru
+7856,puteyets,ru
+7857,usinsk,ru
+7858,yeletskiy,ru
+7859,labytnangi,ru
+7860,novyy urengoy,ru
+7861,igarka,ru
+7862,svetlogorsk,ru
+7863,batagay-alyta,ru
+7864,batagay,ru
+7865,deputatskiy,ru
+7866,khonuu,ru
+7867,belaya gora,ru
+7868,bilibino,ru
+7869,pevek,ru
+7870,clyde river,ca
+7871,qasigiannguit,gl
+7872,sorland,no
+7873,ornes,no
+7874,inndyr,no
+7875,loding,no
+7876,kjopsvik,no
+7877,alakurtti,ru
+7878,afrikanda,ru
+7879,lovozero,ru
+7880,ostrovnoy,ru
+7881,naryan-mar,ru
+7882,iskateley,ru
+7883,zapolyarnyy,ru
+7884,sovetskiy,ru
+7885,kharp,ru
+7886,tazovskiy,ru
+7887,mys shmidta,ru
+7888,tuktoyaktuk,ca
+7889,kangaatsiaq,gl
+7890,aasiaat,gl
+7891,ilulissat,gl
+7892,stamsund,no
+7893,svolvaer,no
+7894,ballangen,no
+7895,setermoen,no
+7896,kautokeino,no
+7897,karasjok,no
+7898,kovdor,ru
+7899,verkhnetulomskiy,ru
+7900,monchegorsk,ru
+7901,kirovsk,ru
+7902,tumannyy,ru
+7903,amderma,ru
+7904,severnyy,ru
+7905,karaul,ru
+7906,snezhnogorsk,ru
+7907,khatanga,ru
+7908,upernavik,gl
+7909,illoqqortoormiut,gl
+7910,gravdal,no
+7911,stokmarknes,no
+7912,myre,no
+7913,harstad,no
+7914,sjovegan,no
+7915,storsteinnes,no
+7916,skibotn,no
+7917,storslett,no
+7918,mehamn,no
+7919,bjornevatn,no
+7920,nikel,ru
+7921,murmansk,ru
+7922,polyarnyy,ru
+7923,belushya guba,ru
+7924,dudinka,ru
+7925,kayerkan,ru
+7926,norilsk,ru
+7927,talnakh,ru
+7928,saskylakh,ru
+7929,tiksi,ru
+7930,ust-kuyga,ru
+7931,chokurdakh,ru
+7932,andenes,no
+7933,finnsnes,no
+7934,tromso,no
+7935,lyngseidet,no
+7936,skjervoy,no
+7937,oksfjord,no
+7938,alta,no
+7939,rypefjord,no
+7940,lakselv,no
+7941,kjollefjord,no
+7942,vadso,no
+7943,vardo,no
+7944,pechenga,ru
+7945,skalistyy,ru
+7946,hammerfest,no
+7947,havoysund,no
+7948,honningsvag,no
+7949,berlevag,no
+7950,batsfjord,no
+7951,dikson,ru
+7952,nizhneyansk,ru
+7953,qaanaaq,gl
+7954,narsaq,gl
+7955,barentsburg,sj
+7956,longyearbyen,sj
